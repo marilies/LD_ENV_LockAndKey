@@ -811,3 +811,11 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.26-13.06.42:181][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2022.04.26-13.06.42:188][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2022.04.26-13.06.42:194][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.04.26-13.07.46:396][447]Cmd: TRANSACTION UNDO
+[2022.04.26-13.07.46:396][447]LogEditorTransaction: Undo Rotate Elements
+[2022.04.26-13.13.47:565][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.26-13.13.47:571][504]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003782 seconds
+[2022.04.26-13.13.47:573][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/51/YUYHMYXUTWFOJ66IZMLDWF_Auto1
+[2022.04.26-13.13.47:573][504]LogSavePackage: Moving '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/LD_ENV_LockAndKey/LD_ENV/Saved/YUYHMYXUTWFOJ66IZMLDWF_Auto17D641C8E4B3836A7DA3FB89620611245.tmp' to '../../../../../../Users/marik/Documents/FutureGames/LevelDesign/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/51/YUYHMYXUTWFOJ66IZMLDWF_Auto1.uasset'
+[2022.04.26-13.13.47:574][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2022.04.26-13.13.47:574][504]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
