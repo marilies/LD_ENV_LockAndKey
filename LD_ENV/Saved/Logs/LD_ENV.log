@@ -786,3 +786,245 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.27-12.16.39:619][322]LogEditorActor: Deleted Actor: StaticMeshActor
 [2022.04.27-12.16.39:636][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2022.04.27-12.16.39:637][322]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.04.27-12.17.42:611][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.27-12.17.42:617][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto2
+[2022.04.27-12.17.42:618][774]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2BFD13095439422143453699EB64FEE91.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap'
+[2022.04.27-12.17.42:624][774]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.022
+[2022.04.27-12.17.42:624][774]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2022.04.27-12.22.32:410][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner.fbx)
+[2022.04.27-12.22.32:419][790]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner.fbx
+[2022.04.27-12.22.32:424][790]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-12.22.34:054][790]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.27-12.22.34:070][790]LogFbx: Display: Triangulating static mesh WallCorner
+[2022.04.27-12.22.34:078][790]LogStaticMesh: Display: Building static mesh WallCorner...
+[2022.04.27-12.22.34:153][790]LogStaticMesh: Built static mesh [0.08s] /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.22.34:154][790]LogStaticMesh: Display: Building static mesh WallCorner...
+[2022.04.27-12.22.34:248][790]LogStaticMesh: Built static mesh [0.09s] /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.22.34:250][790]LogStaticMesh: Warning: WallCorner has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.22.34:250][790]LogStaticMesh: Warning: WallCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.22.34:257][790]FBXImport: Warning: WallCorner has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-12.22.34:257][790]FBXImport: Warning: WallCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-12.22.34:345][790]LogStaticMesh: Warning: WallCorner has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.22.34:345][790]LogStaticMesh: Warning: WallCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.22.44:198][320]LogWindows: LaunchURL https://docs.unrealengine.com/5.0/en//WorkingWithContent/Importing/FBX/FbxErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log#staticmesh_builderror
+[2022.04.27-12.25.22:253][857]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-12.25.22:259][857]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-12.25.36:437][169]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-12.25.36:437][169]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-12.25.45:805][224]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-12.25.45:805][224]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-12.25.46:840][313]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.25.46:904][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-12.26.23:959][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/WallCorner" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/WallCorner.uasset" SILENT=true
+[2022.04.27-12.26.23:963][687]LogSavePackage: Moving output files for package: /Game/Art/Walls/WallCorner
+[2022.04.27-12.26.23:963][687]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/WallCorner359B59A04255963A45361FA5015571C9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/WallCorner.uasset'
+[2022.04.27-12.26.23:977][687]AssetCheck: New page: Asset Save: WallCorner
+[2022.04.27-12.26.23:977][687]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.26.24:870][729]LogSlate: Window 'WallCorner' being destroyed
+[2022.04.27-12.26.24:906][729]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.26.24:906][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.26.26:150][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.26.26:150][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.26.26:151][787]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner.WallCorner as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_2
+[2022.04.27-12.26.28:685][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.26.28:685][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.26.28:685][972]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner.WallCorner as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_3
+[2022.04.27-12.26.28:838][974]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-12.26.34:649][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.26.34:649][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.26.34:650][217]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall02.Wall02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_4
+[2022.04.27-12.26.36:218][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.26.36:218][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.26.36:218][296]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall02.Wall02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_5
+[2022.04.27-12.26.41:006][526]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.26.41:075][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-12.26.45:499][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall02.uasset" SILENT=true
+[2022.04.27-12.26.45:502][745]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall02
+[2022.04.27-12.26.45:502][745]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall028DA2F6D849D15C12EE75A48CAA7C245F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall02.uasset'
+[2022.04.27-12.26.45:514][745]AssetCheck: New page: Asset Save: Wall02
+[2022.04.27-12.26.45:514][745]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.26.46:819][800]LogSlate: Window 'Wall02' being destroyed
+[2022.04.27-12.26.46:860][800]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.26.46:860][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.26.50:461][951]Cmd: DELETE
+[2022.04.27-12.26.50:461][951]Cmd: ACTOR DELETE
+[2022.04.27-12.26.50:465][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-12.26.50:483][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.27-12.26.50:484][951]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.04.27-12.26.51:859][  6]Cmd: DELETE
+[2022.04.27-12.26.51:859][  6]Cmd: ACTOR DELETE
+[2022.04.27-12.26.51:862][  6]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-12.26.51:869][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.27-12.26.51:870][  6]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.27-12.27.01:499][415]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.27.01:499][415]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.27.01:500][415]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall02.Wall02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_6
+[2022.04.27-12.27.03:573][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.27.03:573][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02.Wall02
+[2022.04.27-12.27.03:574][543]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall02.Wall02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_7
+[2022.04.27-12.27.03:740][549]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-12.27.09:565][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.27.09:565][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.27.09:565][857]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner.WallCorner as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_8
+[2022.04.27-12.27.10:672][931]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.27.10:672][931]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.27.10:673][931]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner.WallCorner as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_9
+[2022.04.27-12.27.11:338][965]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-12.27.12:804][ 40]Cmd: TRANSACTION UNDO
+[2022.04.27-12.27.12:804][ 40]LogEditorTransaction: Undo Move Elements
+[2022.04.27-12.27.52:784][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.27-12.27.52:793][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto3
+[2022.04.27-12.27.52:793][977]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto346AE4A7B4834C85A53ACABAA61736392.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto3.umap'
+[2022.04.27-12.27.52:799][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.022
+[2022.04.27-12.27.52:799][977]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2022.04.27-12.28.20:144][217]LogSlate: Window 'Message' being destroyed
+[2022.04.27-12.28.20:151][217]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Walls/WallCorner
+[2022.04.27-12.28.20:151][217]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner.fbx)
+[2022.04.27-12.28.20:152][217]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner.fbx]
+[2022.04.27-12.28.20:161][217]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner.fbx
+[2022.04.27-12.28.20:167][217]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-12.28.20:170][217]LogFbx: Display: Triangulating static mesh WallCorner
+[2022.04.27-12.28.20:180][217]LogStaticMesh: Display: Building static mesh WallCorner...
+[2022.04.27-12.28.20:255][217]LogStaticMesh: Built static mesh [0.08s] /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.28.20:256][217]LogStaticMesh: Display: Building static mesh WallCorner...
+[2022.04.27-12.28.20:356][217]LogStaticMesh: Built static mesh [0.10s] /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.28.20:357][217]LogStaticMesh: Warning: WallCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.28.20:363][217]LogEditorFactories: -- imported successfully
+[2022.04.27-12.28.20:363][217]FBXImport: Warning: WallCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-12.28.20:424][217]LogStaticMesh: Warning: WallCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.28.45:008][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01.Wall01
+[2022.04.27-12.28.45:008][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01.Wall01
+[2022.04.27-12.28.45:008][605]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall01.Wall01 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_11
+[2022.04.27-12.28.46:642][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01.Wall01
+[2022.04.27-12.28.46:642][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01.Wall01
+[2022.04.27-12.28.46:642][719]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall01.Wall01 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_12
+[2022.04.27-12.28.47:710][775]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-12.29.18:481][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-12.29.18:481][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-12.29.18:481][504]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_13
+[2022.04.27-12.29.20:433][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-12.29.20:433][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-12.29.20:434][632]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_14
+[2022.04.27-12.29.38:494][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-12.29.58:549][783]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-12.29.58:549][783]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-12.29.58:549][783]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_15
+[2022.04.27-12.29.59:990][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-12.29.59:990][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-12.29.59:991][877]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_16
+[2022.04.27-12.30.01:548][956]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-12.30.16:821][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.30.16:821][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.30.16:821][729]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner.WallCorner as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_17
+[2022.04.27-12.30.21:513][ 23]Cmd: TRANSACTION UNDO
+[2022.04.27-12.30.21:513][ 23]LogEditorTransaction: Undo Move Elements
+[2022.04.27-12.30.24:690][189]Cmd: TRANSACTION REDO
+[2022.04.27-12.30.24:690][189]LogEditorTransaction: Redo Move Elements
+[2022.04.27-12.30.25:990][228]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.30.25:990][228]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.30.25:990][228]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner.WallCorner as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_18
+[2022.04.27-12.30.27:768][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.30.27:768][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner.WallCorner
+[2022.04.27-12.30.27:769][347]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner.WallCorner as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_19
+[2022.04.27-12.30.38:270][973]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-12.37.15:211][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.27-12.37.16:176][211]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.27-12.37.16:215][211]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Art/Walls/WallCorner.WallCorner
+	Asset Type: StaticMesh
+[2022.04.27-12.37.16:441][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.27-12.37.16:449][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.04.27-12.37.16:458][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.04.27-12.37.48:256][346]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner01.fbx)
+[2022.04.27-12.37.48:265][346]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner01.fbx
+[2022.04.27-12.37.48:270][346]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-12.37.49:685][346]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.27-12.37.49:710][346]LogFbx: Display: Triangulating static mesh WallCorner01
+[2022.04.27-12.37.49:718][346]LogStaticMesh: Display: Building static mesh WallCorner01...
+[2022.04.27-12.37.49:796][346]LogStaticMesh: Built static mesh [0.08s] /Game/Art/Walls/WallCorner01.WallCorner01
+[2022.04.27-12.37.49:802][346]LogStaticMesh: Display: Building static mesh WallCorner01...
+[2022.04.27-12.37.49:894][346]LogStaticMesh: Built static mesh [0.09s] /Game/Art/Walls/WallCorner01.WallCorner01
+[2022.04.27-12.37.49:896][346]LogStaticMesh: Warning: WallCorner01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.37.49:901][346]FBXImport: Warning: WallCorner01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-12.37.49:987][346]LogStaticMesh: Warning: WallCorner01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.37.49:987][346]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner02.fbx)
+[2022.04.27-12.37.50:007][346]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner02.fbx
+[2022.04.27-12.37.50:013][346]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-12.37.50:015][346]LogFbx: Display: Triangulating static mesh WallCorner02
+[2022.04.27-12.37.50:038][346]LogStaticMesh: Display: Building static mesh WallCorner02...
+[2022.04.27-12.37.50:180][346]LogStaticMesh: Built static mesh [0.14s] /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.37.50:181][346]LogStaticMesh: Display: Building static mesh WallCorner02...
+[2022.04.27-12.37.50:362][346]LogStaticMesh: Built static mesh [0.18s] /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.37.50:364][346]LogStaticMesh: Warning: WallCorner02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.37.50:370][346]FBXImport: Warning: WallCorner02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-12.37.50:460][346]LogStaticMesh: Warning: WallCorner02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.37.58:875][822]LogWindows: LaunchURL https://docs.unrealengine.com/5.0/en//WorkingWithContent/Importing/FBX/FbxErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log#staticmesh_builderror
+[2022.04.27-12.38.23:786][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.27-12.38.23:794][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4
+[2022.04.27-12.38.23:795][897]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto4F274AF3B4E0212E30F21E18F7F1427A1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto4.umap'
+[2022.04.27-12.38.23:800][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.022
+[2022.04.27-12.38.23:800][897]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2022.04.27-12.38.23:800][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Walls/WallCorner01] ([1] browsable assets)...
+[2022.04.27-12.38.23:838][897]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Walls/WallCorner01.WallCorner01]
+[2022.04.27-12.38.23:839][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Walls/WallCorner01]
+[2022.04.27-12.38.23:839][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/WallCorner01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/WallCorner01_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.04.27-12.38.23:842][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Walls/WallCorner01_Auto4
+[2022.04.27-12.38.23:842][897]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/WallCorner01_Auto411DF6A8F4B37D15ACC5F97AD7F0A7B7E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/WallCorner01_Auto4.uasset'
+[2022.04.27-12.38.23:843][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Walls/WallCorner02] ([1] browsable assets)...
+[2022.04.27-12.38.23:855][897]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02]
+[2022.04.27-12.38.23:855][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Walls/WallCorner02]
+[2022.04.27-12.38.23:855][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/WallCorner02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/WallCorner02_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.04.27-12.38.23:863][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Walls/WallCorner02_Auto4
+[2022.04.27-12.38.23:863][897]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/WallCorner02_Auto407289EF64CE6C88ADC78FA82346DDAEE.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/WallCorner02_Auto4.uasset'
+[2022.04.27-12.38.23:863][897]LogFileHelpers: Auto-saving content packages took 0.063
+[2022.04.27-12.41.29:547][636]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-12.41.29:554][636]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-12.41.35:259][754]LogSlate: Window 'Message' being destroyed
+[2022.04.27-12.41.35:267][754]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Walls/WallCorner02
+[2022.04.27-12.41.35:268][754]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner02.fbx)
+[2022.04.27-12.41.35:269][754]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner02.fbx]
+[2022.04.27-12.41.35:277][754]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/WallCorner02.fbx
+[2022.04.27-12.41.35:283][754]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-12.41.35:287][754]LogFbx: Display: Triangulating static mesh WallCorner02
+[2022.04.27-12.41.35:304][754]LogStaticMesh: Display: Building static mesh WallCorner02...
+[2022.04.27-12.41.35:496][754]LogStaticMesh: Built static mesh [0.19s] /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.41.35:496][754]LogStaticMesh: Display: Building static mesh WallCorner02...
+[2022.04.27-12.41.35:718][754]LogStaticMesh: Built static mesh [0.22s] /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.41.35:720][754]LogStaticMesh: Warning: WallCorner02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.41.35:720][754]LogStaticMesh: Warning: WallCorner02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.41.35:726][754]LogEditorFactories: -- imported successfully
+[2022.04.27-12.41.35:727][754]FBXImport: Warning: WallCorner02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-12.41.35:727][754]FBXImport: Warning: WallCorner02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-12.41.35:822][754]LogStaticMesh: Warning: WallCorner02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.41.35:822][754]LogStaticMesh: Warning: WallCorner02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-12.41.39:395][952]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.41.39:467][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-12.41.46:071][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/WallCorner02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/WallCorner02.uasset" SILENT=true
+[2022.04.27-12.41.46:076][316]LogSavePackage: Moving output files for package: /Game/Art/Walls/WallCorner02
+[2022.04.27-12.41.46:076][316]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/WallCorner02E7AF7C054EE4FF586F5D2DBABFF55F9B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/WallCorner02.uasset'
+[2022.04.27-12.41.46:093][316]AssetCheck: New page: Asset Save: WallCorner02
+[2022.04.27-12.41.46:093][316]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.41.47:122][365]LogSlate: Window 'WallCorner02' being destroyed
+[2022.04.27-12.41.47:165][365]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.47:165][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.41.48:138][413]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/WallCorner01.WallCorner01
+[2022.04.27-12.41.48:201][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-12.41.53:542][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/WallCorner01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/WallCorner01.uasset" SILENT=true
+[2022.04.27-12.41.53:545][673]LogSavePackage: Moving output files for package: /Game/Art/Walls/WallCorner01
+[2022.04.27-12.41.53:546][673]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/WallCorner010FA56A174927C50D1B0A03B8F35EFCE4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/WallCorner01.uasset'
+[2022.04.27-12.41.53:562][673]AssetCheck: New page: Asset Save: WallCorner01
+[2022.04.27-12.41.53:562][673]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/WallCorner01.WallCorner01
+[2022.04.27-12.41.54:588][721]LogSlate: Window 'WallCorner01' being destroyed
+[2022.04.27-12.41.54:623][721]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.41.54:624][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.42.03:542][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.42.03:543][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.42.03:543][117]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_20
+[2022.04.27-12.42.05:788][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.42.05:788][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-12.42.05:789][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_21
+[2022.04.27-12.42.15:802][847]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
