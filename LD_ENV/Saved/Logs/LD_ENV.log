@@ -1044,3 +1044,41 @@ An asset already exists at the import location: /Game/Art/Walls/Wall02_Door
 [2022.04.27-16.21.34:930][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
 [2022.04.27-16.21.34:930][722]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_26
 [2022.04.27-16.21.34:986][724]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-16.22.27:420][851]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Wall29)
+[2022.04.27-16.27.54:994][446]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Pillar01.fbx)
+[2022.04.27-16.27.55:031][446]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Pillar01.fbx
+[2022.04.27-16.27.55:037][446]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-16.27.56:873][446]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.27-16.27.56:929][446]LogFbx: Display: Triangulating static mesh Pillar01
+[2022.04.27-16.27.56:931][446]LogStaticMesh: Display: Building static mesh Pillar01...
+[2022.04.27-16.27.56:945][446]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Walls/Pillar01.Pillar01
+[2022.04.27-16.27.56:946][446]LogStaticMesh: Display: Building static mesh Pillar01...
+[2022.04.27-16.27.56:965][446]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Walls/Pillar01.Pillar01
+[2022.04.27-16.27.57:006][446]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Pillar02.fbx)
+[2022.04.27-16.27.57:015][446]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Pillar02.fbx
+[2022.04.27-16.27.57:021][446]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-16.27.57:022][446]LogFbx: Display: Triangulating static mesh Pillar02
+[2022.04.27-16.27.57:026][446]LogStaticMesh: Display: Building static mesh Pillar02...
+[2022.04.27-16.27.57:046][446]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Walls/Pillar02.Pillar02
+[2022.04.27-16.27.57:047][446]LogStaticMesh: Display: Building static mesh Pillar02...
+[2022.04.27-16.27.57:064][446]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Walls/Pillar02.Pillar02
+[2022.04.27-16.27.59:579][503]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/Pillar01.Pillar01
+[2022.04.27-16.27.59:673][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-16.28.04:641][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Pillar01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar01.uasset" SILENT=true
+[2022.04.27-16.28.04:645][570]LogSavePackage: Moving output files for package: /Game/Art/Walls/Pillar01
+[2022.04.27-16.28.04:645][570]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar01492CCB30404D7C98D12B4B9D4553042A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar01.uasset'
+[2022.04.27-16.28.04:659][570]AssetCheck: New page: Asset Save: Pillar01
+[2022.04.27-16.28.04:659][570]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Pillar01.Pillar01
+[2022.04.27-16.28.06:210][598]LogSlate: Window 'Pillar01' being destroyed
+[2022.04.27-16.28.06:325][598]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-16.28.06:325][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-16.28.07:115][616]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/Pillar02.Pillar02
+[2022.04.27-16.28.07:337][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-16.28.12:474][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Pillar02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar02.uasset" SILENT=true
+[2022.04.27-16.28.12:478][685]LogSavePackage: Moving output files for package: /Game/Art/Walls/Pillar02
+[2022.04.27-16.28.12:478][685]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar02AC3A17584680B338109E2A8634F81DEA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar02.uasset'
+[2022.04.27-16.28.12:501][685]AssetCheck: New page: Asset Save: Pillar02
+[2022.04.27-16.28.12:501][685]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Pillar02.Pillar02
+[2022.04.27-16.28.13:693][707]LogSlate: Window 'Pillar02' being destroyed
+[2022.04.27-16.28.13:812][707]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-16.28.13:812][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
