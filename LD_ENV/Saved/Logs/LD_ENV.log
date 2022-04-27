@@ -877,3 +877,170 @@ An asset already exists at the import location: /Game/Art/Mountains/Cliff01
 [2022.04.27-15.56.49:046][987]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Cliff019B2B8B614ECFA182D3A82197F54B6479.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Cliff01.uasset'
 [2022.04.27-15.56.49:069][987]AssetCheck: New page: Asset Save: Cliff01
 [2022.04.27-15.56.49:069][987]LogContentValidation: Display: Validating StaticMesh /Game/Art/Mountains/Cliff01.Cliff01
+[2022.04.27-16.02.51:903][744]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall01_Door.fbx)
+[2022.04.27-16.02.51:945][744]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall01_Door.fbx
+[2022.04.27-16.02.51:950][744]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-16.02.53:415][744]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.27-16.02.53:463][744]LogFbx: Display: Triangulating static mesh Wall01_Door
+[2022.04.27-16.02.53:466][744]LogStaticMesh: Display: Building static mesh Wall01_Door...
+[2022.04.27-16.02.53:484][744]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.02.53:486][744]LogStaticMesh: Display: Building static mesh Wall01_Door...
+[2022.04.27-16.02.53:513][744]LogStaticMesh: Built static mesh [0.03s] /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.02.53:514][744]LogStaticMesh: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.27-16.02.53:514][744]LogStaticMesh: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.02.53:514][744]LogStaticMesh: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.02.53:520][744]FBXImport: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.27-16.02.53:520][744]FBXImport: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-16.02.53:520][744]FBXImport: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-16.02.53:600][744]LogStaticMesh: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.27-16.02.53:600][744]LogStaticMesh: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.02.53:600][744]LogStaticMesh: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.03.14:762][164]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-16.03.14:835][164]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-16.03.17:070][222]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.03.17:153][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-16.03.22:684][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall01_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall01_Door.uasset" SILENT=true
+[2022.04.27-16.03.22:687][301]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall01_Door
+[2022.04.27-16.03.22:687][301]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall01_DoorCA8525D84CA0C1C4B521C3BD239DC283.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall01_Door.uasset'
+[2022.04.27-16.03.22:714][301]AssetCheck: New page: Asset Save: Wall01_Door
+[2022.04.27-16.03.22:714][301]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.03.23:817][320]LogSlate: Window 'Wall01_Door' being destroyed
+[2022.04.27-16.03.23:934][320]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-16.03.23:934][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-16.03.25:433][358]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.03.25:515][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-16.03.30:600][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall01_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall01_Door.uasset" SILENT=true
+[2022.04.27-16.03.30:603][434]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall01_Door
+[2022.04.27-16.03.30:604][434]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall01_DoorA9B87E394001E06C3DC5CCAF72B130D0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall01_Door.uasset'
+[2022.04.27-16.03.30:631][434]AssetCheck: New page: Asset Save: Wall01_Door
+[2022.04.27-16.03.30:632][434]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.03.31:793][456]LogSlate: Window 'Wall01_Door' being destroyed
+[2022.04.27-16.03.31:905][456]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-16.03.31:905][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-16.03.33:227][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.03.33:227][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.03.33:227][488]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_11
+[2022.04.27-16.03.34:083][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.03.34:083][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.03.34:084][512]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_13
+[2022.04.27-16.03.34:335][519]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-16.05.39:316][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.27-16.05.39:324][949]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto2
+[2022.04.27-16.05.39:325][949]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2DAA9D22A4BB462F9AF762A9BECB0B0F4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap'
+[2022.04.27-16.05.39:330][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.27-16.05.39:346][949]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto2
+[2022.04.27-16.05.39:346][949]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto291B07B23416453AD5908009180980F4E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto2.umap'
+[2022.04.27-16.05.39:351][949]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.045
+[2022.04.27-16.05.39:351][949]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.04.27-16.19.08:250][564]LogSlate: Window 'Message' being destroyed
+[2022.04.27-16.19.08:272][564]Message dialog closed, result: Cancel, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Walls/Wall01_Door
+[2022.04.27-16.19.12:957][628]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall02_Door.fbx)
+[2022.04.27-16.19.12:995][628]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall02_Door.fbx
+[2022.04.27-16.19.12:999][628]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-16.19.14:503][628]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.27-16.19.14:555][628]LogFbx: Display: Triangulating static mesh Wall02_Door
+[2022.04.27-16.19.14:558][628]LogStaticMesh: Display: Building static mesh Wall02_Door...
+[2022.04.27-16.19.14:574][628]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.19.14:575][628]LogStaticMesh: Display: Building static mesh Wall02_Door...
+[2022.04.27-16.19.14:595][628]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.19.14:596][628]LogStaticMesh: Warning: Wall02_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.27-16.19.14:596][628]LogStaticMesh: Warning: Wall02_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.19.14:596][628]LogStaticMesh: Warning: Wall02_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.19.14:622][628]FBXImport: Warning: Wall02_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.27-16.19.14:622][628]FBXImport: Warning: Wall02_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-16.19.14:622][628]FBXImport: Warning: Wall02_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-16.19.14:796][628]LogStaticMesh: Warning: Wall02_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.27-16.19.14:796][628]LogStaticMesh: Warning: Wall02_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.19.14:796][628]LogStaticMesh: Warning: Wall02_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.19.23:963][808]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-16.19.24:036][808]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-16.19.50:507][985]LogSlate: Window 'Message' being destroyed
+[2022.04.27-16.19.50:549][985]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Walls/Wall02_Door
+[2022.04.27-16.19.50:550][985]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall02_Door.fbx)
+[2022.04.27-16.19.50:552][985]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall02_Door.fbx]
+[2022.04.27-16.19.50:612][985]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall02_Door.fbx
+[2022.04.27-16.19.50:618][985]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-16.19.50:642][985]LogFbx: Display: Triangulating static mesh Wall02_Door
+[2022.04.27-16.19.50:644][985]LogStaticMesh: Display: Building static mesh Wall02_Door...
+[2022.04.27-16.19.50:659][985]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.19.50:659][985]LogStaticMesh: Display: Building static mesh Wall02_Door...
+[2022.04.27-16.19.50:683][985]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.19.50:684][985]LogStaticMesh: Warning: Wall02_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.27-16.19.50:684][985]LogStaticMesh: Warning: Wall02_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.19.50:684][985]LogStaticMesh: Warning: Wall02_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.19.50:689][985]LogEditorFactories: -- imported successfully
+[2022.04.27-16.19.50:690][985]FBXImport: Warning: Wall02_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.27-16.19.50:690][985]FBXImport: Warning: Wall02_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-16.19.50:690][985]FBXImport: Warning: Wall02_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.27-16.19.50:772][985]LogStaticMesh: Warning: Wall02_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.27-16.19.50:772][985]LogStaticMesh: Warning: Wall02_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.19.50:772][985]LogStaticMesh: Warning: Wall02_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.27-16.19.54:240][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.27-16.19.54:241][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.033
+[2022.04.27-16.19.54:246][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Walls/Wall02_Door] ([1] browsable assets)...
+[2022.04.27-16.19.54:266][ 31]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door]
+[2022.04.27-16.19.54:266][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Walls/Wall02_Door]
+[2022.04.27-16.19.54:266][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall02_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/Wall02_Door_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.27-16.19.54:270][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Walls/Wall02_Door_Auto3
+[2022.04.27-16.19.54:270][ 31]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall02_Door_Auto3A9BA6F014D06160995C5D09475C434BB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/Wall02_Door_Auto3.uasset'
+[2022.04.27-16.19.54:271][ 31]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.04.27-16.19.56:401][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.19.56:401][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.19.56:402][ 58]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_14
+[2022.04.27-16.19.58:053][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.19.58:053][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.27-16.19.58:053][ 95]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall01_Door.Wall01_Door as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_15
+[2022.04.27-16.19.58:422][106]Cmd: TRANSACTION UNDO
+[2022.04.27-16.19.58:422][106]LogEditorTransaction: Undo Create Actors
+[2022.04.27-16.19.59:263][118]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.19.59:361][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-16.20.07:542][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall02_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall02_Door.uasset" SILENT=true
+[2022.04.27-16.20.07:546][223]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall02_Door
+[2022.04.27-16.20.07:546][223]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall02_Door33B339054E5FEC86709E1DB03AF662F2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall02_Door.uasset'
+[2022.04.27-16.20.07:560][223]AssetCheck: New page: Asset Save: Wall02_Door
+[2022.04.27-16.20.07:560][223]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.08:633][241]LogSlate: Window 'Wall02_Door' being destroyed
+[2022.04.27-16.20.08:751][241]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-16.20.08:751][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-16.20.09:786][265]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.09:786][265]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.09:786][265]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_16
+[2022.04.27-16.20.11:171][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.11:171][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.11:171][304]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_17
+[2022.04.27-16.20.12:516][343]Cmd: TRANSACTION UNDO
+[2022.04.27-16.20.12:516][343]LogEditorTransaction: Undo Create Actors
+[2022.04.27-16.20.14:020][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.14:020][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.14:020][365]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_18
+[2022.04.27-16.20.16:483][421]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.16:483][421]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.27-16.20.16:483][421]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall02_Door.Wall02_Door as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_19
+[2022.04.27-16.20.16:712][427]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-16.20.45:786][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.27-16.20.45:796][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.27-16.20.45:814][310]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.27-16.20.45:815][310]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidF4683CFA4A5473C0649A13A558A1E8C4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.27-16.20.45:821][310]LogFileHelpers: No new changes to save!
+[2022.04.27-16.20.45:832][310]AssetCheck: New page: Asset Save: David
+[2022.04.27-16.20.45:832][310]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.27-16.20.50:380][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-16.20.50:380][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-16.20.50:381][429]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_21
+[2022.04.27-16.20.51:807][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-16.20.51:807][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.27-16.20.51:808][469]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_23
+[2022.04.27-16.21.04:045][828]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-16.21.13:219][100]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-16.21.20:650][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-16.21.32:846][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-16.21.32:846][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-16.21.32:846][662]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_24
+[2022.04.27-16.21.34:930][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-16.21.34:930][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.27-16.21.34:930][722]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_26
+[2022.04.27-16.21.34:986][724]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
