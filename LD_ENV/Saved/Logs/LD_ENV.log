@@ -870,3 +870,10 @@ An asset already exists at the import location: /Game/Art/Mountains/Cliff01
 [2022.04.27-15.55.38:931][ 92]LogFileHelpers: No new changes to save!
 [2022.04.27-15.55.38:944][ 92]AssetCheck: New page: Asset Save: Main
 [2022.04.27-15.55.38:944][ 92]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.27-15.56.18:044][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-15.56.34:078][569]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Cube)
+[2022.04.27-15.56.49:042][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Mountains/Cliff01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Cliff01.uasset" SILENT=true
+[2022.04.27-15.56.49:046][987]LogSavePackage: Moving output files for package: /Game/Art/Mountains/Cliff01
+[2022.04.27-15.56.49:046][987]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Cliff019B2B8B614ECFA182D3A82197F54B6479.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Cliff01.uasset'
+[2022.04.27-15.56.49:069][987]AssetCheck: New page: Asset Save: Cliff01
+[2022.04.27-15.56.49:069][987]LogContentValidation: Display: Validating StaticMesh /Game/Art/Mountains/Cliff01.Cliff01
