@@ -1028,3 +1028,10 @@ An asset already exists at the import location: /Game/Art/Walls/WallCorner02
 [2022.04.27-12.42.05:788][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02
 [2022.04.27-12.42.05:789][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/WallCorner02.WallCorner02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_21
 [2022.04.27-12.42.15:802][847]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-12.43.13:215][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.27-12.43.13:226][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.27-12.43.13:235][  5]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.27-12.43.13:236][  5]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main17033E544E3F1C16D40EFFAFDAA76ADB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.27-12.43.13:246][  5]LogFileHelpers: No new changes to save!
+[2022.04.27-12.43.13:257][  5]AssetCheck: New page: Asset Save: Main
+[2022.04.27-12.43.13:257][  5]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
