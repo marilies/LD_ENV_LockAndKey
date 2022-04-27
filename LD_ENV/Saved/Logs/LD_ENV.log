@@ -967,3 +967,12 @@ An asset already exists at the import location: /Game/Art/Mountains/Mountain01
 [2022.04.27-15.37.39:698][798]LogFileHelpers: No new changes to save!
 [2022.04.27-15.37.39:711][798]AssetCheck: New page: Asset Save: David
 [2022.04.27-15.37.39:711][798]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.27-15.38.44:733][303]LogSlate: Window 'Message' being destroyed
+[2022.04.27-15.38.44:742][303]Message dialog closed, result: Ok, title: Message, text: Save aborted.  Level must be unlocked before it can be saved.
+[2022.04.27-15.38.47:799][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.27-15.38.47:805][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.27-15.38.47:813][413]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.27-15.38.47:814][413]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main110F3D994DFF72823BB265BDD7650486.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.27-15.38.47:821][413]LogFileHelpers: No new changes to save!
+[2022.04.27-15.38.47:834][413]AssetCheck: New page: Asset Save: Main
+[2022.04.27-15.38.47:834][413]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
