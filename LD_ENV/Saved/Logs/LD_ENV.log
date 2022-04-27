@@ -751,3 +751,118 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.27-08.00.54:892][425]LogSlate: Window 'Wall01_half' being destroyed
 [2022.04.27-08.00.54:928][425]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2022.04.27-08.00.54:928][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-08.01.49:528][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.27-08.01.49:534][593]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1
+[2022.04.27-08.01.49:534][593]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto1ABC733CF47868226B97B4197873F13C8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto1.umap'
+[2022.04.27-08.01.49:539][593]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.017
+[2022.04.27-08.01.49:539][593]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.017
+[2022.04.27-08.03.38:282][238]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Floor01.fbx)
+[2022.04.27-08.03.38:325][238]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Floor01.fbx
+[2022.04.27-08.03.38:329][238]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-08.03.39:850][238]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.27-08.03.39:900][238]LogFbx: Display: Triangulating static mesh Floor01
+[2022.04.27-08.03.39:901][238]LogStaticMesh: Display: Building static mesh Floor01...
+[2022.04.27-08.03.39:904][238]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Floors/Floor01.Floor01
+[2022.04.27-08.03.39:904][238]LogStaticMesh: Display: Building static mesh Floor01...
+[2022.04.27-08.03.39:908][238]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Floors/Floor01.Floor01
+[2022.04.27-08.03.41:701][376]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Floors/Floor01.Floor01
+[2022.04.27-08.03.41:757][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-08.03.48:100][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Floors/Floor01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor01.uasset" SILENT=true
+[2022.04.27-08.03.48:104][766]LogSavePackage: Moving output files for package: /Game/Art/Floors/Floor01
+[2022.04.27-08.03.48:104][766]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Floor018A278BF744DA10A43E752BA84435D49E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor01.uasset'
+[2022.04.27-08.03.48:113][766]AssetCheck: New page: Asset Save: Floor01
+[2022.04.27-08.03.48:113][766]LogContentValidation: Display: Validating StaticMesh /Game/Art/Floors/Floor01.Floor01
+[2022.04.27-08.03.49:379][857]LogSlate: Window 'Floor01' being destroyed
+[2022.04.27-08.03.49:407][857]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.03.49:407][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-08.04.01:908][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-08.04.03:639][256]Cmd: DELETE
+[2022.04.27-08.04.03:639][256]Cmd: ACTOR DELETE
+[2022.04.27-08.04.03:645][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.04.03:652][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.27-08.04.03:654][256]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.04.27-08.04.07:385][689]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Cube)
+[2022.04.27-08.04.07:621][716]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-08.04.07:621][716]Can't find target element.
+[2022.04.27-08.04.08:616][834]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Cylinder_Brush_StaticMesh13)
+[2022.04.27-08.04.09:295][914]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Cube)
+[2022.04.27-08.04.18:696][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Floors/Floor01.Floor01
+[2022.04.27-08.04.18:696][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Floors/Floor01.Floor01
+[2022.04.27-08.04.18:697][747]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Floors/Floor01.Floor01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_0
+[2022.04.27-08.04.19:107][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Floors/Floor01.Floor01
+[2022.04.27-08.04.19:107][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Floors/Floor01.Floor01
+[2022.04.27-08.04.19:108][788]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Floors/Floor01.Floor01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2
+[2022.04.27-08.04.19:549][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-08.04.23:549][283]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-08.04.29:346][924]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-08.04.38:907][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-08.04.53:020][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.27-08.05.01:634][ 55]Cmd: DELETE
+[2022.04.27-08.05.01:634][ 55]Cmd: ACTOR DELETE
+[2022.04.27-08.05.01:636][ 55]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.05.01:647][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.27-08.05.01:649][ 55]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.04.27-08.06.27:000][608]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Floor02.fbx)
+[2022.04.27-08.06.27:024][608]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Floor02.fbx
+[2022.04.27-08.06.27:029][608]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-08.06.28:675][608]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.27-08.06.28:729][608]LogFbx: Display: Triangulating static mesh pCube1
+[2022.04.27-08.06.28:730][608]LogStaticMesh: Display: Building static mesh Floor02...
+[2022.04.27-08.06.28:733][608]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Floors/Floor02.Floor02
+[2022.04.27-08.06.28:733][608]LogStaticMesh: Display: Building static mesh Floor02...
+[2022.04.27-08.06.28:737][608]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Floors/Floor02.Floor02
+[2022.04.27-08.06.30:382][736]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Floors/Floor02.Floor02
+[2022.04.27-08.06.30:448][736]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-08.06.39:636][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Floors/Floor02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor02.uasset" SILENT=true
+[2022.04.27-08.06.39:640][326]LogSavePackage: Moving output files for package: /Game/Art/Floors/Floor02
+[2022.04.27-08.06.39:640][326]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Floor02DE25ECED4838140DC35E3F8DEC5691CF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor02.uasset'
+[2022.04.27-08.06.39:649][326]AssetCheck: New page: Asset Save: Floor02
+[2022.04.27-08.06.39:649][326]LogContentValidation: Display: Validating StaticMesh /Game/Art/Floors/Floor02.Floor02
+[2022.04.27-08.06.40:833][415]LogSlate: Window 'Floor02' being destroyed
+[2022.04.27-08.06.40:840][415]LogSlate: Window 'Floor02' being destroyed
+[2022.04.27-08.06.40:864][415]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.06.40:864][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-08.06.43:020][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.27-08.06.44:725][645]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.27-08.06.44:767][645]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Art/Floors/Floor1x1.Floor1x1
+	Asset Type: StaticMesh
+[2022.04.27-08.06.44:878][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.27-08.06.44:884][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.27-08.06.44:890][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.27-08.06.46:580][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.04.27-08.06.47:610][780]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.27-08.06.47:651][780]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Art/Floors/Floor2x2.Floor2x2
+	Asset Type: StaticMesh
+[2022.04.27-08.06.47:749][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.04.27-08.06.47:755][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.04.27-08.06.47:760][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.04.27-08.06.48:796][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.27-08.06.50:294][884]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.27-08.06.50:336][884]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Art/Floors/Floor_25x_25.Floor_25x_25
+	Asset Type: StaticMesh
+[2022.04.27-08.06.50:434][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.04.27-08.06.50:440][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.04.27-08.06.50:445][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.04.27-08.08.17:147][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Floor01_half.fbx)
+[2022.04.27-08.08.17:177][105]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Floor01_half.fbx
+[2022.04.27-08.08.17:181][105]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.27-08.08.58:938][105]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.27-08.08.58:987][105]LogFbx: Display: Triangulating static mesh Floor01_Half
+[2022.04.27-08.08.58:988][105]LogStaticMesh: Display: Building static mesh Floor01_half...
+[2022.04.27-08.08.58:991][105]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Floors/Floor01_half.Floor01_half
+[2022.04.27-08.08.58:991][105]LogStaticMesh: Display: Building static mesh Floor01_half...
+[2022.04.27-08.08.58:995][105]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Floors/Floor01_half.Floor01_half
+[2022.04.27-08.09.00:853][254]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Floors/Floor01_half.Floor01_half
+[2022.04.27-08.09.00:909][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-08.09.07:544][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Floors/Floor01_half" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor01_half.uasset" SILENT=true
+[2022.04.27-08.09.07:548][712]LogSavePackage: Moving output files for package: /Game/Art/Floors/Floor01_half
+[2022.04.27-08.09.07:548][712]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Floor01_halfD3A4B73E44AB7315433159A9EF782CB4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor01_half.uasset'
+[2022.04.27-08.09.07:558][712]AssetCheck: New page: Asset Save: Floor01_half
+[2022.04.27-08.09.07:558][712]LogContentValidation: Display: Validating StaticMesh /Game/Art/Floors/Floor01_half.Floor01_half
+[2022.04.27-08.09.08:987][811]LogSlate: Window 'Floor01_half' being destroyed
+[2022.04.27-08.09.08:994][811]LogSlate: Window 'Floor01_half' being destroyed
+[2022.04.27-08.09.09:014][811]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.09.09:014][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
