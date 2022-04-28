@@ -1187,3 +1187,32 @@ An asset already exists at the import location: /Game/Art/Walls/Wall_Catacomb02
 [2022.04.28-08.28.13:402][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
 [2022.04.28-08.28.13:402][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
 [2022.04.28-08.28.13:403][557]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_73
+[2022.04.28-08.37.17:105][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.28-08.37.17:108][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.28-08.37.17:125][ 33]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto7
+[2022.04.28-08.37.17:125][ 33]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto735F9B00E4562243B0A546F93A545E9B1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto7.umap'
+[2022.04.28-08.37.17:130][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.039
+[2022.04.28-08.37.17:130][ 33]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2022.04.28-08.41.02:490][366]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Wall137)
+[2022.04.28-08.41.08:068][562]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-08.42.14:447][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.28-08.42.16:202][423]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-08.42.16:298][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Arch01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Arch01.uasset" SILENT=true
+[2022.04.28-08.42.16:300][423]LogSavePackage: Moving output files for package: /Game/Art/Walls/Arch01
+[2022.04.28-08.42.16:301][423]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Arch0125A10D7246D210A7DDF6909A2712C5D5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Arch01.uasset'
+[2022.04.28-08.42.16:301][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-08.42.16:308][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.28-08.42.16:329][423]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-08.42.16:329][423]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David7774636447883ABA31E3728E68632644.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-08.42.16:337][423]LogFileHelpers: No new changes to save!
+[2022.04.28-08.42.16:337][423]LogFileHelpers: Saving map 'David' took 0.036
+[2022.04.28-08.42.16:337][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-08.42.16:344][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.28-08.42.16:351][423]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-08.42.16:351][423]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main561D648E473A9E4AA0A2A9AA475943E3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-08.42.16:360][423]LogFileHelpers: No new changes to save!
+[2022.04.28-08.42.16:360][423]LogFileHelpers: Saving map 'Main' took 0.022
+[2022.04.28-08.42.16:369][423]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-08.42.16:369][423]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.28-08.42.16:369][423]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-08.42.16:369][423]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Arch01.Arch01
