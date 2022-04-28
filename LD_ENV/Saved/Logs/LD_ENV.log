@@ -761,3 +761,271 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.28-14.49.14:606][ 35]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.28-14.49.14:606][ 35]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
 [2022.04.28-14.49.14:607][ 35]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-14.57.15:553][907]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.28-14.57.15:558][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-14.57.15:559][907]PIE: New page: PIE session: Main (28 Apr 2022, 18:57:15)
+[2022.04.28-14.57.15:561][907]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.04.28-14.57.15:561][907]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.28-14.57.15:561][907]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.28-14.57.15:566][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004378s)
+[2022.04.28-14.57.15:566][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.004439s)
+[2022.04.28-14.57.15:566][907]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.28-14.57.15:566][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-14.57.15:566][907]LogAIModule: Creating AISystem for world Main
+[2022.04.28-14.57.15:566][907]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2022.04.28-14.57.15:574][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.28-14.57.15:574][907]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.28-14.57.15:574][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.28-14.57.15:574][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.28-14.57.15:574][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.28-14.57.15:574][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.28-14.57.15:574][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.28-14.57.15:574][907]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.28-14.57.15:574][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.28-14.57.15:574][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.28-14.57.15:575][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.28-14.57.15:575][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.28-14.57.15:575][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.28-14.57.15:576][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.28-14.57.15:615][907]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.28-14.57.15:616][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.28-14.57.15:616][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.28-14.57.15:616][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.28-14.57.15:617][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.04.28-14.57.15:617][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.04.28-14.57.15:618][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.04.28-14.57.15:618][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.04.28-14.57.15:618][907]LogInit: FAudioDevice initialized.
+[2022.04.28-14.57.15:618][907]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2022.04.28-14.57.15:735][907]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.04.28-14.57.15:816][907]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.28-16.57.15
+[2022.04.28-14.57.15:817][907]LogWorld: Bringing up level for play took: 0.002418
+[2022.04.28-14.57.15:819][907]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.04.28-14.57.15:836][907]PIE: Server logged in
+[2022.04.28-14.57.15:837][907]PIE: Play in editor total start time 0,279 seconds.
+[2022.04.28-14.57.31:474][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-14.57.31:474][369]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.28-14.57.31:480][369]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-14.57.31:480][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-14.57.31:493][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-14.57.31:496][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-14.57.31:502][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.28-14.57.31:502][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.28-14.57.31:503][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.28-14.57.31:506][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-14.57.31:517][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.28-14.57.31:572][370]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.04.28-14.57.31:578][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.28-14.57.58:107][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.28-14.57.58:112][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-14.57.58:112][489]PIE: New page: PIE session: Main (28 Apr 2022, 18:57:58)
+[2022.04.28-14.57.58:112][489]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.28-14.57.58:116][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003786s)
+[2022.04.28-14.57.58:116][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003857s)
+[2022.04.28-14.57.58:116][489]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.28-14.57.58:116][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-14.57.58:117][489]LogAIModule: Creating AISystem for world Main
+[2022.04.28-14.57.58:117][489]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2022.04.28-14.57.58:123][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.28-14.57.58:124][489]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.28-14.57.58:124][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.28-14.57.58:124][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.28-14.57.58:124][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.28-14.57.58:124][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.28-14.57.58:124][489]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.28-14.57.58:124][489]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.28-14.57.58:124][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.28-14.57.58:124][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.28-14.57.58:125][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.28-14.57.58:125][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.28-14.57.58:125][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.28-14.57.58:126][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.28-14.57.58:164][489]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.28-14.57.58:166][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.28-14.57.58:166][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.28-14.57.58:166][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.28-14.57.58:167][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.04.28-14.57.58:167][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.04.28-14.57.58:168][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.04.28-14.57.58:168][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.04.28-14.57.58:168][489]LogInit: FAudioDevice initialized.
+[2022.04.28-14.57.58:168][489]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2022.04.28-14.57.58:181][489]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.04.28-14.57.58:267][489]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.28-16.57.58
+[2022.04.28-14.57.58:267][489]LogWorld: Bringing up level for play took: 0.002145
+[2022.04.28-14.57.58:270][489]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.04.28-14.57.58:272][489]PIE: Server logged in
+[2022.04.28-14.57.58:273][489]PIE: Play in editor total start time 0,161 seconds.
+[2022.04.28-14.58.31:815][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-14.58.31:815][480]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.28-14.58.31:818][480]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-14.58.31:819][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-14.58.31:850][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-14.58.31:852][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-14.58.31:861][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-14.58.31:861][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.28-14.58.31:862][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.28-14.58.31:875][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.28-14.58.31:929][481]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.28-14.58.31:935][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.28-15.02.25:274][443]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-15.19.11:667][471]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.28-15.19.11:686][471]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.28-15.19.11:693][472]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.28-15.19.18:835][900]LogContentBrowser: Attempting asset rename: NewFolder -> Walls
+[2022.04.28-15.19.18:835][900]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.28-15.19.24:116][127]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.28-15.19.24:137][127]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.28-15.19.24:146][128]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.28-15.19.27:495][329]LogContentBrowser: Attempting asset rename: NewFolder -> Pillars
+[2022.04.28-15.19.27:495][329]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.28-15.19.39:935][611]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb01.fbx)
+[2022.04.28-15.19.39:979][611]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb01.fbx
+[2022.04.28-15.19.39:984][611]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-15.19.42:031][611]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-15.19.42:080][611]LogFbx: Display: Triangulating static mesh Catacomb01_Art
+[2022.04.28-15.19.42:088][611]LogStaticMesh: Display: Building static mesh Wall_Catacomb01...
+[2022.04.28-15.19.42:147][611]LogStaticMesh: Built static mesh [0.06s] /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-15.19.42:148][611]LogStaticMesh: Display: Building static mesh Wall_Catacomb01...
+[2022.04.28-15.19.42:214][611]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-15.19.42:215][611]LogStaticMesh: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.19.42:215][611]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:215][611]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:222][611]FBXImport: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-15.19.42:222][611]FBXImport: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.19.42:222][611]FBXImport: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.19.42:310][611]LogStaticMesh: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.19.42:310][611]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:310][611]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:310][611]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb01_Shallow.fbx)
+[2022.04.28-15.19.42:317][611]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb01_Shallow.fbx
+[2022.04.28-15.19.42:323][611]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-15.19.42:325][611]LogFbx: Display: Triangulating static mesh Catacomb01_Art_Shallow
+[2022.04.28-15.19.42:335][611]LogStaticMesh: Display: Building static mesh Wall_Catacomb01_Shallow...
+[2022.04.28-15.19.42:392][611]LogStaticMesh: Built static mesh [0.06s] /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow.Wall_Catacomb01_Shallow
+[2022.04.28-15.19.42:393][611]LogStaticMesh: Display: Building static mesh Wall_Catacomb01_Shallow...
+[2022.04.28-15.19.42:459][611]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow.Wall_Catacomb01_Shallow
+[2022.04.28-15.19.42:460][611]LogStaticMesh: Warning: Wall_Catacomb01_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.19.42:460][611]LogStaticMesh: Warning: Wall_Catacomb01_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:460][611]LogStaticMesh: Warning: Wall_Catacomb01_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:466][611]FBXImport: Warning: Wall_Catacomb01_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-15.19.42:466][611]FBXImport: Warning: Wall_Catacomb01_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.19.42:466][611]FBXImport: Warning: Wall_Catacomb01_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.19.42:506][611]LogStaticMesh: Warning: Wall_Catacomb01_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.19.42:506][611]LogStaticMesh: Warning: Wall_Catacomb01_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:506][611]LogStaticMesh: Warning: Wall_Catacomb01_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:508][611]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb02.fbx)
+[2022.04.28-15.19.42:517][611]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb02.fbx
+[2022.04.28-15.19.42:523][611]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-15.19.42:524][611]LogFbx: Display: Triangulating static mesh Catacomb02_Art
+[2022.04.28-15.19.42:542][611]LogStaticMesh: Display: Building static mesh Wall_Catacomb02...
+[2022.04.28-15.19.42:648][611]LogStaticMesh: Built static mesh [0.11s] /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-15.19.42:648][611]LogStaticMesh: Display: Building static mesh Wall_Catacomb02...
+[2022.04.28-15.19.42:789][611]LogStaticMesh: Built static mesh [0.14s] /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-15.19.42:791][611]LogStaticMesh: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.19.42:791][611]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:791][611]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:797][611]FBXImport: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-15.19.42:797][611]FBXImport: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.19.42:797][611]FBXImport: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.19.42:914][611]LogStaticMesh: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.19.42:914][611]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:914][611]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.42:914][611]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb02_Shallow.fbx)
+[2022.04.28-15.19.42:924][611]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb02_Shallow.fbx
+[2022.04.28-15.19.42:930][611]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-15.19.42:931][611]LogFbx: Display: Triangulating static mesh Catacomb02_Art_Shallow
+[2022.04.28-15.19.42:952][611]LogStaticMesh: Display: Building static mesh Wall_Catacomb02_Shallow...
+[2022.04.28-15.19.43:090][611]LogStaticMesh: Built static mesh [0.14s] /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.28-15.19.43:090][611]LogStaticMesh: Display: Building static mesh Wall_Catacomb02_Shallow...
+[2022.04.28-15.19.43:246][611]LogStaticMesh: Built static mesh [0.16s] /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.28-15.19.43:248][611]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.19.43:248][611]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.43:248][611]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.43:254][611]FBXImport: Warning: Wall_Catacomb02_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-15.19.43:254][611]FBXImport: Warning: Wall_Catacomb02_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.19.43:254][611]FBXImport: Warning: Wall_Catacomb02_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.19.43:382][611]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.19.43:382][611]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.43:382][611]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.19.46:249][697]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-15.19.46:304][697]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-15.19.46:517][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.28-15.19.46:519][706]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.010
+[2022.04.28-15.19.46:519][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchitecturalModules/Walls/Wall_Catacomb01] ([1] browsable assets)...
+[2022.04.28-15.19.46:552][706]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01]
+[2022.04.28-15.19.46:552][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchitecturalModules/Walls/Wall_Catacomb01]
+[2022.04.28-15.19.46:555][706]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArchitecturalModules/Walls/Wall_Catacomb01_Auto1
+[2022.04.28-15.19.46:555][706]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01_Auto1D4C1D47D4E282768CDD595A8DBB8EA36.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/ArchitecturalModules/Walls/Wall_Catacomb01_Auto1.uasset'
+[2022.04.28-15.19.46:556][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow] ([1] browsable assets)...
+[2022.04.28-15.19.46:562][706]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow.Wall_Catacomb01_Shallow]
+[2022.04.28-15.19.46:562][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow]
+[2022.04.28-15.19.46:566][706]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow_Auto1
+[2022.04.28-15.19.46:566][706]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01_Shallow_Auto15F4F99E9467E87478516DA8BD49E85F3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow_Auto1.uasset'
+[2022.04.28-15.19.46:566][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchitecturalModules/Walls/Wall_Catacomb02] ([1] browsable assets)...
+[2022.04.28-15.19.46:573][706]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02]
+[2022.04.28-15.19.46:573][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchitecturalModules/Walls/Wall_Catacomb02]
+[2022.04.28-15.19.46:577][706]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArchitecturalModules/Walls/Wall_Catacomb02_Auto1
+[2022.04.28-15.19.46:577][706]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02_Auto156EE151442D50F5567FDD2903CC5ABB7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/ArchitecturalModules/Walls/Wall_Catacomb02_Auto1.uasset'
+[2022.04.28-15.19.46:577][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow] ([1] browsable assets)...
+[2022.04.28-15.19.46:583][706]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow]
+[2022.04.28-15.19.46:583][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow]
+[2022.04.28-15.19.46:587][706]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow_Auto1
+[2022.04.28-15.19.46:587][706]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02_Shallow_Auto13B3E99AF426BBEDAC7A60088E1D2888E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow_Auto1.uasset'
+[2022.04.28-15.19.46:587][706]LogFileHelpers: Auto-saving content packages took 0.069
+[2022.04.28-15.20.10:097][909]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb02_Shallow.fbx]
+[2022.04.28-15.20.10:102][909]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb02_Shallow.fbx
+[2022.04.28-15.20.10:107][909]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-15.20.10:167][909]LogFbx: Display: Triangulating static mesh Catacomb02_Art_Shallow
+[2022.04.28-15.20.10:205][909]LogStaticMesh: Display: Building static mesh Wall_Catacomb02_Shallow...
+[2022.04.28-15.20.10:372][909]LogStaticMesh: Built static mesh [0.17s] /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.28-15.20.10:379][909]LogStaticMesh: Display: Building static mesh Wall_Catacomb02_Shallow...
+[2022.04.28-15.20.10:562][909]LogStaticMesh: Built static mesh [0.18s] /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.28-15.20.10:570][909]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.20.10:570][909]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.20.10:570][909]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.20.10:576][909]LogEditorFactories: -- imported successfully
+[2022.04.28-15.20.10:577][909]FBXImport: Warning: Wall_Catacomb02_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-15.20.10:577][909]FBXImport: Warning: Wall_Catacomb02_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.20.10:577][909]FBXImport: Warning: Wall_Catacomb02_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-15.20.10:710][909]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-15.20.10:710][909]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.20.10:710][909]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-15.20.12:750][956]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-15.20.12:829][956]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-15.20.12:862][956]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.04.28-15.20.16:007][  9]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.28-15.20.19:582][ 87]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb01
+[2022.04.28-15.20.19:582][ 87]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01AF7BD9AB49170693E751948E1EBED64B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb01.uasset'
+[2022.04.28-15.20.19:613][ 87]AssetCheck: New page: Asset Save: Wall_Catacomb01
+[2022.04.28-15.20.19:614][ 87]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-15.20.21:556][130]LogSlate: Window 'Wall_Catacomb01' being destroyed
+[2022.04.28-15.20.21:651][130]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-15.20.21:651][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-15.20.23:836][222]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-15.20.23:896][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-15.20.29:929][350]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb02
+[2022.04.28-15.20.29:929][350]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02BEC27F7744D8B8B13EB4DFA55164FD12.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb02.uasset'
+[2022.04.28-15.20.29:960][350]AssetCheck: New page: Asset Save: Wall_Catacomb02
+[2022.04.28-15.20.29:960][350]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-15.20.31:214][382]LogSlate: Window 'Wall_Catacomb02' being destroyed
+[2022.04.28-15.20.31:306][382]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-15.20.31:306][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-15.20.35:049][522]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow.Wall_Catacomb01_Shallow
+[2022.04.28-15.20.35:109][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-15.20.40:410][639]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow
+[2022.04.28-15.20.40:410][639]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01_Shallow89502FFF472830CD9E161088F85A2201.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow.uasset'
+[2022.04.28-15.20.40:443][639]AssetCheck: New page: Asset Save: Wall_Catacomb01_Shallow
+[2022.04.28-15.20.40:443][639]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Shallow.Wall_Catacomb01_Shallow
+[2022.04.28-15.20.42:322][678]LogSlate: Window 'Wall_Catacomb01_Shallow' being destroyed
+[2022.04.28-15.20.42:412][678]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-15.20.42:412][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-15.20.43:941][743]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.28-15.20.44:000][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-15.20.49:426][855]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow
+[2022.04.28-15.20.49:426][855]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02_Shallow13DC82CC419D236B4F3E18A121867B40.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.uasset'
+[2022.04.28-15.20.49:457][855]AssetCheck: New page: Asset Save: Wall_Catacomb02_Shallow
+[2022.04.28-15.20.49:457][855]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.28-15.20.50:440][877]LogSlate: Window 'Wall_Catacomb02_Shallow' being destroyed
+[2022.04.28-15.20.50:534][877]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-15.20.50:534][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
