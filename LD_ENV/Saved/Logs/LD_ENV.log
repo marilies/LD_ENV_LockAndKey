@@ -972,3 +972,58 @@ An asset already exists at the import location: /Game/LDK/Walls/Wall_Fringe02
 [2022.04.28-12.03.03:516][965]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02
 [2022.04.28-12.03.03:516][965]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Marika.Marika
 [2022.04.28-12.03.03:516][965]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-12.04.11:291][483]LogSlate: Window 'Message' being destroyed
+[2022.04.28-12.04.11:313][483]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/LDK/Walls/Wall01_Door
+[2022.04.28-12.04.11:314][483]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall01_Door.fbx)
+[2022.04.28-12.04.11:315][483]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall01_Door.fbx]
+[2022.04.28-12.04.11:345][483]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall01_Door.fbx
+[2022.04.28-12.04.11:350][483]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-12.04.11:358][483]LogFbx: Display: Triangulating static mesh Wall01_Door
+[2022.04.28-12.04.11:360][483]LogStaticMesh: Display: Building static mesh Wall01_Door...
+[2022.04.28-12.04.11:374][483]LogStaticMesh: Built static mesh [0.01s] /Game/LDK/Walls/Wall01_Door.Wall01_Door
+[2022.04.28-12.04.11:375][483]LogStaticMesh: Display: Building static mesh Wall01_Door...
+[2022.04.28-12.04.11:393][483]LogStaticMesh: Built static mesh [0.02s] /Game/LDK/Walls/Wall01_Door.Wall01_Door
+[2022.04.28-12.04.11:394][483]LogStaticMesh: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-12.04.11:394][483]LogStaticMesh: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-12.04.11:394][483]LogStaticMesh: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-12.04.11:399][483]LogEditorFactories: -- imported successfully
+[2022.04.28-12.04.11:400][483]FBXImport: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-12.04.11:400][483]FBXImport: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-12.04.11:400][483]FBXImport: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-12.04.11:447][483]LogStaticMesh: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-12.04.11:447][483]LogStaticMesh: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-12.04.11:448][483]LogStaticMesh: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-12.04.11:552][483]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.28-12.04.11:552][483]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.28-12.04.19:523][617]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.28-12.04.19:523][617]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.28-12.04.21:190][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall01_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01_Door.uasset" SILENT=true
+[2022.04.28-12.04.21:194][639]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall01_Door
+[2022.04.28-12.04.21:194][639]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall01_DoorA094E4C5427F5C31D7E39A809B2A7BBF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01_Door.uasset'
+[2022.04.28-12.04.21:215][639]AssetCheck: New page: Asset Save: Wall01_Door
+[2022.04.28-12.04.21:216][639]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall01_Door.Wall01_Door
+[2022.04.28-12.04.38:173][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.28-12.04.39:668][732]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-12.04.39:795][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-12.04.39:801][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.28-12.04.39:823][732]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-12.04.39:824][732]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David7F3F173A4894B10FD2C956ABBF0B9597.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-12.04.39:828][732]LogFileHelpers: No new changes to save!
+[2022.04.28-12.04.39:828][732]LogFileHelpers: Saving map 'David' took 0.034
+[2022.04.28-12.04.39:829][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-12.04.39:835][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.28-12.04.39:840][732]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-12.04.39:841][732]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/MainB7D6D06A42DFC25EFD4601999D2FC15A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-12.04.39:848][732]LogFileHelpers: No new changes to save!
+[2022.04.28-12.04.39:848][732]LogFileHelpers: Saving map 'Main' took 0.019
+[2022.04.28-12.04.39:849][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Marika" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Marika.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-12.04.39:854][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.28-12.04.39:977][732]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Marika
+[2022.04.28-12.04.39:978][732]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/MarikaACFF370E4F4ABCD1898E02A21AC651D8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Marika.umap'
+[2022.04.28-12.04.39:983][732]LogFileHelpers: Saving map 'Marika' took 0.135
+[2022.04.28-12.04.39:992][732]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-12.04.39:992][732]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Marika.Marika
+[2022.04.28-12.04.39:992][732]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.28-12.04.39:992][732]LogContentValidation: Display: Validating World /Game/David.David
