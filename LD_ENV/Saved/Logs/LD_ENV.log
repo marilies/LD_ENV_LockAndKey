@@ -2279,3 +2279,131 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.28-19.59.28:078][898]LogFileHelpers: No new changes to save!
 [2022.04.28-19.59.28:090][898]AssetCheck: New page: Asset Save: David
 [2022.04.28-19.59.28:090][898]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-20.00.11:060][302]Cmd: DUPLICATE
+[2022.04.28-20.00.11:060][302]Cmd: ACTOR DUPLICATE
+[2022.04.28-20.00.13:142][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-20.01.53:469][467]Cmd: TRANSACTION UNDO
+[2022.04.28-20.01.53:469][467]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.28-20.01.54:205][487]Cmd: TRANSACTION UNDO
+[2022.04.28-20.01.54:205][487]LogEditorTransaction: Undo Move Elements
+[2022.04.28-20.01.59:287][724]Cmd: TRANSACTION UNDO
+[2022.04.28-20.01.59:287][724]LogEditorTransaction: Undo Move Elements
+[2022.04.28-20.02.56:648][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-20.02.56:674][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.04.28-20.02.56:711][383]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-20.02.56:712][383]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David2C596A1F4A3F8B031910F0A34403AD91.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-20.02.56:717][383]LogFileHelpers: No new changes to save!
+[2022.04.28-20.02.56:731][383]AssetCheck: New page: Asset Save: David
+[2022.04.28-20.02.56:731][383]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-20.03.16:057][341]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Wall294)
+[2022.04.28-20.03.39:426][790]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-20.04.20:085][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.28-20.04.20:085][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.28-20.04.20:086][797]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_253
+[2022.04.28-20.04.20:856][832]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.28-20.04.20:856][832]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.28-20.04.20:857][832]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_254
+[2022.04.28-20.05.11:738][143]Cmd: DELETE
+[2022.04.28-20.05.11:738][143]Cmd: ACTOR DELETE
+[2022.04.28-20.05.11:748][143]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-20.05.11:770][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.04.28-20.05.11:773][143]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.04.28-20.12.56:984][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.28-20.12.56:990][693]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto9
+[2022.04.28-20.12.56:990][693]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto992287890466F55579C64DBBFC5DE84BB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto9.umap'
+[2022.04.28-20.12.56:996][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.28-20.12.57:027][693]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto9
+[2022.04.28-20.12.57:027][693]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto9005320F141959030D0F1CABB1B1E68A8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto9.umap'
+[2022.04.28-20.12.57:033][693]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.069
+[2022.04.28-20.12.57:033][693]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2022.04.28-20.13.08:834][842]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Brazier01_Broken.fbx)
+[2022.04.28-20.13.08:840][842]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Brazier01_Broken.fbx
+[2022.04.28-20.13.08:844][842]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-20.13.10:675][842]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-20.13.10:690][842]LogFbx: Display: Triangulating static mesh Brazier01_Broken
+[2022.04.28-20.13.10:695][842]LogStaticMesh: Display: Building static mesh Brazier01_Broken...
+[2022.04.28-20.13.10:739][842]LogStaticMesh: Built static mesh [0.04s] /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.10:739][842]LogStaticMesh: Display: Building static mesh Brazier01_Broken...
+[2022.04.28-20.13.10:794][842]LogStaticMesh: Built static mesh [0.05s] /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.10:796][842]LogStaticMesh: Warning: Brazier01_Broken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-20.13.10:796][842]LogStaticMesh: Warning: Brazier01_Broken has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-20.13.10:796][842]LogStaticMesh: Warning: Brazier01_Broken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-20.13.10:805][842]FBXImport: Warning: Brazier01_Broken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-20.13.10:805][842]FBXImport: Warning: Brazier01_Broken has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-20.13.10:805][842]FBXImport: Warning: Brazier01_Broken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-20.13.10:885][842]LogStaticMesh: Warning: Brazier01_Broken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-20.13.10:885][842]LogStaticMesh: Warning: Brazier01_Broken has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-20.13.10:885][842]LogStaticMesh: Warning: Brazier01_Broken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-20.13.10:886][842]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/BrazierBowl01.fbx)
+[2022.04.28-20.13.10:897][842]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/BrazierBowl01.fbx
+[2022.04.28-20.13.10:903][842]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-20.13.10:904][842]LogFbx: Display: Triangulating static mesh BrazierBowl01
+[2022.04.28-20.13.10:909][842]LogStaticMesh: Display: Building static mesh BrazierBowl01...
+[2022.04.28-20.13.10:931][842]LogStaticMesh: Built static mesh [0.02s] /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01
+[2022.04.28-20.13.10:932][842]LogStaticMesh: Display: Building static mesh BrazierBowl01...
+[2022.04.28-20.13.10:958][842]LogStaticMesh: Built static mesh [0.03s] /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01
+[2022.04.28-20.13.13:301][946]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-20.13.13:326][946]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-20.13.14:874][ 18]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.14:930][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-20.13.20:869][226]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Braziers/Brazier01_Broken
+[2022.04.28-20.13.20:869][226]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Brazier01_Broken2ABD6CF54B18AEA076B1C984EDB415B5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Brazier01_Broken.uasset'
+[2022.04.28-20.13.20:881][226]AssetCheck: New page: Asset Save: Brazier01_Broken
+[2022.04.28-20.13.20:881][226]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.28:303][518]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Braziers/Brazier01_Broken
+[2022.04.28-20.13.28:303][518]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Brazier01_Broken12DEA1814F9F11CCA8429FAE2E1418B2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Brazier01_Broken.uasset'
+[2022.04.28-20.13.28:315][518]AssetCheck: New page: Asset Save: Brazier01_Broken
+[2022.04.28-20.13.28:315][518]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.29:323][558]LogSlate: Window 'Brazier01_Broken' being destroyed
+[2022.04.28-20.13.29:381][558]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-20.13.29:381][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-20.13.30:615][612]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01
+[2022.04.28-20.13.30:682][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-20.13.46:627][226]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Braziers/BrazierBowl01
+[2022.04.28-20.13.46:627][226]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/BrazierBowl01D06254CB471862709B286183868A4364.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/BrazierBowl01.uasset'
+[2022.04.28-20.13.46:639][226]AssetCheck: New page: Asset Save: BrazierBowl01
+[2022.04.28-20.13.46:639][226]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01
+[2022.04.28-20.13.47:474][260]LogSlate: Window 'BrazierBowl01' being destroyed
+[2022.04.28-20.13.47:527][260]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-20.13.47:527][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-20.13.51:151][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01
+[2022.04.28-20.13.51:151][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01
+[2022.04.28-20.13.51:151][407]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_255
+[2022.04.28-20.13.51:152][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.51:152][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.51:152][407]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_256
+[2022.04.28-20.13.53:328][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01
+[2022.04.28-20.13.53:328][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01
+[2022.04.28-20.13.53:328][500]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/BrazierBowl01.BrazierBowl01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_257
+[2022.04.28-20.13.53:343][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.53:343][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken
+[2022.04.28-20.13.53:344][500]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01_Broken.Brazier01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_258
+[2022.04.28-20.14.52:736][ 96]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02
+[2022.04.28-20.14.52:736][ 96]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02
+[2022.04.28-20.14.52:736][ 96]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_259
+[2022.04.28-20.14.54:308][158]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.28-20.14.54:308][158]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.28-20.14.54:308][158]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_260
+[2022.04.28-20.14.56:096][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.28-20.14.56:096][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.28-20.14.56:097][235]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_261
+[2022.04.28-20.14.58:288][338]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-20.15.11:268][971]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-20.15.22:315][503]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-20.15.34:683][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-20.15.34:712][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.04.28-20.15.34:749][ 74]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-20.15.34:749][ 74]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB45A71314799E6C84B3D3692E64E4152.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-20.15.34:757][ 74]LogFileHelpers: No new changes to save!
+[2022.04.28-20.15.34:769][ 74]AssetCheck: New page: Asset Save: David
+[2022.04.28-20.15.34:769][ 74]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-20.15.37:519][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.28-20.15.39:445][190]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-20.15.39:510][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-20.15.39:531][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.28-20.15.39:536][190]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-20.15.39:536][190]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main8EDDD59C4BEC15190B410D87EFCCBA4D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-20.15.39:544][190]LogFileHelpers: No new changes to save!
+[2022.04.28-20.15.39:544][190]LogFileHelpers: Saving map 'Main' took 0.034
+[2022.04.28-20.15.39:581][190]AssetCheck: New page: Asset Save: Main
+[2022.04.28-20.15.39:581][190]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
