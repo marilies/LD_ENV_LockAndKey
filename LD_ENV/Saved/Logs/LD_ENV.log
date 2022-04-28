@@ -1026,3 +1026,160 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.28-12.36.20:139][579]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs02.Stairs02
 [2022.04.28-12.36.20:140][579]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs04.Stairs04
 [2022.04.28-12.36.20:144][579]LogAutomationController: Ignoring very large delta of 2.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.28-12.36.48:960][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.28-12.36.48:965][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-12.36.48:965][772]PIE: New page: PIE session: Main (28 Apr 2022, 16:36:48)
+[2022.04.28-12.36.48:966][772]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.28-12.36.48:968][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002034s)
+[2022.04.28-12.36.48:968][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002090s)
+[2022.04.28-12.36.48:968][772]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.28-12.36.48:968][772]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-12.36.48:968][772]LogAIModule: Creating AISystem for world Main
+[2022.04.28-12.36.48:968][772]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2022.04.28-12.36.48:975][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.28-12.36.48:975][772]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.28-12.36.48:975][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.28-12.36.48:975][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.28-12.36.48:975][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.28-12.36.48:975][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.28-12.36.48:975][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.28-12.36.48:975][772]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.28-12.36.48:975][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.28-12.36.48:975][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.28-12.36.48:976][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.28-12.36.48:976][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.28-12.36.48:976][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.28-12.36.48:978][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.28-12.36.49:016][772]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.28-12.36.49:017][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.28-12.36.49:017][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.28-12.36.49:017][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.28-12.36.49:017][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.04.28-12.36.49:017][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.04.28-12.36.49:018][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.04.28-12.36.49:018][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.04.28-12.36.49:018][772]LogInit: FAudioDevice initialized.
+[2022.04.28-12.36.49:018][772]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2022.04.28-12.36.49:030][772]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.04.28-12.36.49:112][772]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.28-14.36.49
+[2022.04.28-12.36.49:113][772]LogWorld: Bringing up level for play took: 0.001132
+[2022.04.28-12.36.49:115][772]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.04.28-12.36.49:118][772]PIE: Server logged in
+[2022.04.28-12.36.49:119][772]PIE: Play in editor total start time 0,153 seconds.
+[2022.04.28-12.39.00:095][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-12.39.00:095][584]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.28-12.39.00:099][584]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-12.39.00:099][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-12.39.00:110][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-12.39.00:113][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-12.39.00:121][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-12.39.00:122][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.04.28-12.39.00:123][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.04.28-12.39.00:133][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.04.28-12.39.00:166][585]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.28-12.39.00:175][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.28-12.39.56:429][ 74]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.28-12.39.56:444][ 74]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.28-12.39.56:453][ 75]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.28-12.39.59:065][233]LogContentBrowser: Attempting asset rename: NewFolder -> Clutter
+[2022.04.28-12.39.59:065][233]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.28-12.40.05:361][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx)
+[2022.04.28-12.40.05:398][373]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx
+[2022.04.28-12.40.05:402][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-12.40.07:451][373]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-12.40.07:499][373]LogFbx: Display: Triangulating static mesh Tomb
+[2022.04.28-12.40.07:500][373]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.40.07:503][373]LogStaticMesh: Built static mesh [0.00s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.40.07:503][373]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.40.07:506][373]LogStaticMesh: Built static mesh [0.00s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.40.07:565][373]LogAutomationController: Ignoring very large delta of 5.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.28-12.40.08:644][424]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.40.08:707][424]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-12.40.08:738][424]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.04.28-12.40.10:437][462]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.28-12.40.13:618][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Clutter/Tomb01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Clutter/Tomb01.uasset" SILENT=true
+[2022.04.28-12.40.13:621][525]LogSavePackage: Moving output files for package: /Game/LDK/Clutter/Tomb01
+[2022.04.28-12.40.13:621][525]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Tomb013F2394A4441A48618362F7A44C86F17F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Clutter/Tomb01.uasset'
+[2022.04.28-12.40.13:653][525]AssetCheck: New page: Asset Save: Tomb01
+[2022.04.28-12.40.13:653][525]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.40.14:619][548]LogSlate: Window 'Tomb01' being destroyed
+[2022.04.28-12.40.14:717][548]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-12.40.14:717][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-12.40.16:548][619]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.40.16:548][619]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.40.16:548][619]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_0
+[2022.04.28-12.40.17:520][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.40.17:520][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.40.17:521][676]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_1
+[2022.04.28-12.40.19:376][788]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-12.40.31:595][516]Cmd: TRANSACTION UNDO
+[2022.04.28-12.40.31:595][516]LogEditorTransaction: Undo Move Elements
+[2022.04.28-12.42.01:429][402]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx]
+[2022.04.28-12.42.01:434][402]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx
+[2022.04.28-12.42.01:439][402]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-12.42.01:499][402]LogFbx: Display: Triangulating static mesh Tomb
+[2022.04.28-12.42.01:536][402]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.42.01:601][402]LogStaticMesh: Built static mesh [0.06s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.42.01:652][402]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.42.01:708][402]LogStaticMesh: Built static mesh [0.06s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.42.01:756][402]LogEditorFactories: -- imported successfully
+[2022.04.28-12.43.11:337][480]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx]
+[2022.04.28-12.43.11:342][480]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx
+[2022.04.28-12.43.11:346][480]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-12.43.11:412][480]LogFbx: Display: Triangulating static mesh Tomb01
+[2022.04.28-12.43.11:460][480]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.43.11:509][480]LogStaticMesh: Built static mesh [0.05s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.43.11:553][480]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.43.11:613][480]LogStaticMesh: Built static mesh [0.06s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.43.11:667][480]LogEditorFactories: -- imported successfully
+[2022.04.28-12.45.13:161][176]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx]
+[2022.04.28-12.45.13:166][176]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx
+[2022.04.28-12.45.13:171][176]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-12.45.13:229][176]LogFbx: Display: Triangulating static mesh Tomb01
+[2022.04.28-12.45.13:265][176]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.45.13:316][176]LogStaticMesh: Built static mesh [0.05s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.45.13:368][176]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.45.13:433][176]LogStaticMesh: Built static mesh [0.07s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.45.13:474][176]LogEditorFactories: -- imported successfully
+[2022.04.28-12.45.19:900][404]Cmd: TRANSACTION UNDO
+[2022.04.28-12.45.19:900][404]LogEditorTransaction: Undo Move Elements
+[2022.04.28-12.45.27:879][783]Cmd: TRANSACTION UNDO
+[2022.04.28-12.45.27:879][783]LogEditorTransaction: Undo Move Elements
+[2022.04.28-12.48.29:738][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.28-12.48.29:746][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto3
+[2022.04.28-12.48.29:747][417]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto362C9A6234E743B222F7AF6BD233E78AC.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto3.umap'
+[2022.04.28-12.48.29:751][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.022
+[2022.04.28-12.48.29:751][417]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2022.04.28-12.48.29:752][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LDK/Clutter/Tomb01] ([1] browsable assets)...
+[2022.04.28-12.48.29:832][417]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01]
+[2022.04.28-12.48.29:832][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDK/Clutter/Tomb01]
+[2022.04.28-12.48.29:832][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Clutter/Tomb01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Clutter/Tomb01_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.28-12.48.29:839][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDK/Clutter/Tomb01_Auto3
+[2022.04.28-12.48.29:839][417]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Tomb01_Auto3B99C30CC4BB63AB1ECA7BD942BB352F9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Clutter/Tomb01_Auto3.uasset'
+[2022.04.28-12.48.29:840][417]LogFileHelpers: Auto-saving content packages took 0.089
+[2022.04.28-12.50.53:086][913]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.28-12.50.53:086][913]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.28-12.50.55:618][964]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx]
+[2022.04.28-12.50.55:623][964]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tomb01.fbx
+[2022.04.28-12.50.55:628][964]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-12.50.55:684][964]LogFbx: Display: Triangulating static mesh Tomb03
+[2022.04.28-12.50.55:722][964]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.50.55:790][964]LogStaticMesh: Built static mesh [0.07s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.50.55:826][964]LogStaticMesh: Display: Building static mesh Tomb01...
+[2022.04.28-12.50.55:889][964]LogStaticMesh: Built static mesh [0.06s] /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.50.55:940][964]LogEditorFactories: -- imported successfully
+[2022.04.28-12.51.00:360][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.28-12.51.02:244][ 72]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-12.51.02:370][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-12.51.02:376][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.28-12.51.02:383][ 72]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-12.51.02:383][ 72]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/MainD65C3B8D4484FCD5C4E5358BCD35C764.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-12.51.02:390][ 72]LogFileHelpers: No new changes to save!
+[2022.04.28-12.51.02:391][ 72]LogFileHelpers: Saving map 'Main' took 0.021
+[2022.04.28-12.51.02:415][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Clutter/Tomb01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Clutter/Tomb01.uasset" SILENT=true
+[2022.04.28-12.51.02:418][ 72]LogSavePackage: Moving output files for package: /Game/LDK/Clutter/Tomb01
+[2022.04.28-12.51.02:419][ 72]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Tomb018FCAF0374A92C76130E172A497F049EA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Clutter/Tomb01.uasset'
+[2022.04.28-12.51.02:428][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-12.51.02:429][ 72]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.28-12.51.02:429][ 72]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01
+[2022.04.28-12.51.02:441][ 72]LogAutomationController: Ignoring very large delta of 2.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
