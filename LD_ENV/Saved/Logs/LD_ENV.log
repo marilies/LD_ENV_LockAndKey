@@ -1627,3 +1627,331 @@ An asset already exists at the import location: /Game/Art/Stairs/Stairs02
 [2022.04.28-09.23.38:105][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs06.Stairs06
 [2022.04.28-09.23.38:105][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs06.Stairs06
 [2022.04.28-09.23.38:106][677]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs06.Stairs06 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_106
+[2022.04.28-09.29.00:667][556]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.28-09.29.00:684][556]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.28-09.29.00:692][557]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.28-09.29.02:639][709]LogContentBrowser: Attempting asset rename: NewFolder -> Trees
+[2022.04.28-09.29.02:639][709]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.28-09.29.08:428][933]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tree02.fbx)
+[2022.04.28-09.29.08:433][933]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Tree02.fbx
+[2022.04.28-09.29.08:438][933]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.29.12:675][933]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-09.29.12:698][933]LogStaticMesh: Display: Building static mesh Tree02...
+[2022.04.28-09.29.12:761][933]LogStaticMesh: Built static mesh [0.06s] /Game/Art/Trees/Tree02.Tree02
+[2022.04.28-09.29.12:762][933]LogStaticMesh: Display: Building static mesh Tree02...
+[2022.04.28-09.29.12:848][933]LogStaticMesh: Built static mesh [0.09s] /Game/Art/Trees/Tree02.Tree02
+[2022.04.28-09.29.22:754][522]LogContentBrowser: Attempting asset rename: Art -> LDK
+[2022.04.28-09.29.22:805][522]LogLinker: Warning: [AssetLog] D:\Unreal Engine\Env_LockAndKey\LD_ENV_LockAndKey\LD_ENV\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\2\D9\GDIH59RKQUBJ191JHDHU7D.uasset: Failed to load '/Game/Art/Floors/Floor1x1': Can't find file.
+[2022.04.28-09.29.22:806][522]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Art/Floors/Floor1x1'
+[2022.04.28-09.29.22:870][522]LogLinker: Warning: [AssetLog] D:\Unreal Engine\Env_LockAndKey\LD_ENV_LockAndKey\LD_ENV\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\D\7L\MVRBPEDQ83NYWK3J3883RK.uasset: Failed to load '/Game/Art/Floors/Floor2x2': Can't find file.
+[2022.04.28-09.29.22:870][522]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Art/Floors/Floor2x2'
+[2022.04.28-09.29.22:875][522]LogLinker: Warning: [AssetLog] D:\Unreal Engine\Env_LockAndKey\LD_ENV_LockAndKey\LD_ENV\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\KG\HABX8R3CN2N0EGQM45IK8Z.uasset: Failed to load '/Game/Art/Floors/Floor_25x_25': Can't find file.
+[2022.04.28-09.29.22:875][522]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Art/Floors/Floor_25x_25'
+[2022.04.28-09.29.22:891][522]LogMetaData: Removing '/Game/LDK/Floors/Floor01.Floor01' ref from Metadata '/Game/Art/Floors/Floor01.PackageMetaData'
+[2022.04.28-09.29.22:898][522]LogMetaData: Removing '/Game/LDK/Floors/Floor02.Floor02' ref from Metadata '/Game/Art/Floors/Floor02.PackageMetaData'
+[2022.04.28-09.29.22:905][522]LogMetaData: Removing '/Game/LDK/Mountains/Cliff01.Cliff01' ref from Metadata '/Game/Art/Mountains/Cliff01.PackageMetaData'
+[2022.04.28-09.29.22:912][522]LogMetaData: Removing '/Game/LDK/Walls/Pillar01.Pillar01' ref from Metadata '/Game/Art/Walls/Pillar01.PackageMetaData'
+[2022.04.28-09.29.22:919][522]LogMetaData: Removing '/Game/LDK/Walls/Pillar02.Pillar02' ref from Metadata '/Game/Art/Walls/Pillar02.PackageMetaData'
+[2022.04.28-09.29.22:926][522]LogMetaData: Removing '/Game/LDK/Walls/Wall01.Wall01' ref from Metadata '/Game/Art/Walls/Wall01.PackageMetaData'
+[2022.04.28-09.29.22:933][522]LogMetaData: Removing '/Game/LDK/Walls/Wall02.Wall02' ref from Metadata '/Game/Art/Walls/Wall02.PackageMetaData'
+[2022.04.28-09.29.22:940][522]LogMetaData: Removing '/Game/LDK/Walls/Wall02_Door.Wall02_Door' ref from Metadata '/Game/Art/Walls/Wall02_Door.PackageMetaData'
+[2022.04.28-09.29.22:948][522]LogMetaData: Removing '/Game/LDK/Walls/Wall_Half.Wall_Half' ref from Metadata '/Game/Art/Walls/Wall_Half.PackageMetaData'
+[2022.04.28-09.29.22:955][522]LogMetaData: Removing '/Game/LDK/Walls/WallCorner02.WallCorner02' ref from Metadata '/Game/Art/Walls/WallCorner02.PackageMetaData'
+[2022.04.28-09.29.22:962][522]LogMetaData: Removing '/Game/LDK/Walls/Pillar05.Pillar05' ref from Metadata '/Game/Art/Walls/Pillar05.PackageMetaData'
+[2022.04.28-09.29.22:964][522]LogMetaData: Removing '/Game/LDK/Walls/Wall01_Door.Wall01_Door' ref from Metadata '/Game/Art/Walls/Wall01_Door.PackageMetaData'
+[2022.04.28-09.29.22:967][522]LogMetaData: Removing '/Game/LDK/Walls/Pillar04.Pillar04' ref from Metadata '/Game/Art/Walls/Pillar04.PackageMetaData'
+[2022.04.28-09.29.22:969][522]LogMetaData: Removing '/Game/LDK/Walls/Pillar03.Pillar03' ref from Metadata '/Game/Art/Walls/Pillar03.PackageMetaData'
+[2022.04.28-09.29.22:971][522]LogMetaData: Removing '/Game/LDK/Mountains/Mountain02.Mountain02' ref from Metadata '/Game/Art/Mountains/Mountain02.PackageMetaData'
+[2022.04.28-09.29.22:974][522]LogMetaData: Removing '/Game/LDK/Mountains/Mountain01.Mountain01' ref from Metadata '/Game/Art/Mountains/Mountain01.PackageMetaData'
+[2022.04.28-09.29.22:976][522]LogMetaData: Removing '/Game/LDK/Trees/Tree02.Tree02' ref from Metadata '/Game/Art/Trees/Tree02.PackageMetaData'
+[2022.04.28-09.29.22:977][522]LogMetaData: Removing '/Game/LDK/Walls/Wall_Catacomb02.Wall_Catacomb02' ref from Metadata '/Game/Art/Walls/Wall_Catacomb02.PackageMetaData'
+[2022.04.28-09.29.22:979][522]LogMetaData: Removing '/Game/LDK/Walls/Wall_Catacomb01.Wall_Catacomb01' ref from Metadata '/Game/Art/Walls/Wall_Catacomb01.PackageMetaData'
+[2022.04.28-09.29.22:981][522]LogMetaData: Removing '/Game/LDK/Stairs/Stairs04.Stairs04' ref from Metadata '/Game/Art/Stairs/Stairs04.PackageMetaData'
+[2022.04.28-09.29.22:982][522]LogMetaData: Removing '/Game/LDK/Stairs/Stairs03.Stairs03' ref from Metadata '/Game/Art/Stairs/Stairs03.PackageMetaData'
+[2022.04.28-09.29.22:984][522]LogMetaData: Removing '/Game/LDK/Stairs/Stairs02.Stairs02' ref from Metadata '/Game/Art/Stairs/Stairs02.PackageMetaData'
+[2022.04.28-09.29.22:985][522]LogMetaData: Removing '/Game/LDK/Stairs/Stairs01.Stairs01' ref from Metadata '/Game/Art/Stairs/Stairs01.PackageMetaData'
+[2022.04.28-09.29.22:987][522]LogMetaData: Removing '/Game/LDK/Stairs/Stairs06.Stairs06' ref from Metadata '/Game/Art/Stairs/Stairs06.PackageMetaData'
+[2022.04.28-09.29.22:988][522]LogMetaData: Removing '/Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02' ref from Metadata '/Game/Art/Walls/Wall_Fringe02.PackageMetaData'
+[2022.04.28-09.29.22:990][522]LogMetaData: Removing '/Game/LDK/Stairs/Stairs05.Stairs05' ref from Metadata '/Game/Art/Stairs/Stairs05.PackageMetaData'
+[2022.04.28-09.29.22:992][522]LogMetaData: Removing '/Game/LDK/Walls/Wall_Fringe01.Wall_Fringe01' ref from Metadata '/Game/Art/Walls/Wall_Fringe01.PackageMetaData'
+[2022.04.28-09.29.22:993][522]LogMetaData: Removing '/Game/LDK/Walls/Pillar06.Pillar06' ref from Metadata '/Game/Art/Walls/Pillar06.PackageMetaData'
+[2022.04.28-09.29.22:995][522]LogMetaData: Removing '/Game/LDK/Walls/Arch01.Arch01' ref from Metadata '/Game/Art/Walls/Arch01.PackageMetaData'
+[2022.04.28-09.29.22:997][522]LogMetaData: Removing '/Game/LDK/Floors/Floor01_half.Floor01_half' ref from Metadata '/Game/Art/Floors/Floor01_half.PackageMetaData'
+[2022.04.28-09.29.22:999][522]LogMetaData: Removing '/Game/LDK/Walls/WallCorner01.WallCorner01' ref from Metadata '/Game/Art/Walls/WallCorner01.PackageMetaData'
+[2022.04.28-09.29.23:000][522]LogMetaData: Removing '/Game/LDK/Walls/Wall01_half.Wall01_half' ref from Metadata '/Game/Art/Walls/Wall01_half.PackageMetaData'
+[2022.04.28-09.29.23:059][522]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/D9/GDIH59RKQUBJ191JHDHU7D
+[2022.04.28-09.29.23:060][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/GDIH59RKQUBJ191JHDHU7D5E512A6341048D0018FD5BBED0EC30A1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/D9/GDIH59RKQUBJ191JHDHU7D.uasset'
+[2022.04.28-09.29.23:064][522]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/7L/MVRBPEDQ83NYWK3J3883RK
+[2022.04.28-09.29.23:065][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/MVRBPEDQ83NYWK3J3883RK52D60212488669723CA8D6831641E6BC.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/7L/MVRBPEDQ83NYWK3J3883RK.uasset'
+[2022.04.28-09.29.23:084][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeBaseMesh" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/TreeBaseMesh.uasset" SILENT=true
+[2022.04.28-09.29.23:088][522]LogSavePackage: Moving output files for package: /Game/TreeBaseMesh
+[2022.04.28-09.29.23:088][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/TreeBaseMeshCA991C4C45A6F81420C57995A5141E09.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/TreeBaseMesh.uasset'
+[2022.04.28-09.29.23:089][522]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/KG/HABX8R3CN2N0EGQM45IK8Z
+[2022.04.28-09.29.23:090][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/HABX8R3CN2N0EGQM45IK8Z718C1C894CE330AD857672AD0C332795.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/KG/HABX8R3CN2N0EGQM45IK8Z.uasset'
+[2022.04.28-09.29.23:090][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Materials/Grey02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Materials/Grey02.uasset" SILENT=true
+[2022.04.28-09.29.23:091][522]LogSavePackage: Moving output files for package: /Game/LDK/Materials/Grey02
+[2022.04.28-09.29.23:091][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Grey025C4819E045AC0E7270E820B7BF289C74.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Materials/Grey02.uasset'
+[2022.04.28-09.29.23:092][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/Grey02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Materials/Grey02.uasset" SILENT=true
+[2022.04.28-09.29.23:092][522]LogSavePackage: Moving output files for package: /Game/Art/Materials/Grey02
+[2022.04.28-09.29.23:093][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Grey0288BA1B8D4A5998F8FA4A2CA56A1496E5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Materials/Grey02.uasset'
+[2022.04.28-09.29.23:093][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Materials/Grey01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Materials/Grey01.uasset" SILENT=true
+[2022.04.28-09.29.23:094][522]LogSavePackage: Moving output files for package: /Game/LDK/Materials/Grey01
+[2022.04.28-09.29.23:094][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Grey01B97C31EE43F30868ABC11E8CA1ADC1FB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Materials/Grey01.uasset'
+[2022.04.28-09.29.23:102][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Floors/Floor01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Floors/Floor01.uasset" SILENT=true
+[2022.04.28-09.29.23:106][522]LogSavePackage: Moving output files for package: /Game/LDK/Floors/Floor01
+[2022.04.28-09.29.23:106][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Floor01BD805B6148A70953B1B9C0A4AEF40516.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Floors/Floor01.uasset'
+[2022.04.28-09.29.23:106][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Floors/Floor01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor01.uasset" SILENT=true
+[2022.04.28-09.29.23:107][522]LogSavePackage: Moving output files for package: /Game/Art/Floors/Floor01
+[2022.04.28-09.29.23:107][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Floor013D76758E48AA5B302895A6A913680A3A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor01.uasset'
+[2022.04.28-09.29.23:115][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Floors/Floor02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Floors/Floor02.uasset" SILENT=true
+[2022.04.28-09.29.23:118][522]LogSavePackage: Moving output files for package: /Game/LDK/Floors/Floor02
+[2022.04.28-09.29.23:118][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Floor02309D75AD4E9D807F490BD1B8FCD0475E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Floors/Floor02.uasset'
+[2022.04.28-09.29.23:119][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Floors/Floor02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor02.uasset" SILENT=true
+[2022.04.28-09.29.23:119][522]LogSavePackage: Moving output files for package: /Game/Art/Floors/Floor02
+[2022.04.28-09.29.23:120][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Floor02636D688F48B9EF4F191443967A8337F1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Floors/Floor02.uasset'
+[2022.04.28-09.29.23:127][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Mountains/Cliff01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Mountains/Cliff01.uasset" SILENT=true
+[2022.04.28-09.29.23:131][522]LogSavePackage: Moving output files for package: /Game/LDK/Mountains/Cliff01
+[2022.04.28-09.29.23:131][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Cliff018AFD8C89475F274BDC3BA891EB7ADC03.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Mountains/Cliff01.uasset'
+[2022.04.28-09.29.23:131][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Mountains/Cliff01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Cliff01.uasset" SILENT=true
+[2022.04.28-09.29.23:132][522]LogSavePackage: Moving output files for package: /Game/Art/Mountains/Cliff01
+[2022.04.28-09.29.23:132][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Cliff012F1399DD4FD3E3520863DD874E56B5AA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Cliff01.uasset'
+[2022.04.28-09.29.23:140][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Pillar01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar01.uasset" SILENT=true
+[2022.04.28-09.29.23:143][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Pillar01
+[2022.04.28-09.29.23:143][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar0104EED8B94D50BE1603435AB380A89453.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar01.uasset'
+[2022.04.28-09.29.23:144][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Pillar01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar01.uasset" SILENT=true
+[2022.04.28-09.29.23:145][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Pillar01
+[2022.04.28-09.29.23:145][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar0164E014AC43113180C06943A5F48CA1AD.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar01.uasset'
+[2022.04.28-09.29.23:153][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Pillar02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar02.uasset" SILENT=true
+[2022.04.28-09.29.23:156][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Pillar02
+[2022.04.28-09.29.23:156][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar02CC10A925432E04D15261EFBCE128378D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar02.uasset'
+[2022.04.28-09.29.23:157][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Pillar02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar02.uasset" SILENT=true
+[2022.04.28-09.29.23:158][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Pillar02
+[2022.04.28-09.29.23:158][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar02A908316F4139778589CBCF82015230E0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar02.uasset'
+[2022.04.28-09.29.23:165][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01.uasset" SILENT=true
+[2022.04.28-09.29.23:168][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall01
+[2022.04.28-09.29.23:168][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall01315F8C0B47621551423CCCB37DA38263.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01.uasset'
+[2022.04.28-09.29.23:169][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall01.uasset" SILENT=true
+[2022.04.28-09.29.23:169][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall01
+[2022.04.28-09.29.23:170][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall0177CDD78C4AEAC3CAB0855B851316A1C8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall01.uasset'
+[2022.04.28-09.29.23:178][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall02.uasset" SILENT=true
+[2022.04.28-09.29.23:180][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall02
+[2022.04.28-09.29.23:180][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall02992FC01B4CAAB20F35CE8EA8C845AF06.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall02.uasset'
+[2022.04.28-09.29.23:181][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall02.uasset" SILENT=true
+[2022.04.28-09.29.23:182][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall02
+[2022.04.28-09.29.23:182][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall02E60DF5FE49667A37EEA651B538ECF08C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall02.uasset'
+[2022.04.28-09.29.23:190][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall02_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall02_Door.uasset" SILENT=true
+[2022.04.28-09.29.23:193][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall02_Door
+[2022.04.28-09.29.23:193][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall02_Door18F67D8B467DCD2423B2029844536693.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall02_Door.uasset'
+[2022.04.28-09.29.23:194][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall02_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall02_Door.uasset" SILENT=true
+[2022.04.28-09.29.23:195][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall02_Door
+[2022.04.28-09.29.23:195][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall02_DoorEF91C3584157D656AF273CAA40FB70E1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall02_Door.uasset'
+[2022.04.28-09.29.23:202][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall_Half" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Half.uasset" SILENT=true
+[2022.04.28-09.29.23:205][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall_Half
+[2022.04.28-09.29.23:205][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_HalfD66D57434B6C4FEEE4D869872D22A469.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Half.uasset'
+[2022.04.28-09.29.23:206][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall_Half" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Half.uasset" SILENT=true
+[2022.04.28-09.29.23:207][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall_Half
+[2022.04.28-09.29.23:207][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Half29BC9B5D474C7EFD591B10B19A85C97B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Half.uasset'
+[2022.04.28-09.29.23:215][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/WallCorner02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/WallCorner02.uasset" SILENT=true
+[2022.04.28-09.29.23:219][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/WallCorner02
+[2022.04.28-09.29.23:219][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/WallCorner02A3BCCA5B445DE847F54586BF272339B5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/WallCorner02.uasset'
+[2022.04.28-09.29.23:220][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/WallCorner02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/WallCorner02.uasset" SILENT=true
+[2022.04.28-09.29.23:221][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/WallCorner02
+[2022.04.28-09.29.23:221][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/WallCorner025B1610D0457DD44AA95A6DBD88F887DD.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/WallCorner02.uasset'
+[2022.04.28-09.29.23:228][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Pillar05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar05.uasset" SILENT=true
+[2022.04.28-09.29.23:232][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Pillar05
+[2022.04.28-09.29.23:232][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar055BB13D6044BCB536F1BB65B500A23E95.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar05.uasset'
+[2022.04.28-09.29.23:232][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Pillar05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar05.uasset" SILENT=true
+[2022.04.28-09.29.23:233][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Pillar05
+[2022.04.28-09.29.23:233][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar05ADB9D2F2453114C11D07FBB278BABA6E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar05.uasset'
+[2022.04.28-09.29.23:241][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall01_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01_Door.uasset" SILENT=true
+[2022.04.28-09.29.23:244][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall01_Door
+[2022.04.28-09.29.23:244][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall01_DoorFDA411CA40FC9F5FD4BF5BB9F3413ECA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01_Door.uasset'
+[2022.04.28-09.29.23:245][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall01_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall01_Door.uasset" SILENT=true
+[2022.04.28-09.29.23:245][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall01_Door
+[2022.04.28-09.29.23:246][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall01_Door59BC8FBF43141ED85884B89C794E0042.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall01_Door.uasset'
+[2022.04.28-09.29.23:253][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Pillar04" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar04.uasset" SILENT=true
+[2022.04.28-09.29.23:256][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Pillar04
+[2022.04.28-09.29.23:256][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar04DF22D33C481F24FA4E0B79BD4232A1CE.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar04.uasset'
+[2022.04.28-09.29.23:257][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Pillar04" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar04.uasset" SILENT=true
+[2022.04.28-09.29.23:258][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Pillar04
+[2022.04.28-09.29.23:258][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar04D484170E43F6253C2F0AE89A53997E78.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar04.uasset'
+[2022.04.28-09.29.23:266][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Pillar03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar03.uasset" SILENT=true
+[2022.04.28-09.29.23:269][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Pillar03
+[2022.04.28-09.29.23:269][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar036C9DC0FF48E84DD0E27451A80ADE73AD.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar03.uasset'
+[2022.04.28-09.29.23:270][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Pillar03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar03.uasset" SILENT=true
+[2022.04.28-09.29.23:270][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Pillar03
+[2022.04.28-09.29.23:271][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar03CFA5D5774A283DEA421686955FEE7C41.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar03.uasset'
+[2022.04.28-09.29.23:279][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Mountains/Mountain02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Mountains/Mountain02.uasset" SILENT=true
+[2022.04.28-09.29.23:282][522]LogSavePackage: Moving output files for package: /Game/LDK/Mountains/Mountain02
+[2022.04.28-09.29.23:282][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Mountain02AAC6C01B4BA20898BB4CD486ECC16B84.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Mountains/Mountain02.uasset'
+[2022.04.28-09.29.23:283][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Mountains/Mountain02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Mountain02.uasset" SILENT=true
+[2022.04.28-09.29.23:284][522]LogSavePackage: Moving output files for package: /Game/Art/Mountains/Mountain02
+[2022.04.28-09.29.23:284][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Mountain02AD06099848FFD5AE79A260BBAB693E0B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Mountain02.uasset'
+[2022.04.28-09.29.23:292][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Mountains/Mountain01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Mountains/Mountain01.uasset" SILENT=true
+[2022.04.28-09.29.23:295][522]LogSavePackage: Moving output files for package: /Game/LDK/Mountains/Mountain01
+[2022.04.28-09.29.23:295][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Mountain0152DFBF1A4B31653045D13E804D172895.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Mountains/Mountain01.uasset'
+[2022.04.28-09.29.23:296][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Mountains/Mountain01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Mountain01.uasset" SILENT=true
+[2022.04.28-09.29.23:297][522]LogSavePackage: Moving output files for package: /Game/Art/Mountains/Mountain01
+[2022.04.28-09.29.23:297][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Mountain0188B1A311430FABF6ED1C7B8F3716D635.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Mountains/Mountain01.uasset'
+[2022.04.28-09.29.23:305][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Trees/Tree02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Trees/Tree02.uasset" SILENT=true
+[2022.04.28-09.29.23:308][522]LogSavePackage: Moving output files for package: /Game/LDK/Trees/Tree02
+[2022.04.28-09.29.23:308][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Tree0280886066426F7027CEBDA8AA46084B77.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Trees/Tree02.uasset'
+[2022.04.28-09.29.23:309][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall_Catacomb02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Catacomb02.uasset" SILENT=true
+[2022.04.28-09.29.23:312][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall_Catacomb02
+[2022.04.28-09.29.23:312][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02D5D0AA134757666A4A4A55BCD15F4655.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Catacomb02.uasset'
+[2022.04.28-09.29.23:313][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall_Catacomb02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Catacomb02.uasset" SILENT=true
+[2022.04.28-09.29.23:314][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall_Catacomb02
+[2022.04.28-09.29.23:314][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02A47BFBAF4CA77A34A13A22837A1DD5D0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Catacomb02.uasset'
+[2022.04.28-09.29.23:315][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall_Catacomb01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Catacomb01.uasset" SILENT=true
+[2022.04.28-09.29.23:317][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall_Catacomb01
+[2022.04.28-09.29.23:317][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb0188D60DFB438594AC587A42B1B20D052E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Catacomb01.uasset'
+[2022.04.28-09.29.23:318][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall_Catacomb01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Catacomb01.uasset" SILENT=true
+[2022.04.28-09.29.23:319][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall_Catacomb01
+[2022.04.28-09.29.23:319][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01F9D6B9A94DB7A8F737E03EB53D6B50A3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Catacomb01.uasset'
+[2022.04.28-09.29.23:320][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs04" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs04.uasset" SILENT=true
+[2022.04.28-09.29.23:322][522]LogSavePackage: Moving output files for package: /Game/LDK/Stairs/Stairs04
+[2022.04.28-09.29.23:322][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs047E286F214E27C2CBA7D912BD5B949370.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs04.uasset'
+[2022.04.28-09.29.23:323][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs03.uasset" SILENT=true
+[2022.04.28-09.29.23:326][522]LogSavePackage: Moving output files for package: /Game/LDK/Stairs/Stairs03
+[2022.04.28-09.29.23:326][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs03107D5FAF44B00306656F579CE49CCD67.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs03.uasset'
+[2022.04.28-09.29.23:326][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs02.uasset" SILENT=true
+[2022.04.28-09.29.23:329][522]LogSavePackage: Moving output files for package: /Game/LDK/Stairs/Stairs02
+[2022.04.28-09.29.23:329][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs02F8027CC04C65424E6A134DB5A6BD59D7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs02.uasset'
+[2022.04.28-09.29.23:330][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs01.uasset" SILENT=true
+[2022.04.28-09.29.23:332][522]LogSavePackage: Moving output files for package: /Game/LDK/Stairs/Stairs01
+[2022.04.28-09.29.23:332][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs01BF8E90094F96458D64283EB202CD7717.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs01.uasset'
+[2022.04.28-09.29.23:333][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs01.uasset" SILENT=true
+[2022.04.28-09.29.23:334][522]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs01
+[2022.04.28-09.29.23:334][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs01B234EDC44E8FC9D562DFFB91F2E604D3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs01.uasset'
+[2022.04.28-09.29.23:334][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs06" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs06.uasset" SILENT=true
+[2022.04.28-09.29.23:337][522]LogSavePackage: Moving output files for package: /Game/LDK/Stairs/Stairs06
+[2022.04.28-09.29.23:337][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs062B526264413C7F87A319979900E28455.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs06.uasset'
+[2022.04.28-09.29.23:338][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall_Fringe02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Fringe02.uasset" SILENT=true
+[2022.04.28-09.29.23:341][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall_Fringe02
+[2022.04.28-09.29.23:341][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Fringe02E2E8E9914E7EDC6506E8B28B462FE11C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Fringe02.uasset'
+[2022.04.28-09.29.23:342][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall_Fringe02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Fringe02.uasset" SILENT=true
+[2022.04.28-09.29.23:342][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall_Fringe02
+[2022.04.28-09.29.23:342][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Fringe0228EC183F470EDD27FF73BB9C4FAE66FB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Fringe02.uasset'
+[2022.04.28-09.29.23:343][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs05.uasset" SILENT=true
+[2022.04.28-09.29.23:346][522]LogSavePackage: Moving output files for package: /Game/LDK/Stairs/Stairs05
+[2022.04.28-09.29.23:346][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs05DE9C11314FB0AAD1B13E3098F024DA53.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs05.uasset'
+[2022.04.28-09.29.23:347][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs05.uasset" SILENT=true
+[2022.04.28-09.29.23:347][522]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs05
+[2022.04.28-09.29.23:347][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs05A99D44C94A761ABECBB665B0CF3BCA38.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs05.uasset'
+[2022.04.28-09.29.23:348][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall_Fringe01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Fringe01.uasset" SILENT=true
+[2022.04.28-09.29.23:351][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall_Fringe01
+[2022.04.28-09.29.23:351][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Fringe01CEFF4E67490689A404C66DB42C9D1511.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Fringe01.uasset'
+[2022.04.28-09.29.23:351][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Pillar06" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar06.uasset" SILENT=true
+[2022.04.28-09.29.23:354][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Pillar06
+[2022.04.28-09.29.23:354][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar0633617840445EB116E124B4A2F0F418AF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar06.uasset'
+[2022.04.28-09.29.23:355][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Pillar06" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar06.uasset" SILENT=true
+[2022.04.28-09.29.23:355][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Pillar06
+[2022.04.28-09.29.23:356][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar0663592DB949A08043E6C2C194A83353A5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Pillar06.uasset'
+[2022.04.28-09.29.23:356][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Arch01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Arch01.uasset" SILENT=true
+[2022.04.28-09.29.23:359][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Arch01
+[2022.04.28-09.29.23:359][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Arch01AB8F9E1249E20C4CD4EC9EA2C424FD30.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Arch01.uasset'
+[2022.04.28-09.29.23:360][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Arch01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Arch01.uasset" SILENT=true
+[2022.04.28-09.29.23:360][522]LogSavePackage: Moving output files for package: /Game/Art/Walls/Arch01
+[2022.04.28-09.29.23:360][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Arch0179D54B7E4AD516B183F6FA91F72538D9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Arch01.uasset'
+[2022.04.28-09.29.23:361][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Floors/Floor01_half" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Floors/Floor01_half.uasset" SILENT=true
+[2022.04.28-09.29.23:364][522]LogSavePackage: Moving output files for package: /Game/LDK/Floors/Floor01_half
+[2022.04.28-09.29.23:364][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Floor01_half0F64180E49D733EAE03AF78CD4420084.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Floors/Floor01_half.uasset'
+[2022.04.28-09.29.23:364][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/WallCorner01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/WallCorner01.uasset" SILENT=true
+[2022.04.28-09.29.23:368][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/WallCorner01
+[2022.04.28-09.29.23:368][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/WallCorner01A1323D1A4F359D0F5CD9C5B58594FA32.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/WallCorner01.uasset'
+[2022.04.28-09.29.23:368][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall01_half" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01_half.uasset" SILENT=true
+[2022.04.28-09.29.23:371][522]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall01_half
+[2022.04.28-09.29.23:371][522]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall01_half7A5A4E27490C5E6DD5E0AD9B728BDE55.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01_half.uasset'
+[2022.04.28-09.29.23:431][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.28-09.29.23:441][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.28-09.29.23:447][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.04.28-09.29.23:455][522]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating Material /Game/LDK/Materials/Grey02.Grey02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating Material /Game/LDK/Materials/Grey01.Grey01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Floors/Floor01.Floor01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Mountains/Cliff01.Cliff01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Pillar01.Pillar01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Pillar02.Pillar02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall01.Wall01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall02.Wall02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall02_Door.Wall02_Door
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/WallCorner02.WallCorner02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall01_Door.Wall01_Door
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Mountains/Mountain02.Mountain02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Pillar03.Pillar03
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Pillar04.Pillar04
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Pillar04.Pillar04
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Pillar03.Pillar03
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Mountains/Mountain02.Mountain02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Mountains/Mountain01.Mountain01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating StaticMesh /Game/TreeBaseMesh.TreeBaseMesh
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Arch01.Arch01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Pillar06.Pillar06
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Wall_Fringe02.Wall_Fringe02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Mountains/Mountain01.Mountain01
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Wall01_Door.Wall01_Door
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Pillar05.Pillar05
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/WallCorner02.WallCorner02
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Wall_Half.Wall_Half
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Wall02_Door.Wall02_Door
+[2022.04.28-09.29.23:455][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Wall02.Wall02
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Wall01.Wall01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Pillar02.Pillar02
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Walls/Pillar01.Pillar01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Mountains/Cliff01.Cliff01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Floors/Floor02.Floor02
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Floors/Floor01.Floor01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Materials/Grey02.Grey02
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall01_half.Wall01_half
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/WallCorner01.WallCorner01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Floors/Floor01_half.Floor01_half
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Trees/Tree02.Tree02
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs04.Stairs04
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs02.Stairs02
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs01.Stairs01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs06.Stairs06
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs05.Stairs05
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall_Fringe01.Wall_Fringe01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Pillar06.Pillar06
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Arch01.Arch01
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_1831BF21EF14230A01_1746873892
+[2022.04.28-09.29.23:456][522]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_1831BF21EF14230A01_1746873892'
+[2022.04.28-09.29.23:456][522]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_1831BF21EF14230A01_1188572891
+[2022.04.28-09.29.23:457][522]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_1831BF21EF14230A01_1188572891'
+[2022.04.28-09.29.23:457][522]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_1831BF21EF14230A01_1792322894
+[2022.04.28-09.29.23:457][522]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_1831BF21EF14230A01_1792322894'
+[2022.04.28-09.29.37:336][341]LogContentBrowser: Attempting asset rename: TreeBaseMesh -> Tree01
+[2022.04.28-09.29.37:353][341]LogMetaData: Removing '/Game/Tree01.Tree01' ref from Metadata '/Game/TreeBaseMesh.PackageMetaData'
+[2022.04.28-09.29.37:424][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Tree01.uasset" SILENT=true
+[2022.04.28-09.29.37:426][341]LogSavePackage: Moving output files for package: /Game/Tree01
+[2022.04.28-09.29.37:427][341]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Tree01C5A6B2AA4A7202E8B302EAA62F80F26F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Tree01.uasset'
+[2022.04.28-09.29.37:427][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeBaseMesh" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/TreeBaseMesh.uasset" SILENT=true
+[2022.04.28-09.29.37:427][341]LogSavePackage: Moving output files for package: /Game/TreeBaseMesh
+[2022.04.28-09.29.37:428][341]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/TreeBaseMesh313E6BC0481AD6C14A84C9A0F2189176.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/TreeBaseMesh.uasset'
+[2022.04.28-09.29.37:438][341]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-09.29.37:438][341]LogContentValidation: Display: Validating StaticMesh /Game/Tree01.Tree01
+[2022.04.28-09.29.37:439][341]LogContentValidation: Display: Validating ObjectRedirector /Game/TreeBaseMesh.TreeBaseMesh
+[2022.04.28-09.29.43:994][690]LogMetaData: Removing '/Game/LDK/Tree01.Tree01' ref from Metadata '/Game/Tree01.PackageMetaData'
+[2022.04.28-09.29.44:055][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeBaseMesh" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/TreeBaseMesh.uasset" SILENT=true
+[2022.04.28-09.29.44:056][690]LogSavePackage: Moving output files for package: /Game/TreeBaseMesh
+[2022.04.28-09.29.44:056][690]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/TreeBaseMesh62DB70E74CAB7FBDC9065A9771CD2F97.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/TreeBaseMesh.uasset'
+[2022.04.28-09.29.44:057][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Tree01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Tree01.uasset" SILENT=true
+[2022.04.28-09.29.44:060][690]LogSavePackage: Moving output files for package: /Game/LDK/Tree01
+[2022.04.28-09.29.44:060][690]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Tree01F710F98745427434D57FFC9981AB8E80.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Tree01.uasset'
+[2022.04.28-09.29.44:078][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.28-09.29.44:085][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.28-09.29.44:092][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.04.28-09.29.44:106][690]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-09.29.44:106][690]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Tree01.Tree01
+[2022.04.28-09.29.44:106][690]LogContentValidation: Display: Validating ObjectRedirector /Game/TreeBaseMesh.TreeBaseMesh
