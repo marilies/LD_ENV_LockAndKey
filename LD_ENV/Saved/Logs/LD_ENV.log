@@ -1049,3 +1049,141 @@ An asset already exists at the import location: /Game/Art/Walls/Arch01
 [2022.04.28-08.22.51:351][286]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2022.04.28-08.23.01:878][913]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2022.04.28-08.23.11:473][485]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-08.26.42:726][383]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb01.fbx)
+[2022.04.28-08.26.42:761][383]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb01.fbx
+[2022.04.28-08.26.42:765][383]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-08.26.44:338][383]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-08.26.44:392][383]LogFbx: Display: Triangulating static mesh Catacomb01
+[2022.04.28-08.26.44:397][383]LogStaticMesh: Display: Building static mesh Wall_Catacomb01...
+[2022.04.28-08.26.44:443][383]LogStaticMesh: Built static mesh [0.05s] /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.26.44:443][383]LogStaticMesh: Display: Building static mesh Wall_Catacomb01...
+[2022.04.28-08.26.44:499][383]LogStaticMesh: Built static mesh [0.06s] /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.26.44:504][383]LogStaticMesh: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-08.26.44:504][383]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.26.44:504][383]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.26.44:511][383]FBXImport: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-08.26.44:511][383]FBXImport: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-08.26.44:511][383]FBXImport: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-08.26.44:582][383]LogStaticMesh: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-08.26.44:582][383]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.26.44:582][383]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.26.44:582][383]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb02.fbx)
+[2022.04.28-08.26.44:592][383]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb02.fbx
+[2022.04.28-08.26.44:598][383]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-08.26.44:600][383]LogFbx: Display: Triangulating static mesh Catacomb02
+[2022.04.28-08.26.44:611][383]LogStaticMesh: Display: Building static mesh Wall_Catacomb02...
+[2022.04.28-08.26.44:687][383]LogStaticMesh: Built static mesh [0.08s] /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.26.44:687][383]LogStaticMesh: Display: Building static mesh Wall_Catacomb02...
+[2022.04.28-08.26.44:802][383]LogStaticMesh: Built static mesh [0.12s] /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.26.44:804][383]LogStaticMesh: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-08.26.44:804][383]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.26.44:804][383]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.26.44:811][383]FBXImport: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-08.26.44:811][383]FBXImport: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-08.26.44:811][383]FBXImport: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-08.26.44:951][383]LogStaticMesh: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-08.26.44:951][383]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.26.44:951][383]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.26.50:072][537]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-08.26.50:127][537]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-08.27.16:356][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.28-08.27.16:364][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.28-08.27.16:388][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto6
+[2022.04.28-08.27.16:389][701]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto6023F9B6A4C8903A15D2EF5A0008FC98E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto6.umap'
+[2022.04.28-08.27.16:393][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.046
+[2022.04.28-08.27.16:393][701]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2022.04.28-08.27.16:393][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Walls/Arch01] ([1] browsable assets)...
+[2022.04.28-08.27.16:428][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Walls/Arch01.Arch01]
+[2022.04.28-08.27.16:428][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Walls/Arch01]
+[2022.04.28-08.27.16:428][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Arch01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/Arch01_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.04.28-08.27.16:431][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Walls/Arch01_Auto6
+[2022.04.28-08.27.16:431][701]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Arch01_Auto6C9ECB5794832914501F01CB785796290.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/Arch01_Auto6.uasset'
+[2022.04.28-08.27.16:431][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Walls/Wall_Catacomb01] ([1] browsable assets)...
+[2022.04.28-08.27.16:441][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01]
+[2022.04.28-08.27.16:441][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Walls/Wall_Catacomb01]
+[2022.04.28-08.27.16:444][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Walls/Wall_Catacomb01_Auto6
+[2022.04.28-08.27.16:444][701]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01_Auto6E1F52B754EEB3B2A1A9D91BB2D8C054A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/Wall_Catacomb01_Auto6.uasset'
+[2022.04.28-08.27.16:445][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Walls/Wall_Catacomb02] ([1] browsable assets)...
+[2022.04.28-08.27.16:453][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02]
+[2022.04.28-08.27.16:453][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Walls/Wall_Catacomb02]
+[2022.04.28-08.27.16:456][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Walls/Wall_Catacomb02_Auto6
+[2022.04.28-08.27.16:457][701]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02_Auto6971496784DAD03671A2FE9BF88C60552.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Walls/Wall_Catacomb02_Auto6.uasset'
+[2022.04.28-08.27.16:457][701]LogFileHelpers: Auto-saving content packages took 0.064
+[2022.04.28-08.27.45:160][817]LogSlate: Window 'Message' being destroyed
+[2022.04.28-08.27.45:182][817]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Walls/Wall_Catacomb01
+[2022.04.28-08.27.45:182][817]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb01.fbx)
+[2022.04.28-08.27.45:184][817]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb01.fbx]
+[2022.04.28-08.27.45:215][817]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb01.fbx
+[2022.04.28-08.27.45:220][817]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-08.27.45:227][817]LogFbx: Display: Triangulating static mesh Catacomb01
+[2022.04.28-08.27.45:233][817]LogStaticMesh: Display: Building static mesh Wall_Catacomb01...
+[2022.04.28-08.27.45:278][817]LogStaticMesh: Built static mesh [0.05s] /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.27.45:279][817]LogStaticMesh: Display: Building static mesh Wall_Catacomb01...
+[2022.04.28-08.27.45:337][817]LogStaticMesh: Built static mesh [0.06s] /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.27.45:338][817]LogStaticMesh: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-08.27.45:338][817]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.27.45:338][817]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.27.45:344][817]LogEditorFactories: -- imported successfully
+[2022.04.28-08.27.45:344][817]FBXImport: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-08.27.45:344][817]FBXImport: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-08.27.45:344][817]FBXImport: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-08.27.45:402][817]LogStaticMesh: Warning: Wall_Catacomb01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-08.27.45:402][817]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.27.45:402][817]LogStaticMesh: Warning: Wall_Catacomb01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.27.47:276][817]LogSlate: Window 'Message' being destroyed
+[2022.04.28-08.27.47:316][817]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Walls/Wall_Catacomb02
+[2022.04.28-08.27.47:316][817]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb02.fbx)
+[2022.04.28-08.27.47:317][817]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb02.fbx]
+[2022.04.28-08.27.47:380][817]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall_Catacomb02.fbx
+[2022.04.28-08.27.47:385][817]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-08.27.47:410][817]LogFbx: Display: Triangulating static mesh Catacomb02
+[2022.04.28-08.27.47:420][817]LogStaticMesh: Display: Building static mesh Wall_Catacomb02...
+[2022.04.28-08.27.47:498][817]LogStaticMesh: Built static mesh [0.08s] /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.27.47:498][817]LogStaticMesh: Display: Building static mesh Wall_Catacomb02...
+[2022.04.28-08.27.47:606][817]LogStaticMesh: Built static mesh [0.11s] /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.27.47:607][817]LogStaticMesh: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-08.27.47:607][817]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.27.47:607][817]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.27.47:613][817]LogEditorFactories: -- imported successfully
+[2022.04.28-08.27.47:614][817]FBXImport: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-08.27.47:614][817]FBXImport: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-08.27.47:614][817]FBXImport: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-08.27.47:637][817]LogStaticMesh: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-08.27.47:637][817]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.27.47:637][817]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-08.27.50:129][856]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.27.50:225][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-08.27.54:426][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall_Catacomb01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Catacomb01.uasset" SILENT=true
+[2022.04.28-08.27.54:429][924]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall_Catacomb01
+[2022.04.28-08.27.54:429][924]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01BE3525744D7E495963F91A863998E669.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Catacomb01.uasset'
+[2022.04.28-08.27.54:461][924]AssetCheck: New page: Asset Save: Wall_Catacomb01
+[2022.04.28-08.27.54:461][924]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.27.57:305][987]LogSlate: Window 'Wall_Catacomb01' being destroyed
+[2022.04.28-08.27.57:422][987]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-08.27.57:422][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-08.27.58:739][ 49]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.27.58:800][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-08.28.05:667][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Walls/Wall_Catacomb02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Catacomb02.uasset" SILENT=true
+[2022.04.28-08.28.05:670][194]LogSavePackage: Moving output files for package: /Game/Art/Walls/Wall_Catacomb02
+[2022.04.28-08.28.05:670][194]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb023A75F298458139AD97774FAE7BB1BF26.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Walls/Wall_Catacomb02.uasset'
+[2022.04.28-08.28.05:702][194]AssetCheck: New page: Asset Save: Wall_Catacomb02
+[2022.04.28-08.28.05:702][194]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.28.06:381][209]LogSlate: Window 'Wall_Catacomb02' being destroyed
+[2022.04.28-08.28.06:500][209]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-08.28.06:500][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-08.28.07:896][269]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.28.07:896][269]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.28.07:896][269]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_70
+[2022.04.28-08.28.09:359][356]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.28.09:359][356]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.28-08.28.09:360][356]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Catacomb01.Wall_Catacomb01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_71
+[2022.04.28-08.28.11:657][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.28.11:657][454]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.28.11:657][454]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_72
+[2022.04.28-08.28.13:402][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.28.13:402][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.28-08.28.13:403][557]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Walls/Wall_Catacomb02.Wall_Catacomb02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_73
