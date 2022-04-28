@@ -766,3 +766,34 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.28-14.19.56:267][680]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto1376932C141D77C9C1DE214A72E3BED54.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto1.umap'
 [2022.04.28-14.19.56:272][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.024
 [2022.04.28-14.19.56:272][680]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2022.04.28-14.26.52:043][195]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Pillar07.fbx)
+[2022.04.28-14.26.52:083][195]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Pillar07.fbx
+[2022.04.28-14.26.52:087][195]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-14.26.53:751][195]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-14.26.53:800][195]LogFbx: Display: Triangulating static mesh Pillar09
+[2022.04.28-14.26.53:803][195]LogStaticMesh: Display: Building static mesh Pillar07...
+[2022.04.28-14.26.53:823][195]LogStaticMesh: Built static mesh [0.02s] /Game/LDK/Walls/Pillar07.Pillar07
+[2022.04.28-14.26.53:824][195]LogStaticMesh: Display: Building static mesh Pillar07...
+[2022.04.28-14.26.53:845][195]LogStaticMesh: Built static mesh [0.02s] /Game/LDK/Walls/Pillar07.Pillar07
+[2022.04.28-14.26.55:692][234]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LDK/Walls/Pillar07.Pillar07
+[2022.04.28-14.26.55:770][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-14.26.55:801][234]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.04.28-14.26.58:180][272]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.28-14.27.04:482][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Pillar07" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar07.uasset" SILENT=true
+[2022.04.28-14.27.04:485][363]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Pillar07
+[2022.04.28-14.27.04:485][363]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar073721B4A54D537EC40EDC369CCB4720BC.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Pillar07.uasset'
+[2022.04.28-14.27.04:506][363]AssetCheck: New page: Asset Save: Pillar07
+[2022.04.28-14.27.04:506][363]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Pillar07.Pillar07
+[2022.04.28-14.27.05:648][382]LogSlate: Window 'Pillar07' being destroyed
+[2022.04.28-14.27.05:758][382]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-14.27.05:758][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-14.27.07:552][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.28-14.27.08:979][427]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-14.27.09:106][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-14.27.09:112][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.28-14.27.09:123][427]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-14.27.09:123][427]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main40BD836D4C517BC68C2F4A986C60B26D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-14.27.09:131][427]LogFileHelpers: No new changes to save!
+[2022.04.28-14.27.09:131][427]LogFileHelpers: Saving map 'Main' took 0.025
+[2022.04.28-14.27.09:155][427]AssetCheck: New page: Asset Save: Main
+[2022.04.28-14.27.09:155][427]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
