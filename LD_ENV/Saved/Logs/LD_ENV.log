@@ -1249,3 +1249,94 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.28-13.07.55:680][102]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_3
 [2022.04.28-13.07.55:954][119]Cmd: TRANSACTION UNDO
 [2022.04.28-13.07.55:954][119]LogEditorTransaction: Undo Create Actors
+[2022.04.28-13.08.27:737][299]Cmd: DELETE
+[2022.04.28-13.08.27:737][299]Cmd: ACTOR DELETE
+[2022.04.28-13.08.27:744][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-13.08.27:756][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.28-13.08.27:757][299]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.04.28-13.08.30:307][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.12.30:423][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.28-13.12.30:433][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5
+[2022.04.28-13.12.30:433][406]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto5F6D00B9E49261B20418A0EB031298DE5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto5.umap'
+[2022.04.28-13.12.30:439][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.28-13.12.30:462][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto5
+[2022.04.28-13.12.30:463][406]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto5BA325F81459681C62BF001B58471B7C3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap'
+[2022.04.28-13.12.30:467][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.055
+[2022.04.28-13.12.30:467][406]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2022.04.28-13.12.33:405][428]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.12.48:913][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-13.12.48:922][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.04.28-13.12.48:928][866]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-13.12.48:928][866]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/MainAF8853AA46451DA46961939E684AAF16.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-13.12.48:946][866]LogFileHelpers: No new changes to save!
+[2022.04.28-13.12.48:956][866]AssetCheck: New page: Asset Save: Main
+[2022.04.28-13.12.48:956][866]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.28-13.12.52:668][967]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.12.53:575][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.13.22:532][788]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.13.54:244][693]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.14.09:178][138]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.14.25:488][623]Cmd: TRANSACTION UNDO
+[2022.04.28-13.14.25:488][623]LogEditorTransaction: Undo Move Elements
+[2022.04.28-13.14.26:747][646]Cmd: TRANSACTION UNDO
+[2022.04.28-13.14.26:747][646]LogEditorTransaction: Undo Move Elements
+[2022.04.28-13.14.49:399][289]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.16.03:274][685]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.133 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.28-13.16.29:860][476]Cmd: TRANSACTION UNDO
+[2022.04.28-13.16.29:860][476]LogEditorTransaction: Undo Move Elements
+[2022.04.28-13.16.34:528][584]Cmd: DELETE
+[2022.04.28-13.16.34:528][584]Cmd: ACTOR DELETE
+[2022.04.28-13.16.34:571][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-13.16.34:580][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.28-13.16.34:583][584]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.04.28-13.16.34:615][584]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.28-13.16.36:161][632]Cmd: DELETE
+[2022.04.28-13.16.36:161][632]Cmd: ACTOR DELETE
+[2022.04.28-13.16.36:164][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.28-13.16.36:170][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.04.28-13.16.36:172][632]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.28-13.17.15:189][793]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.17.51:462][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall02.Wall02
+[2022.04.28-13.17.51:462][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall02.Wall02
+[2022.04.28-13.17.51:462][785]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall02.Wall02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_10
+[2022.04.28-13.17.52:476][815]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall02.Wall02
+[2022.04.28-13.17.52:476][815]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall02.Wall02
+[2022.04.28-13.17.52:476][815]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall02.Wall02 as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_11
+[2022.04.28-13.18.03:637][148]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-13.19.18:562][ 20]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall03.fbx)
+[2022.04.28-13.19.18:610][ 20]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall03.fbx
+[2022.04.28-13.19.18:615][ 20]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-13.19.20:161][ 20]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-13.19.20:215][ 20]LogFbx: Display: Triangulating static mesh Wall03
+[2022.04.28-13.19.20:216][ 20]LogStaticMesh: Display: Building static mesh Wall03...
+[2022.04.28-13.19.20:218][ 20]LogStaticMesh: Built static mesh [0.00s] /Game/LDK/Walls/Wall03.Wall03
+[2022.04.28-13.19.20:219][ 20]LogStaticMesh: Display: Building static mesh Wall03...
+[2022.04.28-13.19.20:222][ 20]LogStaticMesh: Built static mesh [0.00s] /Game/LDK/Walls/Wall03.Wall03
+[2022.04.28-13.19.20:298][ 20]LogAutomationController: Ignoring very large delta of 9.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.28-13.19.22:542][ 80]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LDK/Walls/Wall03.Wall03
+[2022.04.28-13.19.22:618][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-13.19.27:390][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall03.uasset" SILENT=true
+[2022.04.28-13.19.27:392][153]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall03
+[2022.04.28-13.19.27:392][153]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall03B3C356044E313F0401E42DAD4B56708F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall03.uasset'
+[2022.04.28-13.19.27:424][153]AssetCheck: New page: Asset Save: Wall03
+[2022.04.28-13.19.27:424][153]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall03.Wall03
+[2022.04.28-13.19.28:473][171]LogSlate: Window 'Wall03' being destroyed
+[2022.04.28-13.19.28:587][171]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-13.19.28:587][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-13.19.30:038][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.28-13.19.31:592][212]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-13.19.31:687][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-13.19.31:693][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.28-13.19.31:719][212]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-13.19.31:719][212]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidC29539924D3CE8E17E0F7DAD8DF645D3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-13.19.31:723][212]LogFileHelpers: No new changes to save!
+[2022.04.28-13.19.31:724][212]LogFileHelpers: Saving map 'David' took 0.037
+[2022.04.28-13.19.31:724][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-13.19.31:730][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.28-13.19.31:736][212]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-13.19.31:737][212]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main85D624344B0872AD0E5CCE9709A84560.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-13.19.31:744][212]LogFileHelpers: No new changes to save!
+[2022.04.28-13.19.31:744][212]LogFileHelpers: Saving map 'Main' took 0.020
+[2022.04.28-13.19.31:776][212]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-13.19.31:776][212]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.28-13.19.31:777][212]LogContentValidation: Display: Validating World /Game/David.David
