@@ -1183,3 +1183,69 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.28-12.51.02:429][ 72]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
 [2022.04.28-12.51.02:429][ 72]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Clutter/Tomb01.Tomb01
 [2022.04.28-12.51.02:441][ 72]LogAutomationController: Ignoring very large delta of 2.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.28-12.51.24:748][433]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Box Brush4)
+[2022.04.28-12.52.40:954][ 43]Cmd: TRANSACTION UNDO
+[2022.04.28-12.52.40:954][ 43]LogEditorTransaction: Undo Move Elements
+[2022.04.28-12.52.48:450][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-12.52.59:140][923]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-12.53.09:434][537]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-12.53.40:116][367]Cmd: TRANSACTION UNDO
+[2022.04.28-12.53.40:116][367]LogEditorTransaction: Undo Move Elements
+[2022.04.28-13.01.00:598][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.28-13.01.00:610][716]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4
+[2022.04.28-13.01.00:610][716]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto4E4058904436C21ACBEF73CA7D83D8DE7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto4.umap'
+[2022.04.28-13.01.00:615][716]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.024
+[2022.04.28-13.01.00:615][716]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2022.04.28-13.07.05:397][156]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.28-13.07.05:408][156]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.28-13.07.05:418][157]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.28-13.07.14:633][645]LogContentBrowser: Attempting asset rename: NewFolder -> ArchitecturalModules
+[2022.04.28-13.07.14:637][645]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.28-13.07.18:692][833]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.28-13.07.18:711][833]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.28-13.07.18:728][835]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.28-13.07.24:649][191]LogContentBrowser: Attempting asset rename: NewFolder -> Tomb
+[2022.04.28-13.07.24:653][191]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.28-13.07.30:739][372]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx)
+[2022.04.28-13.07.30:776][372]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx
+[2022.04.28-13.07.30:782][372]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-13.07.32:567][372]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-13.07.32:616][372]LogFbx: Display: Triangulating static mesh Tomb
+[2022.04.28-13.07.32:618][372]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.04.28-13.07.32:633][372]LogStaticMesh: Built static mesh [0.02s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.28-13.07.32:634][372]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.04.28-13.07.32:659][372]LogStaticMesh: Built static mesh [0.03s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.28-13.07.32:668][372]LogFbx: Display: Triangulating static mesh Lid
+[2022.04.28-13.07.32:670][372]LogStaticMesh: Display: Building static mesh Tomb01_Lid...
+[2022.04.28-13.07.32:677][372]LogStaticMesh: Built static mesh [0.01s] /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.28-13.07.32:678][372]LogStaticMesh: Display: Building static mesh Tomb01_Lid...
+[2022.04.28-13.07.32:684][372]LogStaticMesh: Built static mesh [0.01s] /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.28-13.07.32:764][372]LogAutomationController: Ignoring very large delta of 4.95 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.28-13.07.37:299][586]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.28-13.07.37:359][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-13.07.43:624][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Tomb/Tomb01_Tomb" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Tomb/Tomb01_Tomb.uasset" SILENT=true
+[2022.04.28-13.07.43:627][721]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Tomb/Tomb01_Tomb
+[2022.04.28-13.07.43:627][721]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Tomb01_Tomb5E93F4AE415CA381827898B3EDAEF71A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Tomb/Tomb01_Tomb.uasset'
+[2022.04.28-13.07.43:659][721]AssetCheck: New page: Asset Save: Tomb01_Tomb
+[2022.04.28-13.07.43:659][721]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.28-13.07.44:580][741]LogSlate: Window 'Tomb01_Tomb' being destroyed
+[2022.04.28-13.07.44:671][741]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-13.07.44:671][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-13.07.46:072][807]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.28-13.07.46:134][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-13.07.51:827][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Tomb/Tomb01_Lid" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Tomb/Tomb01_Lid.uasset" SILENT=true
+[2022.04.28-13.07.51:830][936]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Tomb/Tomb01_Lid
+[2022.04.28-13.07.51:830][936]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Tomb01_Lid5F1C1425454EB02587EF9690A8ABFA97.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Tomb/Tomb01_Lid.uasset'
+[2022.04.28-13.07.51:861][936]AssetCheck: New page: Asset Save: Tomb01_Lid
+[2022.04.28-13.07.51:861][936]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.28-13.07.52:934][967]LogSlate: Window 'Tomb01_Lid' being destroyed
+[2022.04.28-13.07.53:009][967]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-13.07.53:009][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-13.07.54:426][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.28-13.07.54:426][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.28-13.07.54:426][ 28]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_2
+[2022.04.28-13.07.55:679][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.28-13.07.55:679][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.28-13.07.55:680][102]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/FirstPerson/Maps/Main.Main:PersistentLevel.StaticMeshActor_3
+[2022.04.28-13.07.55:954][119]Cmd: TRANSACTION UNDO
+[2022.04.28-13.07.55:954][119]LogEditorTransaction: Undo Create Actors
