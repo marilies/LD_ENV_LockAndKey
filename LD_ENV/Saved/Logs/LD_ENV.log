@@ -742,3 +742,22 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.28-14.44.08:083][484]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.141 and deleted 0 file(s) with total size 0 MiB.
 [2022.04.28-14.44.17:579][744]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Wall_Half4)
 [2022.04.28-14.44.17:579][744]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Wall_Half5)
+[2022.04.28-14.49.09:631][967]LogSlate: Window 'Outliner' being destroyed
+[2022.04.28-14.49.12:508][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.28-14.49.14:400][ 35]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-14.49.14:527][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-14.49.14:535][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.04.28-14.49.14:539][ 35]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003894 seconds
+[2022.04.28-14.49.14:560][ 35]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-14.49.14:561][ 35]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David5AA612C04920EBD7DA9569A6298FC43B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-14.49.14:568][ 35]LogFileHelpers: No new changes to save!
+[2022.04.28-14.49.14:568][ 35]LogFileHelpers: Saving map 'David' took 0.040
+[2022.04.28-14.49.14:568][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-14.49.14:574][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.04.28-14.49.14:587][ 35]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-14.49.14:587][ 35]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main0A2914464BE7369A82441BB6141616D4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-14.49.14:595][ 35]LogFileHelpers: No new changes to save!
+[2022.04.28-14.49.14:595][ 35]LogFileHelpers: Saving map 'Main' took 0.028
+[2022.04.28-14.49.14:606][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-14.49.14:606][ 35]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.28-14.49.14:607][ 35]LogContentValidation: Display: Validating World /Game/David.David
