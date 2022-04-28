@@ -1216,3 +1216,344 @@ An asset already exists at the import location: /Game/Art/Walls/Wall_Catacomb02
 [2022.04.28-08.42.16:369][423]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
 [2022.04.28-08.42.16:369][423]LogContentValidation: Display: Validating World /Game/David.David
 [2022.04.28-08.42.16:369][423]LogContentValidation: Display: Validating StaticMesh /Game/Art/Walls/Arch01.Arch01
+[2022.04.28-08.58.19:826][617]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.383 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.28-09.07.59:504][731]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.04.28-09.07.59:528][731]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.04.28-09.08.26:771][111]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs01.fbx)
+[2022.04.28-09.08.26:777][111]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs01.fbx
+[2022.04.28-09.08.26:782][111]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.08.30:936][111]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-09.08.30:961][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.28-09.08.30:967][111]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2022.04.28-09.08.31:104][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.28-09.08.31:105][111]FBXImport: Import was canceled. 
+[2022.04.28-09.08.31:188][111]LogAssetTools: The import task was canceled.
+[2022.04.28-09.08.33:622][224]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-09.08.33:647][224]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-09.08.39:501][499]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.28-09.08.39:521][499]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.28-09.08.39:531][500]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.28-09.08.41:648][609]LogContentBrowser: Attempting asset rename: NewFolder -> Stairs
+[2022.04.28-09.08.41:649][609]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.28-09.08.50:772][741]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs01.fbx)
+[2022.04.28-09.08.50:779][741]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs01.fbx
+[2022.04.28-09.08.50:783][741]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.08.52:430][741]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-09.08.52:445][741]LogFbx: Display: Triangulating static mesh Stairs01
+[2022.04.28-09.08.52:449][741]LogStaticMesh: Display: Building static mesh Stairs01...
+[2022.04.28-09.08.52:465][741]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.08.52:466][741]LogStaticMesh: Display: Building static mesh Stairs01...
+[2022.04.28-09.08.52:487][741]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.08.52:586][741]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs02.fbx)
+[2022.04.28-09.08.52:595][741]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs02.fbx
+[2022.04.28-09.08.52:603][741]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.08.52:604][741]LogFbx: Display: Triangulating static mesh Stairs02
+[2022.04.28-09.08.52:607][741]LogStaticMesh: Display: Building static mesh Stairs02...
+[2022.04.28-09.08.52:631][741]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.08.52:631][741]LogStaticMesh: Display: Building static mesh Stairs02...
+[2022.04.28-09.08.52:656][741]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.08.52:665][741]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx)
+[2022.04.28-09.08.52:675][741]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx
+[2022.04.28-09.08.52:682][741]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.08.52:683][741]LogFbx: Display: Triangulating static mesh Stairs03
+[2022.04.28-09.08.52:693][741]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.28-09.08.52:763][741]LogStaticMesh: Built static mesh [0.07s] /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.08.52:764][741]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.28-09.08.52:835][741]LogStaticMesh: Built static mesh [0.07s] /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.08.52:836][741]LogStaticMesh: Warning: Stairs03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-09.08.52:836][741]LogStaticMesh: Warning: Stairs03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.08.52:836][741]LogStaticMesh: Warning: Stairs03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.08.52:843][741]FBXImport: Warning: Stairs03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-09.08.52:843][741]FBXImport: Warning: Stairs03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-09.08.52:843][741]FBXImport: Warning: Stairs03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-09.08.54:027][741]LogMeshUtilities: Finished distance field build in 1.1s - 77x77x77 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 73% occupied, 72 triangles, Stairs03
+[2022.04.28-09.08.54:027][741]LogMeshUtilities: Finished distance field build in 1.1s - 77x77x77 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 73% occupied, 72 triangles, Stairs03
+[2022.04.28-09.08.54:030][741]LogStaticMesh: Warning: Stairs03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-09.08.54:030][741]LogStaticMesh: Warning: Stairs03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.08.54:030][741]LogStaticMesh: Warning: Stairs03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.08.56:128][832]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-09.08.56:154][832]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-09.08.57:175][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.28-09.08.57:177][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.009
+[2022.04.28-09.08.57:178][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Stairs/Stairs01] ([1] browsable assets)...
+[2022.04.28-09.08.57:192][879]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Stairs/Stairs01.Stairs01]
+[2022.04.28-09.08.57:192][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Stairs/Stairs01]
+[2022.04.28-09.08.57:192][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Stairs/Stairs01_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.04.28-09.08.57:195][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Stairs/Stairs01_Auto8
+[2022.04.28-09.08.57:195][879]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs01_Auto833E058934997BB571FBB0CA993BDD159.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Stairs/Stairs01_Auto8.uasset'
+[2022.04.28-09.08.57:195][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Stairs/Stairs02] ([1] browsable assets)...
+[2022.04.28-09.08.57:202][879]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Stairs/Stairs02.Stairs02]
+[2022.04.28-09.08.57:202][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Stairs/Stairs02]
+[2022.04.28-09.08.57:202][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Stairs/Stairs02_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.04.28-09.08.57:205][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Stairs/Stairs02_Auto8
+[2022.04.28-09.08.57:205][879]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs02_Auto8CE2CD1514C726ACB14E2E49A309BF6E4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Stairs/Stairs02_Auto8.uasset'
+[2022.04.28-09.08.57:206][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Stairs/Stairs03] ([1] browsable assets)...
+[2022.04.28-09.08.57:213][879]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Stairs/Stairs03.Stairs03]
+[2022.04.28-09.08.57:213][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Stairs/Stairs03]
+[2022.04.28-09.08.57:213][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Stairs/Stairs03_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.04.28-09.08.57:216][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Stairs/Stairs03_Auto8
+[2022.04.28-09.08.57:216][879]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs03_Auto8C701096648116257754F0F8AF4F27ABF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/Art/Stairs/Stairs03_Auto8.uasset'
+[2022.04.28-09.08.57:216][879]LogFileHelpers: Auto-saving content packages took 0.039
+[2022.04.28-09.09.02:771][957]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.09.02:832][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.09.11:675][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs01.uasset" SILENT=true
+[2022.04.28-09.09.11:678][299]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs01
+[2022.04.28-09.09.11:678][299]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs01A2F4776540C6CF60AF7C1EBDDEF24BEE.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs01.uasset'
+[2022.04.28-09.09.11:687][299]AssetCheck: New page: Asset Save: Stairs01
+[2022.04.28-09.09.11:687][299]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.09.15:610][462]LogSlate: Window 'Stairs01' being destroyed
+[2022.04.28-09.09.15:659][462]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.09.15:660][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.09.16:690][508]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.09.16:746][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.09.23:182][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs02.uasset" SILENT=true
+[2022.04.28-09.09.23:185][756]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs02
+[2022.04.28-09.09.23:185][756]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs02B3547FC74A9F6B4A4D6FCE8C565DEAC8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs02.uasset'
+[2022.04.28-09.09.23:193][756]AssetCheck: New page: Asset Save: Stairs02
+[2022.04.28-09.09.23:193][756]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.09.24:044][792]LogSlate: Window 'Stairs02' being destroyed
+[2022.04.28-09.09.24:090][792]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.09.24:090][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.09.25:034][836]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.09.25:098][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.09.30:168][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs03.uasset" SILENT=true
+[2022.04.28-09.09.30:171][ 20]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs03
+[2022.04.28-09.09.30:171][ 20]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs03854B622F44697CFECC3DF68EAE5B0AE3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs03.uasset'
+[2022.04.28-09.09.30:180][ 20]AssetCheck: New page: Asset Save: Stairs03
+[2022.04.28-09.09.30:180][ 20]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.09.31:848][ 90]LogSlate: Window 'Stairs03' being destroyed
+[2022.04.28-09.09.31:895][ 90]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.09.31:895][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.12.29:515][464]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs05.fbx)
+[2022.04.28-09.12.29:521][464]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs05.fbx
+[2022.04.28-09.12.29:526][464]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.12.30:183][464]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-09.12.30:199][464]LogFbx: Display: Triangulating static mesh Stairs05
+[2022.04.28-09.12.30:200][464]LogStaticMesh: Display: Building static mesh Stairs05...
+[2022.04.28-09.12.30:206][464]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.30:207][464]LogStaticMesh: Display: Building static mesh Stairs05...
+[2022.04.28-09.12.30:216][464]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.32:369][593]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.32:421][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.12.38:892][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs05.uasset" SILENT=true
+[2022.04.28-09.12.38:895][849]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs05
+[2022.04.28-09.12.38:895][849]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs05E46988154305342EF27BC29DFF2480CE.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs05.uasset'
+[2022.04.28-09.12.38:904][849]AssetCheck: New page: Asset Save: Stairs05
+[2022.04.28-09.12.38:904][849]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.39:717][885]LogSlate: Window 'Stairs05' being destroyed
+[2022.04.28-09.12.39:763][885]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.12.39:763][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.12.42:225][ 30]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.42:225][ 30]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.42:225][ 30]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs05.Stairs05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_74
+[2022.04.28-09.12.43:571][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.43:571][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.43:571][123]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs05.Stairs05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_75
+[2022.04.28-09.12.44:264][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-09.12.44:264][171]Can't find target element.
+[2022.04.28-09.12.47:318][400]Cmd: TRANSACTION UNDO
+[2022.04.28-09.12.47:319][400]LogEditorTransaction: Undo Create Actors
+[2022.04.28-09.12.49:105][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.49:105][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.49:106][466]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs05.Stairs05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_76
+[2022.04.28-09.12.49:790][499]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.49:790][499]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.12.49:791][499]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs05.Stairs05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_77
+[2022.04.28-09.12.50:114][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-09.12.50:114][515]Can't find target element.
+[2022.04.28-09.13.24:792][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.28-09.13.27:092][402]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-09.13.27:190][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-09.13.27:196][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.28-09.13.27:217][402]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-09.13.27:218][402]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David9A215BE14556BAE411B4BBA6C8AF05D3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-09.13.27:222][402]LogFileHelpers: No new changes to save!
+[2022.04.28-09.13.27:222][402]LogFileHelpers: Saving map 'David' took 0.031
+[2022.04.28-09.13.27:232][402]AssetCheck: New page: Asset Save: David
+[2022.04.28-09.13.27:232][402]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-09.13.39:561][236]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-09.13.42:567][495]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.13.42:625][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.14.03:361][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs05.uasset" SILENT=true
+[2022.04.28-09.14.03:364][312]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs05
+[2022.04.28-09.14.03:364][312]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs0563067F2A4C3B4E7A0939AA97A57384BB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs05.uasset'
+[2022.04.28-09.14.03:374][312]AssetCheck: New page: Asset Save: Stairs05
+[2022.04.28-09.14.03:374][312]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.14.04:499][392]LogSlate: Window 'Stairs05' being destroyed
+[2022.04.28-09.14.04:540][392]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.14.04:540][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.14.05:628][482]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.14.05:692][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.14.15:254][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs03.uasset" SILENT=true
+[2022.04.28-09.14.15:257][ 98]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs03
+[2022.04.28-09.14.15:257][ 98]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs03E8C64965419B126963B6B1BE5E229F68.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs03.uasset'
+[2022.04.28-09.14.15:267][ 98]AssetCheck: New page: Asset Save: Stairs03
+[2022.04.28-09.14.15:267][ 98]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.14.16:830][204]LogSlate: Window 'Stairs03' being destroyed
+[2022.04.28-09.14.16:867][204]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.14.16:867][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.14.17:945][290]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.14.18:003][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.14.29:919][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs02.uasset" SILENT=true
+[2022.04.28-09.14.29:922][ 60]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs02
+[2022.04.28-09.14.29:922][ 60]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs02FD3FDC144108C26684AB008F1D43BD16.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs02.uasset'
+[2022.04.28-09.14.29:933][ 60]AssetCheck: New page: Asset Save: Stairs02
+[2022.04.28-09.14.29:933][ 60]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.14.33:427][281]LogSlate: Window 'Stairs02' being destroyed
+[2022.04.28-09.14.33:500][281]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.14.33:500][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.14.34:415][352]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.14.34:471][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.14.42:597][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs01.uasset" SILENT=true
+[2022.04.28-09.14.42:600][819]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs01
+[2022.04.28-09.14.42:601][819]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs01572BF52442D7078A75C8568B5F0A64DD.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs01.uasset'
+[2022.04.28-09.14.42:609][819]AssetCheck: New page: Asset Save: Stairs01
+[2022.04.28-09.14.42:609][819]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.14.45:268][992]LogSlate: Window 'Stairs01' being destroyed
+[2022.04.28-09.14.45:309][992]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.14.45:309][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.14.46:317][ 60]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.28-09.14.54:809][678]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.14.54:809][678]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.14.54:809][678]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs01.Stairs01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_78
+[2022.04.28-09.14.55:396][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.14.55:397][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.14.55:397][719]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs01.Stairs01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_79
+[2022.04.28-09.18.31:537][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.28-09.18.33:354][260]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.28-09.18.33:387][260]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Art/Stairs/Stairs05.Stairs05
+	Asset Type: StaticMesh
+[2022.04.28-09.18.33:515][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.28-09.18.33:523][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.28-09.18.33:529][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.04.28-09.18.39:589][472]LogSlate: Window 'Message' being destroyed
+[2022.04.28-09.18.39:596][472]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Stairs/Stairs01
+[2022.04.28-09.18.39:596][472]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs01.fbx)
+[2022.04.28-09.18.39:597][472]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs01.fbx]
+[2022.04.28-09.18.39:604][472]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs01.fbx
+[2022.04.28-09.18.39:608][472]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.18.39:610][472]LogFbx: Display: Triangulating static mesh Stairs01
+[2022.04.28-09.18.39:613][472]LogStaticMesh: Display: Building static mesh Stairs01...
+[2022.04.28-09.18.39:627][472]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.18.39:627][472]LogStaticMesh: Display: Building static mesh Stairs01...
+[2022.04.28-09.18.39:650][472]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.18.39:656][472]LogEditorFactories: -- imported successfully
+[2022.04.28-09.18.49:985][684]LogSlate: Window 'Message' being destroyed
+[2022.04.28-09.18.49:991][684]Message dialog closed, result: YesAll, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Art/Stairs/Stairs02
+[2022.04.28-09.18.49:992][684]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs02.fbx)
+[2022.04.28-09.18.49:993][684]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs02.fbx]
+[2022.04.28-09.18.49:999][684]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs02.fbx
+[2022.04.28-09.18.50:004][684]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.18.50:006][684]LogFbx: Display: Triangulating static mesh Stairs02
+[2022.04.28-09.18.50:008][684]LogStaticMesh: Display: Building static mesh Stairs02...
+[2022.04.28-09.18.50:023][684]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.18.50:024][684]LogStaticMesh: Display: Building static mesh Stairs02...
+[2022.04.28-09.18.50:044][684]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.18.50:053][684]LogEditorFactories: -- imported successfully
+[2022.04.28-09.18.50:497][684]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx)
+[2022.04.28-09.18.50:498][684]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx]
+[2022.04.28-09.18.50:596][684]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx
+[2022.04.28-09.18.50:602][684]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.18.50:606][684]LogFbx: Display: Triangulating static mesh Stairs03
+[2022.04.28-09.18.50:614][684]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.28-09.18.50:733][684]LogStaticMesh: Built static mesh [0.12s] /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.18.50:734][684]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.28-09.18.50:800][684]LogStaticMesh: Built static mesh [0.07s] /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.18.50:801][684]LogStaticMesh: Warning: Stairs03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-09.18.50:801][684]LogStaticMesh: Warning: Stairs03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.18.50:801][684]LogStaticMesh: Warning: Stairs03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.18.50:806][684]LogEditorFactories: -- imported successfully
+[2022.04.28-09.18.50:806][684]FBXImport: Warning: Stairs03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-09.18.50:807][684]FBXImport: Warning: Stairs03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-09.18.50:807][684]FBXImport: Warning: Stairs03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-09.18.51:322][684]LogStaticMesh: Warning: Stairs03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-09.18.51:322][684]LogStaticMesh: Warning: Stairs03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.18.51:322][684]LogStaticMesh: Warning: Stairs03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.18.51:896][684]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs04.fbx)
+[2022.04.28-09.18.51:906][684]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs04.fbx
+[2022.04.28-09.18.51:912][684]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.18.53:637][684]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-09.18.53:657][684]LogFbx: Display: Triangulating static mesh Stairs04
+[2022.04.28-09.18.53:658][684]LogStaticMesh: Display: Building static mesh Stairs04...
+[2022.04.28-09.18.53:665][684]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Stairs/Stairs04.Stairs04
+[2022.04.28-09.18.53:665][684]LogStaticMesh: Display: Building static mesh Stairs04...
+[2022.04.28-09.18.53:674][684]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Stairs/Stairs04.Stairs04
+[2022.04.28-09.18.55:369][807]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs04.Stairs04
+[2022.04.28-09.18.55:427][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.19.01:914][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs04" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs04.uasset" SILENT=true
+[2022.04.28-09.19.01:917][214]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs04
+[2022.04.28-09.19.01:917][214]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs0451B29AD54A0C69253F703AA94D1B3B78.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs04.uasset'
+[2022.04.28-09.19.01:926][214]AssetCheck: New page: Asset Save: Stairs04
+[2022.04.28-09.19.01:926][214]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs04.Stairs04
+[2022.04.28-09.19.07:461][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs04" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs04.uasset" SILENT=true
+[2022.04.28-09.19.07:463][603]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs04
+[2022.04.28-09.19.07:464][603]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs046D8079A845FFEDB6BFB2AF9AB9912FE6.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs04.uasset'
+[2022.04.28-09.19.07:473][603]AssetCheck: New page: Asset Save: Stairs04
+[2022.04.28-09.19.07:473][603]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs04.Stairs04
+[2022.04.28-09.19.08:427][673]LogSlate: Window 'Stairs04' being destroyed
+[2022.04.28-09.19.08:466][673]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.19.08:466][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.19.09:845][796]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.19.09:908][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.19.17:476][302]LogSlate: Window 'Stairs03' being destroyed
+[2022.04.28-09.19.17:517][302]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.19.17:517][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.19.19:598][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.28-09.19.21:064][493]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-09.19.21:147][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-09.19.21:153][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.28-09.19.21:173][493]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-09.19.21:174][493]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidF8EDD42B4926A7B54F55EA85B39F154C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-09.19.21:178][493]LogFileHelpers: No new changes to save!
+[2022.04.28-09.19.21:178][493]LogFileHelpers: Saving map 'David' took 0.031
+[2022.04.28-09.19.21:178][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-09.19.21:184][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.04.28-09.19.21:190][493]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.28-09.19.21:190][493]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main1E6932054330E072E814A2A44D53C8E8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.28-09.19.21:198][493]LogFileHelpers: No new changes to save!
+[2022.04.28-09.19.21:198][493]LogFileHelpers: Saving map 'Main' took 0.020
+[2022.04.28-09.19.21:218][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs01.uasset" SILENT=true
+[2022.04.28-09.19.21:221][493]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs01
+[2022.04.28-09.19.21:221][493]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs01272F60AC4880C60158275295940C80B1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs01.uasset'
+[2022.04.28-09.19.21:229][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs02.uasset" SILENT=true
+[2022.04.28-09.19.21:232][493]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs02
+[2022.04.28-09.19.21:233][493]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs02E47ED2DD44B7092AAC0204B05FD667A9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs02.uasset'
+[2022.04.28-09.19.21:241][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs03.uasset" SILENT=true
+[2022.04.28-09.19.21:244][493]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs03
+[2022.04.28-09.19.21:244][493]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs03EF7AC0084CE94BCCFB59B8914D435EB1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs03.uasset'
+[2022.04.28-09.19.21:253][493]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-09.19.21:253][493]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.28-09.19.21:253][493]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-09.19.21:253][493]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.19.21:253][493]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs02.Stairs02
+[2022.04.28-09.19.21:253][493]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs01.Stairs01
+[2022.04.28-09.19.58:948][237]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs05.fbx)
+[2022.04.28-09.19.58:954][237]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs05.fbx
+[2022.04.28-09.19.58:959][237]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.20.00:440][237]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-09.20.00:459][237]LogFbx: Display: Triangulating static mesh Stairs05
+[2022.04.28-09.20.00:461][237]LogStaticMesh: Display: Building static mesh Stairs05...
+[2022.04.28-09.20.00:468][237]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.20.00:468][237]LogStaticMesh: Display: Building static mesh Stairs05...
+[2022.04.28-09.20.00:479][237]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.20.01:615][305]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.20.01:670][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.20.10:714][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs05.uasset" SILENT=true
+[2022.04.28-09.20.10:717][902]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs05
+[2022.04.28-09.20.10:717][902]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs0548DB30D14241DF23C65FE884F27FAB75.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs05.uasset'
+[2022.04.28-09.20.10:725][902]AssetCheck: New page: Asset Save: Stairs05
+[2022.04.28-09.20.10:725][902]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.20.13:472][ 96]LogSlate: Window 'Stairs05' being destroyed
+[2022.04.28-09.20.13:511][ 96]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.20.13:511][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.20.23:375][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.20.23:375][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.20.23:375][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs05.Stairs05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_80
+[2022.04.28-09.20.24:696][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.20.24:696][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
+[2022.04.28-09.20.24:696][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs05.Stairs05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_81
