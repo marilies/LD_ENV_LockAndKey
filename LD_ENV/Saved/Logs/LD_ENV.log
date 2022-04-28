@@ -1557,3 +1557,73 @@ An asset already exists at the import location: /Game/Art/Stairs/Stairs02
 [2022.04.28-09.20.24:696][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
 [2022.04.28-09.20.24:696][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs05.Stairs05
 [2022.04.28-09.20.24:696][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs05.Stairs05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_81
+[2022.04.28-09.21.26:800][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.28-09.21.28:311][ 26]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-09.21.28:393][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-09.21.28:398][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.04.28-09.21.28:418][ 26]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-09.21.28:418][ 26]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David13F26C884995F3A7CB32CAA8D01948FA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-09.21.28:422][ 26]LogFileHelpers: No new changes to save!
+[2022.04.28-09.21.28:422][ 26]LogFileHelpers: Saving map 'David' took 0.030
+[2022.04.28-09.21.28:429][ 26]AssetCheck: New page: Asset Save: David
+[2022.04.28-09.21.28:429][ 26]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-09.22.13:219][650]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.22.13:219][650]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.22.13:220][650]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs03.Stairs03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_82
+[2022.04.28-09.22.14:161][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.22.14:161][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs03.Stairs03
+[2022.04.28-09.22.14:162][744]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs03.Stairs03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_83
+[2022.04.28-09.22.49:853][414]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs06.fbx)
+[2022.04.28-09.22.49:859][414]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs06.fbx
+[2022.04.28-09.22.49:863][414]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.22.51:523][414]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.28-09.22.51:541][414]LogFbx: Display: Triangulating static mesh Stairs06
+[2022.04.28-09.22.51:547][414]LogStaticMesh: Display: Building static mesh Stairs06...
+[2022.04.28-09.22.51:600][414]LogStaticMesh: Built static mesh [0.05s] /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.22.51:601][414]LogStaticMesh: Display: Building static mesh Stairs06...
+[2022.04.28-09.22.51:675][414]LogStaticMesh: Built static mesh [0.07s] /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.22.51:676][414]LogStaticMesh: Warning: Stairs06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-09.22.51:676][414]LogStaticMesh: Warning: Stairs06 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.22.51:676][414]LogStaticMesh: Warning: Stairs06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.22.51:683][414]FBXImport: Warning: Stairs06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-09.22.51:683][414]FBXImport: Warning: Stairs06 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-09.22.51:683][414]FBXImport: Warning: Stairs06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-09.22.51:941][414]LogStaticMesh: Warning: Stairs06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-09.22.51:941][414]LogStaticMesh: Warning: Stairs06 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.22.51:941][414]LogStaticMesh: Warning: Stairs06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.22.55:249][707]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-09.22.55:264][707]LogSlate: Window 'Message Log' being destroyed
+[2022.04.28-09.23.20:694][578]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs06.fbx]
+[2022.04.28-09.23.20:699][578]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs06.fbx
+[2022.04.28-09.23.20:704][578]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-09.23.20:771][578]LogFbx: Display: Triangulating static mesh Stairs06
+[2022.04.28-09.23.20:783][578]LogStaticMesh: Display: Building static mesh Stairs06...
+[2022.04.28-09.23.20:890][578]LogStaticMesh: Built static mesh [0.11s] /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.23.20:897][578]LogStaticMesh: Display: Building static mesh Stairs06...
+[2022.04.28-09.23.21:032][578]LogStaticMesh: Built static mesh [0.13s] /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.23.21:039][578]LogStaticMesh: Warning: Stairs06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-09.23.21:039][578]LogStaticMesh: Warning: Stairs06 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.23.21:039][578]LogStaticMesh: Warning: Stairs06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.23.21:045][578]LogEditorFactories: -- imported successfully
+[2022.04.28-09.23.21:045][578]FBXImport: Warning: Stairs06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-09.23.21:045][578]FBXImport: Warning: Stairs06 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-09.23.21:045][578]FBXImport: Warning: Stairs06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-09.23.21:244][578]LogStaticMesh: Warning: Stairs06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-09.23.21:244][578]LogStaticMesh: Warning: Stairs06 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.23.21:244][578]LogStaticMesh: Warning: Stairs06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-09.23.23:288][724]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.23.23:345][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-09.23.34:392][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Stairs/Stairs06" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs06.uasset" SILENT=true
+[2022.04.28-09.23.34:395][408]LogSavePackage: Moving output files for package: /Game/Art/Stairs/Stairs06
+[2022.04.28-09.23.34:395][408]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs060A3C85CA4C5A83E97939939F1AB8C45A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/Art/Stairs/Stairs06.uasset'
+[2022.04.28-09.23.34:404][408]AssetCheck: New page: Asset Save: Stairs06
+[2022.04.28-09.23.34:404][408]LogContentValidation: Display: Validating StaticMesh /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.23.35:682][494]LogSlate: Window 'Stairs06' being destroyed
+[2022.04.28-09.23.35:750][494]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-09.23.35:751][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-09.23.36:938][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.23.36:938][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.23.36:939][582]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs06.Stairs06 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_84
+[2022.04.28-09.23.38:105][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.23.38:105][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Stairs/Stairs06.Stairs06
+[2022.04.28-09.23.38:106][677]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Stairs/Stairs06.Stairs06 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_106
