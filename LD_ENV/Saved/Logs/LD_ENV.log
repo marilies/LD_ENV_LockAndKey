@@ -1027,3 +1027,103 @@ An asset already exists at the import location: /Game/LDK/Walls/Wall01_Door
 [2022.04.28-12.04.39:992][732]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Marika.Marika
 [2022.04.28-12.04.39:992][732]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
 [2022.04.28-12.04.39:992][732]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.28-12.04.54:569][868]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.28-12.04.54:574][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.28-12.04.54:574][868]PIE: New page: PIE session: Main (28 Apr 2022, 16:04:54)
+[2022.04.28-12.04.54:574][868]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.28-12.04.54:577][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002148s)
+[2022.04.28-12.04.54:577][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002217s)
+[2022.04.28-12.04.54:577][868]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.28-12.04.54:577][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.28-12.04.54:577][868]LogAIModule: Creating AISystem for world Main
+[2022.04.28-12.04.54:577][868]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2022.04.28-12.04.54:584][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.28-12.04.54:584][868]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.28-12.04.54:584][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.28-12.04.54:584][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.28-12.04.54:584][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.28-12.04.54:584][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.28-12.04.54:584][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.28-12.04.54:584][868]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.28-12.04.54:584][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.28-12.04.54:584][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.28-12.04.54:585][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.28-12.04.54:585][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.28-12.04.54:585][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.28-12.04.54:587][868]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.28-12.04.54:624][868]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.28-12.04.54:625][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.28-12.04.54:625][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.28-12.04.54:625][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.28-12.04.54:626][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.04.28-12.04.54:626][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.04.28-12.04.54:627][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.04.28-12.04.54:627][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.04.28-12.04.54:627][868]LogInit: FAudioDevice initialized.
+[2022.04.28-12.04.54:627][868]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2022.04.28-12.04.54:643][868]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.04.28-12.04.54:722][868]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.28-14.04.54
+[2022.04.28-12.04.54:722][868]LogWorld: Bringing up level for play took: 0.001186
+[2022.04.28-12.04.54:724][868]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.04.28-12.04.54:727][868]PIE: Server logged in
+[2022.04.28-12.04.54:728][868]PIE: Play in editor total start time 0,154 seconds.
+[2022.04.28-12.05.15:384][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-12.05.15:384][481]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.28-12.05.15:388][481]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.28-12.05.15:388][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-12.05.15:414][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.28-12.05.15:417][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.28-12.05.15:425][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.28-12.05.15:426][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.04.28-12.05.15:427][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.04.28-12.05.15:438][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.28-12.05.15:473][482]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.04.28-12.05.15:480][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.28-12.06.00:304][683]LogSlate: Window 'Message' being destroyed
+[2022.04.28-12.06.00:327][683]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/LDK/Walls/Wall01_Door
+[2022.04.28-12.06.00:327][683]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall01_Door.fbx)
+[2022.04.28-12.06.00:328][683]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall01_Door.fbx]
+[2022.04.28-12.06.00:358][683]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Wall01_Door.fbx
+[2022.04.28-12.06.00:362][683]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.28-12.06.00:371][683]LogFbx: Display: Triangulating static mesh Wall01_Door
+[2022.04.28-12.06.00:374][683]LogStaticMesh: Display: Building static mesh Wall01_Door...
+[2022.04.28-12.06.00:388][683]LogStaticMesh: Built static mesh [0.01s] /Game/LDK/Walls/Wall01_Door.Wall01_Door
+[2022.04.28-12.06.00:388][683]LogStaticMesh: Display: Building static mesh Wall01_Door...
+[2022.04.28-12.06.00:406][683]LogStaticMesh: Built static mesh [0.02s] /Game/LDK/Walls/Wall01_Door.Wall01_Door
+[2022.04.28-12.06.00:407][683]LogStaticMesh: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-12.06.00:407][683]LogStaticMesh: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-12.06.00:407][683]LogStaticMesh: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-12.06.00:412][683]LogEditorFactories: -- imported successfully
+[2022.04.28-12.06.00:412][683]FBXImport: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.04.28-12.06.00:412][683]FBXImport: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-12.06.00:412][683]FBXImport: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.04.28-12.06.00:448][683]LogStaticMesh: Warning: Wall01_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.04.28-12.06.00:449][683]LogStaticMesh: Warning: Wall01_Door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-12.06.00:449][683]LogStaticMesh: Warning: Wall01_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.28-12.06.00:555][683]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.28-12.06.00:555][683]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.28-12.06.04:731][758]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.28-12.06.04:731][758]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.28-12.06.06:278][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall01_Door" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01_Door.uasset" SILENT=true
+[2022.04.28-12.06.06:281][776]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall01_Door
+[2022.04.28-12.06.06:281][776]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall01_DoorF41E105C4C1AC9A9D953118784D787D9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall01_Door.uasset'
+[2022.04.28-12.06.06:313][776]AssetCheck: New page: Asset Save: Wall01_Door
+[2022.04.28-12.06.06:313][776]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall01_Door.Wall01_Door
+[2022.04.28-12.06.07:729][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.28-12.06.09:139][812]LogSlate: Window 'Save Content' being destroyed
+[2022.04.28-12.06.09:268][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-12.06.09:273][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.28-12.06.09:299][812]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.28-12.06.09:300][812]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David319A54774B69732E6FB98BB1D1DEF4C7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.28-12.06.09:304][812]LogFileHelpers: No new changes to save!
+[2022.04.28-12.06.09:304][812]LogFileHelpers: Saving map 'David' took 0.037
+[2022.04.28-12.06.09:305][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Marika" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Marika.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.28-12.06.09:311][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.28-12.06.09:435][812]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Marika
+[2022.04.28-12.06.09:436][812]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/MarikaEEFAC8D74CD49E0854BFFAAAE4612412.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Marika.umap'
+[2022.04.28-12.06.09:440][812]LogFileHelpers: Saving map 'Marika' took 0.136
+[2022.04.28-12.06.09:449][812]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.28-12.06.09:449][812]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Marika.Marika
+[2022.04.28-12.06.09:449][812]LogContentValidation: Display: Validating World /Game/David.David
