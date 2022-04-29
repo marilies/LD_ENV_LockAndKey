@@ -1900,3 +1900,228 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.29-10.32.34:277][718]LogEditorTransaction: Undo Create Actors
 [2022.04.29-10.32.44:389][999]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2022.04.29-10.33.16:803][ 95]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.34.35:872][969]Cmd: TRANSACTION UNDO
+[2022.04.29-10.34.35:872][969]LogEditorTransaction: Undo Move Elements
+[2022.04.29-10.34.47:847][292]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.34.52:561][432]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.36.25:497][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-10.36.25:497][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-10.36.25:498][174]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_375
+[2022.04.29-10.36.26:584][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-10.36.26:584][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-10.36.26:585][206]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_376
+[2022.04.29-10.36.26:929][217]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.36.35:532][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.36.38:139][550]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.098 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.29-10.36.43:185][698]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.38.37:285][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.39.01:323][788]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.39.04:781][889]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.39.09:975][ 43]Cmd: TRANSACTION UNDO
+[2022.04.29-10.39.09:975][ 43]LogEditorTransaction: Undo Move Elements
+[2022.04.29-10.39.11:893][ 80]Cmd: TRANSACTION UNDO
+[2022.04.29-10.39.11:893][ 80]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-10.39.17:763][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.39.56:915][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.29-10.39.56:927][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1
+[2022.04.29-10.39.56:927][752]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto18FD131724799B0CC3534C785ACB79BCA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto1.umap'
+[2022.04.29-10.39.56:932][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-10.39.56:976][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto1
+[2022.04.29-10.39.56:977][752]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto162852D554760CF4133C609B2510743A9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto1.umap'
+[2022.04.29-10.39.56:981][752]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.084
+[2022.04.29-10.39.56:981][752]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2022.04.29-10.41.26:539][ 44]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Rubble04.fbx)
+[2022.04.29-10.41.26:576][ 44]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Rubble04.fbx
+[2022.04.29-10.41.26:581][ 44]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-10.41.29:436][ 44]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.29-10.41.29:485][ 44]LogFbx: Display: Triangulating static mesh Rubble04
+[2022.04.29-10.41.29:487][ 44]LogStaticMesh: Display: Building static mesh Rubble04...
+[2022.04.29-10.41.29:497][ 44]LogStaticMesh: Built static mesh [0.01s] /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.41.29:498][ 44]LogStaticMesh: Display: Building static mesh Rubble04...
+[2022.04.29-10.41.29:513][ 44]LogStaticMesh: Built static mesh [0.01s] /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.41.32:726][116]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.41.32:805][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-10.41.37:515][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Clutter/Rubble04" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Rubble04.uasset" SILENT=true
+[2022.04.29-10.41.37:518][187]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Rubble04
+[2022.04.29-10.41.37:518][187]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Rubble041D37961C47DE2D6D6A8E47A4CCD2B510.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Rubble04.uasset'
+[2022.04.29-10.41.37:544][187]AssetCheck: New page: Asset Save: Rubble04
+[2022.04.29-10.41.37:544][187]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.41.38:195][199]LogSlate: Window 'Rubble04' being destroyed
+[2022.04.29-10.41.38:305][199]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-10.41.38:305][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-10.41.39:706][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.41.39:706][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.41.39:706][235]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_379
+[2022.04.29-10.41.41:890][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.41.41:890][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.41.41:891][299]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_380
+[2022.04.29-10.41.53:272][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.43.28:755][504]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Rubble05.fbx)
+[2022.04.29-10.43.28:784][504]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Rubble05.fbx
+[2022.04.29-10.43.28:788][504]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-10.43.30:140][504]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.29-10.43.30:189][504]LogFbx: Display: Triangulating static mesh Rubble05
+[2022.04.29-10.43.30:190][504]LogStaticMesh: Display: Building static mesh Rubble05...
+[2022.04.29-10.43.30:201][504]LogStaticMesh: Built static mesh [0.01s] /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.43.30:201][504]LogStaticMesh: Display: Building static mesh Rubble05...
+[2022.04.29-10.43.30:217][504]LogStaticMesh: Built static mesh [0.02s] /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.43.31:734][581]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.43.31:797][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-10.43.36:718][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Clutter/Rubble05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Rubble05.uasset" SILENT=true
+[2022.04.29-10.43.36:721][680]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Rubble05
+[2022.04.29-10.43.36:721][680]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Rubble05AC9F0EA94EE1A778B1384BB7E6AF09A5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Rubble05.uasset'
+[2022.04.29-10.43.36:742][680]AssetCheck: New page: Asset Save: Rubble05
+[2022.04.29-10.43.36:742][680]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.43.37:567][698]LogSlate: Window 'Rubble05' being destroyed
+[2022.04.29-10.43.37:658][698]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-10.43.37:658][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-10.43.38:789][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.43.38:789][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.43.38:790][748]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_382
+[2022.04.29-10.43.40:560][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.43.40:560][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.43.40:561][852]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_383
+[2022.04.29-10.43.40:908][873]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.44.21:921][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.44.41:894][707]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.45.01:806][291]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.01:806][291]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.01:807][291]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_384
+[2022.04.29-10.45.02:691][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.02:691][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.02:691][317]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_385
+[2022.04.29-10.45.07:271][444]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.07:271][444]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.07:272][444]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_386
+[2022.04.29-10.45.08:704][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.08:704][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.08:705][486]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_387
+[2022.04.29-10.45.11:641][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.11:641][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.11:641][568]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_388
+[2022.04.29-10.45.12:154][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.12:154][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.12:155][582]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_389
+[2022.04.29-10.45.13:044][603]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.13:045][603]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.13:045][603]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_390
+[2022.04.29-10.45.13:798][625]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.13:798][625]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.13:799][625]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_391
+[2022.04.29-10.45.14:837][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-10.45.14:837][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-10.45.14:837][649]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_392
+[2022.04.29-10.45.15:381][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-10.45.15:381][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-10.45.15:381][665]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_393
+[2022.04.29-10.45.16:360][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-10.45.16:360][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-10.45.16:360][687]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_394
+[2022.04.29-10.45.16:844][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-10.45.16:844][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-10.45.16:845][701]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_395
+[2022.04.29-10.45.18:840][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.18:840][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.18:840][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_396
+[2022.04.29-10.45.19:935][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.19:935][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-10.45.19:936][789]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_397
+[2022.04.29-10.45.20:874][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.20:874][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.20:874][810]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_398
+[2022.04.29-10.45.22:229][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.22:229][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-10.45.22:230][850]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_399
+[2022.04.29-10.45.22:670][864]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.45.49:107][651]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.45.55:867][850]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.46.02:512][ 40]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.29-10.46.02:512][ 40]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.29-10.46.02:512][ 40]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Floors/Floor02.Floor02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_400
+[2022.04.29-10.46.03:215][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.29-10.46.03:215][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.29-10.46.03:215][ 60]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Floors/Floor02.Floor02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_401
+[2022.04.29-10.46.07:691][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.46.40:855][310]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.49.57:690][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.29-10.49.57:698][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto2
+[2022.04.29-10.49.57:701][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.49.58:202][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.49.58:702][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.49.59:202][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.49.59:703][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.50.00:204][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.50.00:704][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.50.01:204][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.50.01:704][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.50.02:205][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-10.50.02:706][ 58]LogFileManager: Error: Error moving file '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto2FD05B0264AA1039621D35282FC680652.tmp'.
+[2022.04.29-10.50.02:706][ 58]LogSavePackage: Warning: Failed to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to temp directory
+[2022.04.29-10.50.02:706][ 58]LogSavePackage: Error: Error saving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap'
+[2022.04.29-10.50.02:711][ 58]EditorErrors: New page: Save Output
+[2022.04.29-10.50.02:711][ 58]EditorErrors: Warning: Error saving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap'
+[2022.04.29-10.50.02:786][ 58]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' which belongs to world '/Game/FirstPerson/Maps/Main'. Aborting autosave.
+[2022.04.29-10.55.44:103][ 89]LogSlate: Window 'Message Log' being destroyed
+[2022.04.29-10.55.44:151][ 89]LogSlate: Window 'Message Log' being destroyed
+[2022.04.29-10.56.42:684][ 34]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.57.03:649][446]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.57.52:593][189]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.58.23:914][ 17]Cmd: TRANSACTION UNDO
+[2022.04.29-10.58.23:914][ 17]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-11.00.06:971][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.29-11.00.06:978][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto2
+[2022.04.29-11.00.06:978][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.07:479][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.07:979][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.08:480][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.08:980][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.09:481][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.09:981][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.10:482][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.10:982][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.11:483][981]LogFileManager: Warning: MoveFile was unable to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp' (Error Code 32), retrying in .5s...
+[2022.04.29-11.00.11:983][981]LogFileManager: Error: Error moving file '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto22A10E7724EA246D608C3F19D7E8E2B5F.tmp'.
+[2022.04.29-11.00.11:983][981]LogSavePackage: Warning: Failed to move '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' to temp directory
+[2022.04.29-11.00.11:983][981]LogSavePackage: Error: Error saving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap'
+[2022.04.29-11.00.11:995][981]EditorErrors: New page: Save Output
+[2022.04.29-11.00.11:995][981]EditorErrors: Warning: Error saving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap'
+[2022.04.29-11.00.12:079][981]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap' which belongs to world '/Game/FirstPerson/Maps/Main'. Aborting autosave.
+[2022.04.29-11.00.16:832][996]LogSlate: Window 'Message Log' being destroyed
+[2022.04.29-11.00.16:836][996]LogSlate: Window 'Message Log' being destroyed
+[2022.04.29-11.00.24:296][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-11.00.24:312][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.04.29-11.00.24:364][579]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.29-11.00.24:365][579]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David436E95784B5438A0A14449B7AD24F4D0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.29-11.00.24:400][579]LogFileHelpers: No new changes to save!
+[2022.04.29-11.00.24:410][579]AssetCheck: New page: Asset Save: David
+[2022.04.29-11.00.24:411][579]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.29-11.00.27:439][709]LogSlate: Window 'Message' being destroyed
+[2022.04.29-11.00.27:445][709]Message dialog closed, result: Ok, title: Message, text: Save aborted.  Level must be unlocked before it can be saved.
+[2022.04.29-11.00.30:577][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-11.00.30:585][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.29-11.00.30:594][960]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.29-11.00.30:595][960]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main251D88DF42BE0F608865A8AF76EF3117.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.29-11.00.30:602][960]LogFileHelpers: No new changes to save!
+[2022.04.29-11.00.30:609][960]AssetCheck: New page: Asset Save: Main
+[2022.04.29-11.00.30:610][960]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.29-11.02.26:956][809]Cmd: TRANSACTION UNDO
+[2022.04.29-11.02.26:956][809]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-11.02.32:500][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-11.02.46:435][312]Cmd: TRANSACTION UNDO
+[2022.04.29-11.02.46:435][312]LogEditorTransaction: Undo Move Elements
+[2022.04.29-11.03.00:594][328]Cmd: TRANSACTION UNDO
+[2022.04.29-11.03.00:594][328]LogEditorTransaction: Undo Toggle Level Visibility
+[2022.04.29-11.03.02:637][395]Cmd: TRANSACTION UNDO
+[2022.04.29-11.03.02:637][395]LogEditorTransaction: Undo Move Elements
+[2022.04.29-11.03.03:396][451]Cmd: TRANSACTION UNDO
+[2022.04.29-11.03.03:396][451]LogEditorTransaction: Undo Move Elements
+[2022.04.29-11.03.03:979][492]Cmd: TRANSACTION UNDO
+[2022.04.29-11.03.03:979][492]LogEditorTransaction: Undo Move Elements
+[2022.04.29-11.03.08:979][872]Cmd: TRANSACTION UNDO
+[2022.04.29-11.03.08:979][872]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-11.03.10:748][975]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-11.03.22:785][827]Cmd: TRANSACTION UNDO
+[2022.04.29-11.03.22:785][827]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-11.03.27:045][ 98]Cmd: TRANSACTION UNDO
+[2022.04.29-11.03.27:045][ 98]LogEditorTransaction: Undo Move Elements
+[2022.04.29-11.03.27:592][109]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
