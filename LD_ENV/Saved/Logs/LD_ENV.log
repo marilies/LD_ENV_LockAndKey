@@ -970,3 +970,646 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.29-08.29.02:138][966]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
 [2022.04.29-08.29.02:138][966]LogContentValidation: Display: Validating World /Game/David.David
 [2022.04.29-08.29.02:138][966]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs06.Stairs06
+[2022.04.29-08.34.43:254][755]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.29-08.34.43:254][755]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.29-08.34.45:493][849]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-08.34.51:902][185]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.29-08.34.51:902][185]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.29-08.34.54:638][238]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx]
+[2022.04.29-08.34.54:643][238]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx
+[2022.04.29-08.34.54:648][238]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-08.34.54:709][238]LogFbx: Display: Triangulating static mesh Stairs03
+[2022.04.29-08.34.54:746][238]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.29-08.34.54:943][238]LogStaticMesh: Built static mesh [0.20s] /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.34.54:950][238]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.29-08.34.55:158][238]LogStaticMesh: Built static mesh [0.21s] /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.34.55:173][238]LogEditorFactories: -- imported successfully
+[2022.04.29-08.34.56:257][261]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.29-08.35.43:157][650]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx]
+[2022.04.29-08.35.43:162][650]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx
+[2022.04.29-08.35.43:167][650]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-08.35.43:218][650]LogFbx: Display: Triangulating static mesh Stairs03
+[2022.04.29-08.35.43:260][650]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.29-08.35.43:454][650]LogStaticMesh: Built static mesh [0.19s] /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.35.43:460][650]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.29-08.35.43:705][650]LogStaticMesh: Built static mesh [0.25s] /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.35.43:719][650]LogEditorFactories: -- imported successfully
+[2022.04.29-08.35.44:804][674]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.29-08.36.31:714][587]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.29-08.36.31:714][587]LogStaticMesh: Adjacency [0.00s], tris: 672, UVs 2
+[2022.04.29-08.36.31:714][587]LogStaticMesh: Clustering [0.00s]. Ratio: 1.666667
+[2022.04.29-08.36.31:714][587]LogStaticMesh: Leaves [0.00s]
+[2022.04.29-08.36.31:714][587]LogStaticMesh: Num clusters 10. Error 0.0000, 0.0000, 0.0000
+[2022.04.29-08.36.31:714][587]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LDK/Stairs/Stairs03) ...
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Num clusters 3. Error 0.0000, 0.0000, 0.0000
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Num clusters 1. Error 33.6601, 33.6601, 33.6601
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Reduce [0.04s]
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Fallback 0/4 [0.01s], num tris: 256
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Fallback 1/4 [0.03s], num tris: 128
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Fallback 2/4 [0.04s], num tris: 64
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Fallback 3/4 [0.04s], num tris: 64
+[2022.04.29-08.36.31:862][587]LogStaticMesh: ConstrainClusters:
+[2022.04.29-08.36.31:862][587]LogStaticMesh:   Input: 16 Clusters, 1428 Triangles and 1548 Vertices
+[2022.04.29-08.36.31:862][587]LogStaticMesh:   Output without splits: 16 Clusters, 1428 Triangles and 1549 Vertices
+[2022.04.29-08.36.31:862][587]LogStaticMesh:   Output with splits: 16 Clusters, 1428 Triangles and 1549 Vertices
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.04.29-08.36.31:862][587]LogStaticMesh: WritePages:
+[2022.04.29-08.36.31:862][587]LogStaticMesh:   Root: GPU size: 27036 bytes. 1 Pages. 27036.000 bytes per page (82.507% utilization).
+[2022.04.29-08.36.31:862][587]LogStaticMesh:   Streaming: 0 bytes.
+[2022.04.29-08.36.31:862][587]LogStaticMesh:   Page data disk size: 16764 bytes. Fixup data size: 72 bytes.
+[2022.04.29-08.36.31:862][587]LogStaticMesh:   Total GPU size: 27036 bytes, Total disk size: 16836 bytes.
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Encode [0.00s]
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Imposter [0.00s]
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Nanite build [0.15s]
+
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Built static mesh [0.17s] /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Warning: Stairs03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.29-08.36.31:862][587]LogStaticMesh: Warning: Stairs03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.29-08.36.31:862][587]LogMaterial: Display: Material /Game/LDK/Materials/Grey01.Grey01 needed to have new flag set bUsedWithNanite !
+[2022.04.29-08.36.31:867][587]LogMaterial: Display: Missing cached shadermap for Grey01 in PCD3D_SM5, Default, SM5 (DDC key hash: C8282252218BEBD47868B0460596E819BD14D9A5), compiling. 
+[2022.04.29-08.36.31:986][588]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.29-08.36.35:128][749]LogShaderCompilers: Display: ================================================
+[2022.04.29-08.36.35:128][749]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.29-08.36.35:128][749]LogShaderCompilers: Display: Total job queries 41, among them cache hits 0 (0.00%)
+[2022.04.29-08.36.35:128][749]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.04.29-08.36.35:128][749]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.04.29-08.36.35:128][749]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.29-08.36.35:128][749]LogShaderCompilers: Display: Shaders Compiled: 41
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Jobs assigned 33, completed 1 (3.03%)
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 3.10 s
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Job execution time: average 3.09 s, max 3.09 s
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Job life time (pending + execution): average 3.10 s, max 3.10
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.10 s
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 3.67 jobs/batch
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Average processing rate: 0.32 jobs/sec
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Effective parallelization: 0.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 1.95 sec, max 1.95 sec, min 1.95 sec)
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 100.00% of total time (compiled    1 times, average 1.95 sec, max 1.95 sec, min 1.95 sec)
+[2022.04.29-08.36.35:129][749]LogShaderCompilers: Display: ================================================
+[2022.04.29-08.36.38:969][846]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.928 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.29-08.37.16:197][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-08.37.21:666][198]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-08.37.27:095][522]Cmd: TRANSACTION UNDO
+[2022.04.29-08.37.27:095][522]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-08.37.28:605][563]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-08.38.55:795][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.29-08.38.55:806][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto3
+[2022.04.29-08.38.55:806][115]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto3BB7B96BE4D3060E7C699D1B3FAA9FF32.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto3.umap'
+[2022.04.29-08.38.55:961][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Marika_Auto3
+[2022.04.29-08.38.55:961][115]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Marika_Auto3D837A017454FE80A28959293521EEC8A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Marika_Auto3.umap'
+[2022.04.29-08.38.55:968][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-08.38.56:004][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto3
+[2022.04.29-08.38.56:004][115]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto32C362BCF402E90094E5AFC9EDE7D0C8B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto3.umap'
+[2022.04.29-08.38.56:009][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.222
+[2022.04.29-08.38.56:009][115]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.222
+[2022.04.29-08.38.56:009][115]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LDK/Materials/Grey01] ([1] browsable assets)...
+[2022.04.29-08.38.56:033][115]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LDK/Materials/Grey01.Grey01]
+[2022.04.29-08.38.56:033][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDK/Materials/Grey01]
+[2022.04.29-08.38.56:033][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Materials/Grey01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Materials/Grey01_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.29-08.38.56:034][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDK/Materials/Grey01_Auto3
+[2022.04.29-08.38.56:034][115]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Grey01_Auto3B7C3497C406569D45F1D2C9BB6122990.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Materials/Grey01_Auto3.uasset'
+[2022.04.29-08.38.56:035][115]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LDK/Stairs/Stairs03] ([1] browsable assets)...
+[2022.04.29-08.38.56:044][115]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LDK/Stairs/Stairs03.Stairs03]
+[2022.04.29-08.38.56:044][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDK/Stairs/Stairs03]
+[2022.04.29-08.38.56:044][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Stairs/Stairs03_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.29-08.38.56:048][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDK/Stairs/Stairs03_Auto3
+[2022.04.29-08.38.56:048][115]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs03_Auto3788740E942004A27474A6D84E5356CD1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Stairs/Stairs03_Auto3.uasset'
+[2022.04.29-08.38.56:049][115]LogFileHelpers: Auto-saving content packages took 0.040
+[2022.04.29-08.48.20:779][164]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx]
+[2022.04.29-08.48.20:784][164]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs03.fbx
+[2022.04.29-08.48.20:788][164]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-08.48.20:849][164]LogFbx: Display: Triangulating static mesh Stairs03
+[2022.04.29-08.48.20:886][164]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.29-08.48.21:084][164]LogStaticMesh: Built static mesh [0.20s] /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.48.21:090][164]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.29-08.48.21:333][164]LogStaticMesh: Built static mesh [0.24s] /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.48.21:348][164]LogEditorFactories: -- imported successfully
+[2022.04.29-08.48.22:450][188]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.29-08.48.25:260][271]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-08.48.32:372][539]LogStaticMesh: Display: Building static mesh Stairs03...
+[2022.04.29-08.48.32:372][539]LogStaticMesh: Adjacency [0.00s], tris: 672, UVs 2
+[2022.04.29-08.48.32:372][539]LogStaticMesh: Clustering [0.00s]. Ratio: 1.666667
+[2022.04.29-08.48.32:372][539]LogStaticMesh: Leaves [0.00s]
+[2022.04.29-08.48.32:372][539]LogStaticMesh: Num clusters 10. Error 0.0000, 0.0000, 0.0000
+[2022.04.29-08.48.32:372][539]LogStaticMesh: Num clusters 3. Error 0.0000, 0.0000, 0.0000
+[2022.04.29-08.48.32:372][539]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LDK/Stairs/Stairs03) ...
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Num clusters 1. Error 33.6601, 33.6601, 33.6601
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Reduce [0.04s]
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Fallback 0/4 [0.01s], num tris: 256
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Fallback 1/4 [0.03s], num tris: 128
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Fallback 2/4 [0.04s], num tris: 64
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Fallback 3/4 [0.03s], num tris: 64
+[2022.04.29-08.48.32:507][540]LogStaticMesh: ConstrainClusters:
+[2022.04.29-08.48.32:507][540]LogStaticMesh:   Input: 16 Clusters, 1428 Triangles and 1548 Vertices
+[2022.04.29-08.48.32:507][540]LogStaticMesh:   Output without splits: 16 Clusters, 1428 Triangles and 1549 Vertices
+[2022.04.29-08.48.32:507][540]LogStaticMesh:   Output with splits: 16 Clusters, 1428 Triangles and 1549 Vertices
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.04.29-08.48.32:507][540]LogStaticMesh: WritePages:
+[2022.04.29-08.48.32:507][540]LogStaticMesh:   Root: GPU size: 27036 bytes. 1 Pages. 27036.000 bytes per page (82.507% utilization).
+[2022.04.29-08.48.32:507][540]LogStaticMesh:   Streaming: 0 bytes.
+[2022.04.29-08.48.32:507][540]LogStaticMesh:   Page data disk size: 16764 bytes. Fixup data size: 72 bytes.
+[2022.04.29-08.48.32:507][540]LogStaticMesh:   Total GPU size: 27036 bytes, Total disk size: 16836 bytes.
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Encode [0.00s]
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Imposter [0.00s]
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Nanite build [0.15s]
+
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Built static mesh [0.16s] /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.48.32:507][540]LogStaticMesh: Warning: Stairs03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.29-08.48.32:508][540]LogStaticMesh: Warning: Stairs03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.29-08.48.32:509][540]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.04.29-08.49.09:655][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.29-08.49.09:806][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Marika_Auto4
+[2022.04.29-08.49.09:806][784]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Marika_Auto42976AB35472D72A2CE5B53BD85958683.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Marika_Auto4.umap'
+[2022.04.29-08.49.09:813][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-08.49.09:847][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto4
+[2022.04.29-08.49.09:847][784]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto4D89361FD4EDAB69A9248B5B733D5F9DD.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto4.umap'
+[2022.04.29-08.49.09:852][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.205
+[2022.04.29-08.49.09:852][784]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.205
+[2022.04.29-08.49.09:852][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LDK/Stairs/Stairs03] ([1] browsable assets)...
+[2022.04.29-08.49.09:958][784]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LDK/Stairs/Stairs03.Stairs03]
+[2022.04.29-08.49.09:958][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDK/Stairs/Stairs03]
+[2022.04.29-08.49.09:958][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Stairs/Stairs03_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.04.29-08.49.09:962][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDK/Stairs/Stairs03_Auto4
+[2022.04.29-08.49.09:962][784]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs03_Auto4A57A154E4FB62DF1FC5E5D96F328CB28.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Stairs/Stairs03_Auto4.uasset'
+[2022.04.29-08.49.09:962][784]LogFileHelpers: Auto-saving content packages took 0.110
+[2022.04.29-08.52.50:915][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.29-08.52.53:462][463]LogSlate: Window 'Save Content' being destroyed
+[2022.04.29-08.52.53:587][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-08.52.53:594][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.29-08.52.53:631][463]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.29-08.52.53:631][463]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidC168EDC94BDA4C313B2E3185D5771585.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.29-08.52.53:640][463]LogFileHelpers: No new changes to save!
+[2022.04.29-08.52.53:640][463]LogFileHelpers: Saving map 'David' took 0.054
+[2022.04.29-08.52.53:640][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Materials/Grey01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Materials/Grey01.uasset" SILENT=true
+[2022.04.29-08.52.53:641][463]LogSavePackage: Moving output files for package: /Game/LDK/Materials/Grey01
+[2022.04.29-08.52.53:642][463]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Grey013BFF50DC40DE369005AA3581C9A71534.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Materials/Grey01.uasset'
+[2022.04.29-08.52.53:642][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-08.52.53:649][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.29-08.52.53:655][463]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.29-08.52.53:655][463]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main7D551D8549E6F408E73DB586D228947A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.29-08.52.53:662][463]LogFileHelpers: No new changes to save!
+[2022.04.29-08.52.53:662][463]LogFileHelpers: Saving map 'Main' took 0.020
+[2022.04.29-08.52.53:663][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Marika" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Marika.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-08.52.53:670][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.04.29-08.52.53:818][463]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Marika
+[2022.04.29-08.52.53:819][463]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/MarikaDFF936D34FED01F4C7AA26B3DCCF2783.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Marika.umap'
+[2022.04.29-08.52.53:825][463]LogFileHelpers: Saving map 'Marika' took 0.163
+[2022.04.29-08.52.53:825][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs03.uasset" SILENT=true
+[2022.04.29-08.52.53:828][463]LogSavePackage: Moving output files for package: /Game/LDK/Stairs/Stairs03
+[2022.04.29-08.52.53:828][463]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs03F3F0860040C1CB2EDB796F80C6743737.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs03.uasset'
+[2022.04.29-08.52.53:837][463]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.29-08.52.53:837][463]LogContentValidation: Display: Validating Material /Game/LDK/Materials/Grey01.Grey01
+[2022.04.29-08.52.53:838][463]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs03.Stairs03
+[2022.04.29-08.52.53:838][463]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Marika.Marika
+[2022.04.29-08.52.53:838][463]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.29-08.52.53:838][463]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.29-08.53.16:128][341]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-08.56.37:250][749]Cmd: DELETE
+[2022.04.29-08.56.37:250][749]Cmd: ACTOR DELETE
+[2022.04.29-08.56.37:271][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-08.56.37:279][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.29-08.56.37:280][749]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.04.29-08.56.40:211][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs02.Stairs02
+[2022.04.29-08.56.40:211][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs02.Stairs02
+[2022.04.29-08.56.40:212][937]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Stairs/Stairs02.Stairs02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_190
+[2022.04.29-08.56.41:987][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs02.Stairs02
+[2022.04.29-08.56.41:987][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs02.Stairs02
+[2022.04.29-08.56.41:988][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Stairs/Stairs02.Stairs02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_209
+[2022.04.29-08.57.12:363][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.02.51:148][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.29-09.02.51:159][387]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5
+[2022.04.29-09.02.51:159][387]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto563E45E3543B053B4B7C38186554120E7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto5.umap'
+[2022.04.29-09.02.51:164][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-09.02.51:198][387]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto5
+[2022.04.29-09.02.51:199][387]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto50C90632E4B919A4C7E585CB331B4E746.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap'
+[2022.04.29-09.02.51:204][387]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.070
+[2022.04.29-09.02.51:204][387]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2022.04.29-09.13.32:360][534]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Brazier03.fbx)
+[2022.04.29-09.13.32:397][534]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Brazier03.fbx
+[2022.04.29-09.13.32:402][534]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-09.13.34:075][534]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.29-09.13.34:124][534]LogFbx: Display: Triangulating static mesh Brazier03
+[2022.04.29-09.13.34:129][534]LogStaticMesh: Display: Building static mesh Brazier03...
+[2022.04.29-09.13.34:165][534]LogStaticMesh: Built static mesh [0.04s] /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.04.29-09.13.34:165][534]LogStaticMesh: Display: Building static mesh Brazier03...
+[2022.04.29-09.13.34:206][534]LogStaticMesh: Built static mesh [0.04s] /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.04.29-09.13.36:123][622]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.04.29-09.13.36:187][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-09.13.38:654][676]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.29-09.13.42:974][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Braziers/Brazier03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Brazier03.uasset" SILENT=true
+[2022.04.29-09.13.42:978][764]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Braziers/Brazier03
+[2022.04.29-09.13.42:978][764]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Brazier0383A55F64448A1EFC8B5BD79DEA710B0F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Brazier03.uasset'
+[2022.04.29-09.13.43:004][764]AssetCheck: New page: Asset Save: Brazier03
+[2022.04.29-09.13.43:005][764]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.04.29-09.13.47:696][880]LogSlate: Window 'Brazier03' being destroyed
+[2022.04.29-09.13.47:792][880]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-09.13.47:792][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-09.13.49:435][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.04.29-09.13.49:435][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.04.29-09.13.49:436][954]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_210
+[2022.04.29-09.13.57:104][410]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.04.29-09.13.57:105][410]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.04.29-09.13.57:106][410]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_212
+[2022.04.29-09.14.55:834][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.29-09.14.55:837][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-09.14.55:873][647]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto6
+[2022.04.29-09.14.55:874][647]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto66588ED3C445B507366C7F7AB080229B4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto6.umap'
+[2022.04.29-09.14.55:878][647]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.058
+[2022.04.29-09.14.55:878][647]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.04.29-09.14.58:865][712]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Stairs/Stairs01_Broken.Stairs01_Broken
+[2022.04.29-09.14.58:865][712]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Stairs/Stairs01_Broken.Stairs01_Broken
+[2022.04.29-09.14.58:865][712]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Stairs/Stairs01_Broken.Stairs01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_224
+[2022.04.29-09.14.59:828][766]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Stairs/Stairs01_Broken.Stairs01_Broken
+[2022.04.29-09.14.59:828][766]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Stairs/Stairs01_Broken.Stairs01_Broken
+[2022.04.29-09.14.59:829][766]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Stairs/Stairs01_Broken.Stairs01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_226
+[2022.04.29-09.15.00:017][776]Cmd: TRANSACTION UNDO
+[2022.04.29-09.15.00:017][776]LogEditorTransaction: Undo Create Actors
+[2022.04.29-09.15.01:137][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Stairs/Stairs02_Broken.Stairs02_Broken
+[2022.04.29-09.15.01:137][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Stairs/Stairs02_Broken.Stairs02_Broken
+[2022.04.29-09.15.01:137][797]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Stairs/Stairs02_Broken.Stairs02_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_228
+[2022.04.29-09.15.02:018][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Stairs/Stairs02_Broken.Stairs02_Broken
+[2022.04.29-09.15.02:018][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Stairs/Stairs02_Broken.Stairs02_Broken
+[2022.04.29-09.15.02:019][822]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Stairs/Stairs02_Broken.Stairs02_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_230
+[2022.04.29-09.15.02:424][835]Cmd: TRANSACTION UNDO
+[2022.04.29-09.15.02:424][835]LogEditorTransaction: Undo Create Actors
+[2022.04.29-09.15.17:000][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs06.Stairs06
+[2022.04.29-09.15.17:000][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs06.Stairs06
+[2022.04.29-09.15.17:001][254]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Stairs/Stairs06.Stairs06 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_232
+[2022.04.29-09.15.18:386][335]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs06.Stairs06
+[2022.04.29-09.15.18:386][335]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs06.Stairs06
+[2022.04.29-09.15.18:387][335]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Stairs/Stairs06.Stairs06 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_234
+[2022.04.29-09.15.18:944][367]Cmd: TRANSACTION UNDO
+[2022.04.29-09.15.18:945][367]LogEditorTransaction: Undo Create Actors
+[2022.04.29-09.16.12:292][625]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs07.fbx)
+[2022.04.29-09.16.12:330][625]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs07.fbx
+[2022.04.29-09.16.12:335][625]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-09.16.13:594][625]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.29-09.16.13:643][625]LogFbx: Display: Triangulating static mesh Stairs07
+[2022.04.29-09.16.13:659][625]LogStaticMesh: Display: Building static mesh Stairs07...
+[2022.04.29-09.16.13:807][625]LogStaticMesh: Built static mesh [0.15s] /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.16.13:808][625]LogStaticMesh: Display: Building static mesh Stairs07...
+[2022.04.29-09.16.14:005][625]LogStaticMesh: Built static mesh [0.20s] /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.16.17:133][734]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.16.17:196][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-09.16.21:742][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs07" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs07.uasset" SILENT=true
+[2022.04.29-09.16.21:746][827]LogSavePackage: Moving output files for package: /Game/LDK/Stairs/Stairs07
+[2022.04.29-09.16.21:746][827]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs072B3C5FAF4BFEF6C20C0BF6B62847B0C5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Stairs/Stairs07.uasset'
+[2022.04.29-09.16.21:770][827]AssetCheck: New page: Asset Save: Stairs07
+[2022.04.29-09.16.21:770][827]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.16.23:251][862]LogSlate: Window 'Stairs07' being destroyed
+[2022.04.29-09.16.23:342][862]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-09.16.23:342][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-09.16.24:387][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.16.24:387][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.16.24:388][904]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_236
+[2022.04.29-09.16.28:848][169]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.16.28:848][169]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.16.28:849][169]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_237
+[2022.04.29-09.16.29:323][196]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.17.08:577][756]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.29-09.17.08:577][756]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.29-09.17.10:303][847]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs07.fbx]
+[2022.04.29-09.17.10:308][847]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Stairs07.fbx
+[2022.04.29-09.17.10:313][847]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-09.17.10:362][847]LogFbx: Display: Triangulating static mesh Stairs07
+[2022.04.29-09.17.10:402][847]LogStaticMesh: Display: Building static mesh Stairs07...
+[2022.04.29-09.17.10:601][847]LogStaticMesh: Built static mesh [0.20s] /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.17.10:607][847]LogStaticMesh: Display: Building static mesh Stairs07...
+[2022.04.29-09.17.10:867][847]LogStaticMesh: Built static mesh [0.26s] /Game/LDK/Stairs/Stairs07.Stairs07
+[2022.04.29-09.17.10:881][847]LogEditorFactories: -- imported successfully
+[2022.04.29-09.24.56:529][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.04.29-09.24.56:531][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-09.24.56:568][607]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto7
+[2022.04.29-09.24.56:569][607]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto7082D03C2415132B1756D9392AA23B503.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto7.umap'
+[2022.04.29-09.24.56:573][607]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.056
+[2022.04.29-09.24.56:573][607]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2022.04.29-09.24.56:573][607]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LDK/Stairs/Stairs07] ([1] browsable assets)...
+[2022.04.29-09.24.56:617][607]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LDK/Stairs/Stairs07.Stairs07]
+[2022.04.29-09.24.56:617][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/LDK/Stairs/Stairs07]
+[2022.04.29-09.24.56:617][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Stairs/Stairs07" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Stairs/Stairs07_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.04.29-09.24.56:621][607]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LDK/Stairs/Stairs07_Auto7
+[2022.04.29-09.24.56:621][607]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Stairs07_Auto75E5930014CFD848CCFFDC4BC6EA03AC9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/LDK/Stairs/Stairs07_Auto7.uasset'
+[2022.04.29-09.24.56:621][607]LogFileHelpers: Auto-saving content packages took 0.048
+[2022.04.29-09.31.51:616][597]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.31.58:304][795]Cmd: TRANSACTION UNDO
+[2022.04.29-09.31.58:304][795]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-09.34.57:144][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.29-09.34.57:152][500]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto8
+[2022.04.29-09.34.57:152][500]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto813C30CC6417181A76E7E90AE47B10730.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto8.umap'
+[2022.04.29-09.34.57:157][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-09.34.57:194][500]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto8
+[2022.04.29-09.34.57:195][500]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto80FEC91B047CC248D614AECB2C386402B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto8.umap'
+[2022.04.29-09.34.57:199][500]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.068
+[2022.04.29-09.34.57:199][500]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2022.04.29-09.36.34:348][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.34:348][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.34:348][527]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_246
+[2022.04.29-09.36.35:680][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.35:680][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.35:681][566]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_247
+[2022.04.29-09.36.37:152][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.37:152][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.37:153][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_248
+[2022.04.29-09.36.38:508][646]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.465 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.29-09.36.38:602][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.38:602][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.38:603][646]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_249
+[2022.04.29-09.36.39:652][672]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.39:652][672]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.39:653][672]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_250
+[2022.04.29-09.36.40:692][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.40:692][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.36.40:693][702]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_253
+[2022.04.29-09.36.40:855][707]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.36.40:855][707]Can't find target element.
+[2022.04.29-09.36.46:122][834]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Cube9)
+[2022.04.29-09.36.46:962][859]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Cube9)
+[2022.04.29-09.36.47:331][870]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.36.52:930][ 24]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.36.52:930][ 24]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.36.52:930][ 24]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_254
+[2022.04.29-09.36.55:152][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.36.55:152][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.36.55:153][ 89]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_255
+[2022.04.29-09.36.56:730][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.36.56:730][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.36.56:730][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_256
+[2022.04.29-09.37.00:890][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.37.00:890][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.37.00:891][254]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_259
+[2022.04.29-09.37.01:988][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.37.01:988][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.37.01:989][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_260
+[2022.04.29-09.37.03:841][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.37.03:841][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.37.03:842][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_262
+[2022.04.29-09.37.12:616][516]LogSlate: Window 'Pasting To Hidden Level' being destroyed
+[2022.04.29-09.37.38:026][271]Cmd: TRANSACTION UNDO
+[2022.04.29-09.37.38:026][271]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-09.37.39:528][297]Cmd: MODE ROTGRID=0
+[2022.04.29-09.38.06:143][ 27]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.06:143][ 27]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.06:143][ 27]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_263
+[2022.04.29-09.38.10:294][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.10:294][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.10:295][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_264
+[2022.04.29-09.38.11:269][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03_Broken.Pillar03_Broken
+[2022.04.29-09.38.11:269][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03_Broken.Pillar03_Broken
+[2022.04.29-09.38.11:269][172]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03_Broken.Pillar03_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_265
+[2022.04.29-09.38.13:571][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03_Broken.Pillar03_Broken
+[2022.04.29-09.38.13:571][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03_Broken.Pillar03_Broken
+[2022.04.29-09.38.13:572][240]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03_Broken.Pillar03_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_266
+[2022.04.29-09.38.15:181][275]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.15:181][275]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.15:182][275]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_267
+[2022.04.29-09.38.16:716][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.16:716][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.16:716][318]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_268
+[2022.04.29-09.38.18:563][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.18:563][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-09.38.18:564][373]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_269
+[2022.04.29-09.38.35:777][783]LogSlate: Window 'Pasting To Hidden Level' being destroyed
+[2022.04.29-09.38.37:558][837]Cmd: TRANSACTION UNDO
+[2022.04.29-09.38.37:559][837]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-09.38.38:392][852]Cmd: TRANSACTION UNDO
+[2022.04.29-09.38.38:392][852]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-09.38.40:378][891]Cmd: TRANSACTION UNDO
+[2022.04.29-09.38.40:378][891]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-09.38.49:512][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.38.49:512][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.38.49:512][106]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_270
+[2022.04.29-09.38.49:513][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.38.49:513][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.38.49:513][106]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_271
+[2022.04.29-09.38.50:358][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.38.50:358][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-09.38.50:358][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_272
+[2022.04.29-09.38.50:359][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.38.50:359][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-09.38.50:360][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_273
+[2022.04.29-09.44.57:766][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.29-09.44.57:778][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto9
+[2022.04.29-09.44.57:778][536]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto9F77084E045BF24D52F0A1B9F2EF1EDA7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto9.umap'
+[2022.04.29-09.44.57:783][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-09.44.57:823][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto9
+[2022.04.29-09.44.57:823][536]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto9361E8715477AB0F9017D8BA51374BD5B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto9.umap'
+[2022.04.29-09.44.57:828][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.079
+[2022.04.29-09.44.57:828][536]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2022.04.29-09.47.13:896][982]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb01_Broken.fbx)
+[2022.04.29-09.47.13:938][982]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb01_Broken.fbx
+[2022.04.29-09.47.13:942][982]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-09.47.15:491][982]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.29-09.47.15:539][982]LogFbx: Display: Triangulating static mesh Catacomb01_Art_Shallow_Broken
+[2022.04.29-09.47.15:548][982]LogStaticMesh: Display: Building static mesh Wall_Catacomb01_Broken...
+[2022.04.29-09.47.15:622][982]LogStaticMesh: Built static mesh [0.08s] /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-09.47.15:623][982]LogStaticMesh: Display: Building static mesh Wall_Catacomb01_Broken...
+[2022.04.29-09.47.15:707][982]LogStaticMesh: Built static mesh [0.08s] /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-09.47.17:428][ 23]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-09.47.17:506][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-09.47.22:683][101]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken
+[2022.04.29-09.47.22:683][101]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01_BrokenC956325F4BC84DA2DFEB5EB200AB88F5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.uasset'
+[2022.04.29-09.47.22:714][101]AssetCheck: New page: Asset Save: Wall_Catacomb01_Broken
+[2022.04.29-09.47.22:714][101]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-09.47.24:454][131]LogSlate: Window 'Wall_Catacomb01_Broken' being destroyed
+[2022.04.29-09.47.24:566][131]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-09.47.24:566][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-09.47.30:487][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-09.47.30:487][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-09.47.30:487][359]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_274
+[2022.04.29-09.47.31:625][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-09.47.31:625][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-09.47.31:626][392]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_275
+[2022.04.29-09.47.34:130][467]Cmd: TRANSACTION UNDO
+[2022.04.29-09.47.34:131][467]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-09.47.37:080][522]Cmd: MODE ROTGRID=1
+[2022.04.29-09.47.45:856][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.48.13:288][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.29-09.48.13:288][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.29-09.48.13:288][494]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_276
+[2022.04.29-09.48.15:119][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.29-09.48.15:119][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.29-09.48.15:120][548]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_277
+[2022.04.29-09.48.21:322][733]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.48.42:386][343]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.29-09.48.42:386][343]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.29-09.48.42:387][343]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_278
+[2022.04.29-09.48.45:418][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.29-09.48.45:418][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.29-09.48.45:419][432]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_279
+[2022.04.29-09.48.46:225][457]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.49.05:061][ 16]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.49.05:371][ 24]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.49.19:338][441]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.49.28:634][718]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.54.58:385][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.29-09.54.58:392][899]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto0
+[2022.04.29-09.54.58:392][899]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto0C3A8F6EC4A2CA851B531358CB8BFF3A2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto0.umap'
+[2022.04.29-09.54.58:401][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-09.54.58:440][899]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto0
+[2022.04.29-09.54.58:441][899]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto01BB286264A6EE0A2D06BF496BC26F253.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto0.umap'
+[2022.04.29-09.54.58:445][899]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.075
+[2022.04.29-09.54.58:445][899]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2022.04.29-09.57.06:348][256]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb01_Art_Deep_Broken.fbx)
+[2022.04.29-09.57.06:385][256]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb01_Art_Deep_Broken.fbx
+[2022.04.29-09.57.06:390][256]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-09.57.07:901][256]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.29-09.57.07:933][256]LogFbx: Display: Triangulating static mesh Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.07:941][256]LogStaticMesh: Display: Building static mesh Wall_Catacomb01_Art_Deep_Broken...
+[2022.04.29-09.57.08:006][256]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.08:007][256]LogStaticMesh: Display: Building static mesh Wall_Catacomb01_Art_Deep_Broken...
+[2022.04.29-09.57.08:079][256]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.09:748][300]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.09:825][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-09.57.14:157][362]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.14:158][362]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01_Art_Deep_Broken1AD842604F536E4AF33B2DBE94E069CF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.uasset'
+[2022.04.29-09.57.14:188][362]AssetCheck: New page: Asset Save: Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.14:188][362]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.16:099][399]LogSlate: Window 'Wall_Catacomb01_Art_Deep_Broken' being destroyed
+[2022.04.29-09.57.16:208][399]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-09.57.16:208][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-09.57.17:477][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.17:477][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.17:478][428]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_281
+[2022.04.29-09.57.19:642][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.19:642][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-09.57.19:643][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_282
+[2022.04.29-09.57.31:596][847]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-09.57.41:964][155]Cmd: TRANSACTION UNDO
+[2022.04.29-09.57.41:964][155]LogEditorTransaction: Undo Move Elements
+[2022.04.29-09.57.56:769][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken
+[2022.04.29-09.57.56:769][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken
+[2022.04.29-09.57.56:770][536]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_283
+[2022.04.29-09.57.58:017][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken
+[2022.04.29-09.57.58:017][572]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken
+[2022.04.29-09.57.58:018][572]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_284
+[2022.04.29-09.58.04:990][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.02.48:247][652]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb02_Deep_Broken.fbx)
+[2022.04.29-10.02.48:289][652]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Wall_Catacomb02_Deep_Broken.fbx
+[2022.04.29-10.02.48:294][652]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-10.02.49:783][652]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.29-10.02.49:833][652]LogFbx: Display: Triangulating static mesh Catacomb02_Art_Deep_Broken
+[2022.04.29-10.02.49:846][652]LogStaticMesh: Display: Building static mesh Wall_Catacomb02_Deep_Broken...
+[2022.04.29-10.02.49:956][652]LogStaticMesh: Built static mesh [0.11s] /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.02.49:956][652]LogStaticMesh: Display: Building static mesh Wall_Catacomb02_Deep_Broken...
+[2022.04.29-10.02.50:092][652]LogStaticMesh: Built static mesh [0.14s] /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.02.51:613][691]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.02.51:690][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-10.02.56:251][759]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.02.56:252][759]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02_Deep_BrokenEEC208CD4142161206FBC893A543989A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.uasset'
+[2022.04.29-10.02.56:282][759]AssetCheck: New page: Asset Save: Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.02.56:282][759]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.02.58:948][813]LogSlate: Window 'Wall_Catacomb02_Deep_Broken' being destroyed
+[2022.04.29-10.02.59:018][813]LogSlate: Window 'Wall_Catacomb02_Deep_Broken' being destroyed
+[2022.04.29-10.02.59:043][813]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-10.02.59:043][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-10.03.01:354][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.03.01:354][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.03.01:354][873]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_285
+[2022.04.29-10.03.05:135][985]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.03.05:135][985]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken
+[2022.04.29-10.03.05:136][985]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Deep_Broken.Wall_Catacomb02_Deep_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_286
+[2022.04.29-10.03.11:394][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.03.25:746][595]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.04.04:954][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-10.04.04:954][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-10.04.04:955][726]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_287
+[2022.04.29-10.04.04:955][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-10.04.04:955][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-10.04.04:956][726]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_288
+[2022.04.29-10.04.06:049][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-10.04.06:049][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.04.29-10.04.06:050][758]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_289
+[2022.04.29-10.04.06:065][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-10.04.06:065][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.04.29-10.04.06:065][758]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_290
+[2022.04.29-10.04.06:977][786]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.04.24:086][283]Cmd: MODE ROTGRID=0
+[2022.04.29-10.04.25:498][323]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.04.36:651][648]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.04.36:729][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-10.04.42:078][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Clutter/Box01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Box01.uasset" SILENT=true
+[2022.04.29-10.04.42:081][727]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Box01
+[2022.04.29-10.04.42:082][727]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Box016D92C40C471FE795D04911AC5B15C5DF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Box01.uasset'
+[2022.04.29-10.04.42:106][727]AssetCheck: New page: Asset Save: Box01
+[2022.04.29-10.04.42:106][727]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.04.44:590][766]LogSlate: Window 'Box01' being destroyed
+[2022.04.29-10.04.44:699][766]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-10.04.44:699][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-10.04.46:102][799]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-10.04.46:102][799]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-10.04.46:103][799]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_291
+[2022.04.29-10.04.47:391][836]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-10.04.47:391][836]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-10.04.47:392][836]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_292
+[2022.04.29-10.04.48:547][863]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-10.04.48:547][863]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-10.04.48:548][863]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_293
+[2022.04.29-10.04.49:040][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-10.04.49:040][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-10.04.49:041][877]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_294
+[2022.04.29-10.04.50:084][901]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.04.50:084][901]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.04.50:085][901]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_295
+[2022.04.29-10.04.54:210][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.04.54:210][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.04.54:211][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_296
+[2022.04.29-10.05.04:781][337]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.05.10:023][493]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Wall184)
+[2022.04.29-10.05.11:297][530]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.05.19:369][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-10.05.19:369][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-10.05.19:370][762]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_297
+[2022.04.29-10.05.20:451][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-10.05.20:451][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-10.05.20:452][793]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_298
+[2022.04.29-10.05.29:465][ 60]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.05.30:975][105]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor50)
+[2022.04.29-10.05.31:176][111]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.05.32:530][151]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor50)
+[2022.04.29-10.05.33:239][172]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor256)
+[2022.04.29-10.05.33:979][194]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor50)
+[2022.04.29-10.05.34:971][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.05.41:845][418]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.05.41:845][418]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.05.41:846][418]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_299
+[2022.04.29-10.05.42:862][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.05.42:862][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.05.42:863][448]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_300
+[2022.04.29-10.05.43:180][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.06.21:286][754]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.06.33:307][103]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-10.06.33:307][103]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-10.06.33:307][103]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_301
+[2022.04.29-10.06.35:993][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-10.06.35:993][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-10.06.35:994][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_302
+[2022.04.29-10.06.36:958][212]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.06.40:326][312]Cmd: TRANSACTION UNDO
+[2022.04.29-10.06.40:327][312]LogEditorTransaction: Undo Move Elements
+[2022.04.29-10.06.47:215][474]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.06.47:215][474]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.06.47:216][474]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_303
+[2022.04.29-10.06.48:527][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.06.48:527][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.04.29-10.06.48:527][512]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_304
+[2022.04.29-10.06.50:172][562]Cmd: TRANSACTION UNDO
+[2022.04.29-10.06.50:172][562]LogEditorTransaction: Undo Create Actors
+[2022.04.29-10.06.54:818][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-10.07.22:219][481]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.29-10.07.22:219][481]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.29-10.07.22:220][481]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_305
+[2022.04.29-10.07.25:580][580]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.29-10.07.25:580][580]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.29-10.07.25:581][580]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_306
+[2022.04.29-10.09.39:248][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-10.09.39:275][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.29-10.09.39:314][ 19]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.29-10.09.39:314][ 19]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidF250A76B416CD47BC4D71BB182F67690.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.29-10.09.39:343][ 19]LogFileHelpers: No new changes to save!
+[2022.04.29-10.09.39:353][ 19]AssetCheck: New page: Asset Save: David
+[2022.04.29-10.09.39:353][ 19]LogContentValidation: Display: Validating World /Game/David.David
