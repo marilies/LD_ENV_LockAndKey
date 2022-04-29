@@ -1022,3 +1022,265 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.29-13.28.59:196][737]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Light2)
 [2022.04.29-13.28.59:196][737]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Light3)
 [2022.04.29-13.28.59:196][737]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BP_Light4)
+[2022.04.29-13.30.32:325][620]Cmd: DUPLICATE
+[2022.04.29-13.30.32:325][620]Cmd: ACTOR DUPLICATE
+[2022.04.29-13.30.52:117][141]Cmd: TRANSACTION UNDO
+[2022.04.29-13.30.52:117][141]LogEditorTransaction: Undo Reset Location
+[2022.04.29-13.31.27:746][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken02.Floor02_Broken02
+[2022.04.29-13.31.27:746][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken02.Floor02_Broken02
+[2022.04.29-13.31.27:746][141]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken02.Floor02_Broken02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_335
+[2022.04.29-13.31.31:676][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken02.Floor02_Broken02
+[2022.04.29-13.31.31:676][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken02.Floor02_Broken02
+[2022.04.29-13.31.31:677][258]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken02.Floor02_Broken02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_337
+[2022.04.29-13.31.31:991][268]Cmd: TRANSACTION UNDO
+[2022.04.29-13.31.31:991][268]LogEditorTransaction: Undo Create Actors
+[2022.04.29-13.31.33:343][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken03.Floor02_Broken03
+[2022.04.29-13.31.33:344][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken03.Floor02_Broken03
+[2022.04.29-13.31.33:344][286]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken03.Floor02_Broken03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_339
+[2022.04.29-13.31.34:832][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken03.Floor02_Broken03
+[2022.04.29-13.31.34:832][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken03.Floor02_Broken03
+[2022.04.29-13.31.34:833][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken03.Floor02_Broken03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_341
+[2022.04.29-13.31.34:940][317]Cmd: TRANSACTION UNDO
+[2022.04.29-13.31.34:940][317]LogEditorTransaction: Undo Create Actors
+[2022.04.29-13.31.35:989][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01
+[2022.04.29-13.31.35:989][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01
+[2022.04.29-13.31.35:990][333]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_343
+[2022.04.29-13.31.36:636][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01
+[2022.04.29-13.31.36:636][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01
+[2022.04.29-13.31.36:637][345]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_345
+[2022.04.29-13.31.38:451][386]Cmd: TRANSACTION UNDO
+[2022.04.29-13.31.38:451][386]LogEditorTransaction: Undo Create Actors
+[2022.04.29-13.31.50:826][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.29-13.31.50:826][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.29-13.31.50:826][684]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Floors/Floor02.Floor02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_349
+[2022.04.29-13.31.51:647][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.29-13.31.51:647][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor02.Floor02
+[2022.04.29-13.31.51:649][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Floors/Floor02.Floor02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_351
+[2022.04.29-13.32.41:863][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor01_half.Floor01_half
+[2022.04.29-13.32.41:863][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor01_half.Floor01_half
+[2022.04.29-13.32.41:863][225]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Floors/Floor01_half.Floor01_half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_353
+[2022.04.29-13.32.43:840][283]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor01_half.Floor01_half
+[2022.04.29-13.32.43:840][283]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor01_half.Floor01_half
+[2022.04.29-13.32.43:841][283]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Floors/Floor01_half.Floor01_half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_354
+[2022.04.29-13.32.48:574][425]Cmd: TRANSACTION UNDO
+[2022.04.29-13.32.48:574][425]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-13.32.50:755][464]Cmd: MODE ROTGRID=1
+[2022.04.29-13.32.51:744][479]Cmd: MODE GRID=1
+[2022.04.29-13.32.57:053][634]Cmd: DELETE
+[2022.04.29-13.32.57:053][634]Cmd: ACTOR DELETE
+[2022.04.29-13.32.57:060][634]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-13.32.57:090][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.29-13.32.57:093][634]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.04.29-13.33.11:871][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.33.21:968][372]Cmd: DELETE
+[2022.04.29-13.33.21:968][372]Cmd: ACTOR DELETE
+[2022.04.29-13.33.21:974][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-13.33.22:017][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.29-13.33.22:019][372]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.04.29-13.33.22:635][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor01.Floor01
+[2022.04.29-13.33.22:635][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor01.Floor01
+[2022.04.29-13.33.22:636][385]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Floors/Floor01.Floor01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_358
+[2022.04.29-13.33.25:400][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor01.Floor01
+[2022.04.29-13.33.25:400][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Floors/Floor01.Floor01
+[2022.04.29-13.33.25:401][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Floors/Floor01.Floor01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_360
+[2022.04.29-13.33.30:167][610]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.34.09:841][785]Cmd: TRANSACTION UNDO
+[2022.04.29-13.34.09:841][785]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.34.39:513][630]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.34.48:713][901]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.29-13.34.48:718][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-13.34.48:719][901]PIE: New page: PIE session: Main (29 Apr 2022, 17:34:48)
+[2022.04.29-13.34.48:719][901]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-13.34.48:721][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001982s)
+[2022.04.29-13.34.48:721][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002043s)
+[2022.04.29-13.34.48:721][901]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.29-13.34.48:721][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-13.34.48:721][901]LogAIModule: Creating AISystem for world Main
+[2022.04.29-13.34.48:721][901]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2022.04.29-13.34.48:770][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.29-13.34.48:771][901]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.29-13.34.48:772][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-13.34.48:772][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-13.34.48:772][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-13.34.48:772][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-13.34.48:772][901]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-13.34.48:772][901]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.29-13.34.48:772][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-13.34.48:772][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-13.34.48:772][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-13.34.48:772][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-13.34.48:772][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-13.34.48:774][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.29-13.34.48:812][901]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.29-13.34.48:813][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-13.34.48:813][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-13.34.48:813][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-13.34.48:814][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.04.29-13.34.48:814][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.04.29-13.34.48:815][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.04.29-13.34.48:815][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.04.29-13.34.48:815][901]LogInit: FAudioDevice initialized.
+[2022.04.29-13.34.48:815][901]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2022.04.29-13.34.48:826][901]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.04.29-13.34.48:860][901]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.29-15.34.48
+[2022.04.29-13.34.48:860][901]LogWorld: Bringing up level for play took: 0.000611
+[2022.04.29-13.34.48:862][901]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.04.29-13.34.48:866][901]PIE: Server logged in
+[2022.04.29-13.34.48:867][901]PIE: Play in editor total start time 0,148 seconds.
+[2022.04.29-13.35.29:406][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-13.35.29:406][106]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-13.35.29:408][106]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-13.35.29:408][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-13.35.29:445][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-13.35.29:448][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-13.35.29:457][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-13.35.29:457][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.29-13.35.29:458][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.29-13.35.29:461][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-13.35.29:467][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.29-13.35.29:508][107]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.04.29-13.35.29:516][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.29-13.35.44:895][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/WallCorner02.WallCorner02
+[2022.04.29-13.35.44:895][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/WallCorner02.WallCorner02
+[2022.04.29-13.35.44:896][721]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/WallCorner02.WallCorner02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_366
+[2022.04.29-13.35.47:718][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/WallCorner02.WallCorner02
+[2022.04.29-13.35.47:718][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/WallCorner02.WallCorner02
+[2022.04.29-13.35.47:718][805]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/WallCorner02.WallCorner02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_368
+[2022.04.29-13.35.48:156][819]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.35.49:946][872]Cmd: TRANSACTION UNDO
+[2022.04.29-13.35.49:946][872]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-13.35.56:381][ 29]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.36.07:496][358]Cmd: TRANSACTION UNDO
+[2022.04.29-13.36.07:496][358]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-13.36.25:107][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner
+[2022.04.29-13.36.25:107][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner
+[2022.04.29-13.36.25:108][828]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_371
+[2022.04.29-13.36.26:930][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner
+[2022.04.29-13.36.26:930][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner
+[2022.04.29-13.36.26:930][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_375
+[2022.04.29-13.36.29:123][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.37.20:306][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-13.37.20:306][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-13.37.20:307][459]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_379
+[2022.04.29-13.37.21:803][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-13.37.21:803][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.04.29-13.37.21:804][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_380
+[2022.04.29-13.37.21:957][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.39.07:560][642]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.39.14:418][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe01.Wall_Fringe01
+[2022.04.29-13.39.14:418][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe01.Wall_Fringe01
+[2022.04.29-13.39.14:418][814]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Fringe01.Wall_Fringe01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_384
+[2022.04.29-13.39.16:047][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe01.Wall_Fringe01
+[2022.04.29-13.39.16:047][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe01.Wall_Fringe01
+[2022.04.29-13.39.16:048][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Fringe01.Wall_Fringe01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_386
+[2022.04.29-13.39.16:355][872]Cmd: TRANSACTION UNDO
+[2022.04.29-13.39.16:355][872]LogEditorTransaction: Undo Create Actors
+[2022.04.29-13.39.17:419][886]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe03.Wall_Fringe03
+[2022.04.29-13.39.17:419][886]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe03.Wall_Fringe03
+[2022.04.29-13.39.17:420][886]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Fringe03.Wall_Fringe03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_388
+[2022.04.29-13.39.26:249][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe03.Wall_Fringe03
+[2022.04.29-13.39.26:249][129]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe03.Wall_Fringe03
+[2022.04.29-13.39.26:250][129]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Fringe03.Wall_Fringe03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_392
+[2022.04.29-13.39.38:925][507]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.40.41:078][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner
+[2022.04.29-13.40.41:078][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner
+[2022.04.29-13.40.41:079][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_396
+[2022.04.29-13.40.43:940][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner
+[2022.04.29-13.40.43:940][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner
+[2022.04.29-13.40.43:940][383]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Corner.Wall_Fringe_Corner as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_400
+[2022.04.29-13.40.43:992][385]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.40.54:777][706]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.40.56:900][769]Cmd: TRANSACTION UNDO
+[2022.04.29-13.40.56:900][769]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.40.57:271][773]Cmd: TRANSACTION UNDO
+[2022.04.29-13.40.57:271][773]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.40.58:702][801]Cmd: TRANSACTION REDO
+[2022.04.29-13.40.58:702][801]LogEditorTransaction: Redo Move Elements
+[2022.04.29-13.41.09:186][ 81]Cmd: TRANSACTION UNDO
+[2022.04.29-13.41.09:186][ 81]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.41.15:803][246]Cmd: TRANSACTION UNDO
+[2022.04.29-13.41.15:803][246]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.41.18:462][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-13.41.18:479][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.29-13.41.18:545][295]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.29-13.41.18:546][295]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David821BB9AD4CFC1B67DC5243BA973D1591.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.29-13.41.18:569][295]LogFileHelpers: No new changes to save!
+[2022.04.29-13.41.18:594][295]AssetCheck: New page: Asset Save: David
+[2022.04.29-13.41.18:594][295]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.29-13.41.41:996][988]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.42.13:395][918]Cmd: DELETE
+[2022.04.29-13.42.13:395][918]Cmd: ACTOR DELETE
+[2022.04.29-13.42.13:402][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-13.42.13:429][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.29-13.42.13:432][918]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.04.29-13.42.26:800][284]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe04.Wall_Fringe04
+[2022.04.29-13.42.26:800][284]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe04.Wall_Fringe04
+[2022.04.29-13.42.26:800][284]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Fringe04.Wall_Fringe04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_419
+[2022.04.29-13.42.29:704][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe04.Wall_Fringe04
+[2022.04.29-13.42.29:704][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe04.Wall_Fringe04
+[2022.04.29-13.42.29:705][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Fringe04.Wall_Fringe04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_420
+[2022.04.29-13.43.25:424][ 24]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.43.48:319][705]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.44.10:247][355]Cmd: TRANSACTION UNDO
+[2022.04.29-13.44.10:247][355]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.44.28:651][782]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.29-13.44.28:651][782]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.29-13.44.28:651][782]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_424
+[2022.04.29-13.44.29:548][809]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.29-13.44.29:548][809]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.04.29-13.44.29:549][809]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_426
+[2022.04.29-13.44.29:741][816]Cmd: TRANSACTION UNDO
+[2022.04.29-13.44.29:741][816]LogEditorTransaction: Undo Create Actors
+[2022.04.29-13.44.31:013][833]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.29-13.44.31:013][833]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.29-13.44.31:013][833]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_428
+[2022.04.29-13.44.32:572][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.29-13.44.32:572][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.04.29-13.44.32:573][864]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_454
+[2022.04.29-13.44.47:692][312]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.45.26:848][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-13.45.26:848][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-13.45.26:848][428]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_456
+[2022.04.29-13.45.28:332][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-13.45.28:332][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-13.45.28:333][472]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_457
+[2022.04.29-13.45.28:972][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.45.54:455][247]Cmd: DELETE
+[2022.04.29-13.45.54:455][247]Cmd: ACTOR DELETE
+[2022.04.29-13.45.54:461][247]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-13.45.54:488][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.29-13.45.54:491][247]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.04.29-13.45.55:981][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-13.45.55:981][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-13.45.55:981][277]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_467
+[2022.04.29-13.45.57:462][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-13.45.57:462][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.04.29-13.45.57:463][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_470
+[2022.04.29-13.45.57:650][328]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-13.46.23:975][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.29-13.46.23:975][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.29-13.46.23:975][ 82]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_471
+[2022.04.29-13.46.27:292][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.29-13.46.27:292][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01
+[2022.04.29-13.46.27:292][181]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01.Wall_Catacomb01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_472
+[2022.04.29-13.47.17:746][647]Cmd: TRANSACTION UNDO
+[2022.04.29-13.47.17:746][647]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.47.20:477][700]Cmd: TRANSACTION UNDO
+[2022.04.29-13.47.20:477][700]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.48.00:104][847]Cmd: TRANSACTION UNDO
+[2022.04.29-13.48.00:104][847]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-13.48.00:934][862]Cmd: TRANSACTION UNDO
+[2022.04.29-13.48.00:934][862]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.48.59:945][770]Cmd: TRANSACTION UNDO
+[2022.04.29-13.48.59:945][770]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-13.49.18:229][280]Cmd: TRANSACTION UNDO
+[2022.04.29-13.49.18:229][280]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.49.20:767][329]Cmd: TRANSACTION UNDO
+[2022.04.29-13.49.20:767][329]LogEditorTransaction: Undo Move Elements
+[2022.04.29-13.49.27:005][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-13.49.27:016][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.29-13.49.27:081][480]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.29-13.49.27:081][480]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB22725C94A53268C9FB09C973B2BB7D1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.29-13.49.27:092][480]LogFileHelpers: No new changes to save!
+[2022.04.29-13.49.27:101][480]AssetCheck: New page: Asset Save: David
+[2022.04.29-13.49.27:101][480]LogContentValidation: Display: Validating World /Game/David.David
