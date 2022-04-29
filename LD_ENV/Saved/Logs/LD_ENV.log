@@ -1384,3 +1384,786 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.29-15.35.12:962][471]LogFileHelpers: No new changes to save!
 [2022.04.29-15.35.12:981][471]AssetCheck: New page: Asset Save: David
 [2022.04.29-15.35.12:981][471]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.29-15.42.38:408][947]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.675 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.29-15.56.41:242][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-15.56.44:290][733]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.29-15.56.44:296][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-15.56.44:296][733]PIE: New page: PIE session: Main (29 Apr 2022, 19:56:44)
+[2022.04.29-15.56.44:296][733]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-15.56.44:298][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002306s)
+[2022.04.29-15.56.44:298][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002377s)
+[2022.04.29-15.56.44:298][733]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.29-15.56.44:298][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-15.56.44:299][733]LogAIModule: Creating AISystem for world Main
+[2022.04.29-15.56.44:299][733]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2022.04.29-15.56.44:306][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.29-15.56.44:308][733]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.29-15.56.44:308][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-15.56.44:308][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-15.56.44:308][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-15.56.44:308][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-15.56.44:308][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-15.56.44:308][733]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.29-15.56.44:308][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-15.56.44:308][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-15.56.44:309][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-15.56.44:309][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-15.56.44:309][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-15.56.44:311][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.29-15.56.44:347][733]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.29-15.56.44:348][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-15.56.44:348][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-15.56.44:348][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-15.56.44:348][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.04.29-15.56.44:348][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.04.29-15.56.44:350][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.04.29-15.56.44:350][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.04.29-15.56.44:350][733]LogInit: FAudioDevice initialized.
+[2022.04.29-15.56.44:350][733]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2022.04.29-15.56.44:364][733]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.04.29-15.56.44:403][733]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.29-17.56.44
+[2022.04.29-15.56.44:403][733]LogWorld: Bringing up level for play took: 0.000683
+[2022.04.29-15.56.44:405][733]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.04.29-15.56.44:408][733]PIE: Server logged in
+[2022.04.29-15.56.44:409][733]PIE: Play in editor total start time 0,114 seconds.
+[2022.04.29-15.56.52:888][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-15.56.52:888][233]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-15.56.52:891][233]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-15.56.52:891][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-15.56.52:902][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-15.56.52:905][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-15.56.52:913][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-15.56.52:914][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.04.29-15.56.52:915][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.04.29-15.56.52:922][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.29-15.56.52:966][234]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.29-15.56.52:973][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.29-15.59.52:688][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-15.59.52:688][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-15.59.52:689][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_499
+[2022.04.29-15.59.53:326][425]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-15.59.53:326][425]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-15.59.53:327][425]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_500
+[2022.04.29-15.59.55:806][625]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-15.59.55:806][625]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-15.59.55:806][625]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_501
+[2022.04.29-15.59.56:716][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-15.59.56:716][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.04.29-15.59.56:717][701]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_502
+[2022.04.29-16.00.09:103][801]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.00.18:919][620]Cmd: SELECT NONE
+[2022.04.29-16.00.46:425][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.29-16.00.46:429][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-16.00.46:506][782]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto2
+[2022.04.29-16.00.46:506][782]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto223DD46E042B6267B7DC4DB99BF1700A7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto2.umap'
+[2022.04.29-16.00.46:511][782]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.094
+[2022.04.29-16.00.46:511][782]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2022.04.29-16.00.51:921][939]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.29-16.00.51:926][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-16.00.51:926][939]PIE: New page: PIE session: Main (29 Apr 2022, 20:00:51)
+[2022.04.29-16.00.51:927][939]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.00.51:930][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003222s)
+[2022.04.29-16.00.51:930][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003329s)
+[2022.04.29-16.00.51:930][939]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.29-16.00.51:930][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-16.00.51:931][939]LogAIModule: Creating AISystem for world Main
+[2022.04.29-16.00.51:931][939]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2022.04.29-16.00.51:940][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.29-16.00.51:942][939]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.29-16.00.51:942][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-16.00.51:942][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-16.00.51:942][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-16.00.51:942][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-16.00.51:942][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-16.00.51:942][939]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.29-16.00.51:942][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-16.00.51:942][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-16.00.51:943][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-16.00.51:943][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-16.00.51:943][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-16.00.51:944][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.29-16.00.51:985][939]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.29-16.00.51:985][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-16.00.51:985][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-16.00.51:985][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-16.00.51:985][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.04.29-16.00.51:985][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.04.29-16.00.51:987][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.04.29-16.00.51:987][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.04.29-16.00.51:987][939]LogInit: FAudioDevice initialized.
+[2022.04.29-16.00.51:987][939]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2022.04.29-16.00.51:997][939]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.04.29-16.00.52:038][939]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.29-18.00.52
+[2022.04.29-16.00.52:039][939]LogWorld: Bringing up level for play took: 0.000709
+[2022.04.29-16.00.52:041][939]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.04.29-16.00.52:044][939]PIE: Server logged in
+[2022.04.29-16.00.52:045][939]PIE: Play in editor total start time 0,119 seconds.
+[2022.04.29-16.01.36:418][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.01.36:418][581]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.01.36:420][581]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-16.01.36:420][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.01.36:435][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-16.01.36:438][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.01.36:446][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.01.36:446][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.04.29-16.01.36:448][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.04.29-16.01.36:456][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.29-16.01.36:494][582]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.04.29-16.01.36:501][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.29-16.01.40:388][814]Cmd: SELECT NONE
+[2022.04.29-16.02.10:519][538]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.02.28:448][616]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.29-16.02.28:454][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-16.02.28:454][616]PIE: New page: PIE session: Main (29 Apr 2022, 20:02:28)
+[2022.04.29-16.02.28:454][616]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.02.28:456][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002220s)
+[2022.04.29-16.02.28:456][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002305s)
+[2022.04.29-16.02.28:456][616]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.29-16.02.28:456][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-16.02.28:456][616]LogAIModule: Creating AISystem for world Main
+[2022.04.29-16.02.28:457][616]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2022.04.29-16.02.28:463][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.29-16.02.28:466][616]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.29-16.02.28:466][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-16.02.28:466][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-16.02.28:466][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-16.02.28:466][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-16.02.28:466][616]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-16.02.28:466][616]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.29-16.02.28:466][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-16.02.28:466][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-16.02.28:466][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-16.02.28:466][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-16.02.28:466][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-16.02.28:468][616]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.29-16.02.28:507][616]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.29-16.02.28:508][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-16.02.28:508][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-16.02.28:508][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-16.02.28:508][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.04.29-16.02.28:508][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.04.29-16.02.28:510][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.04.29-16.02.28:510][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.04.29-16.02.28:510][616]LogInit: FAudioDevice initialized.
+[2022.04.29-16.02.28:510][616]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2022.04.29-16.02.28:521][616]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.04.29-16.02.28:562][616]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.29-18.02.28
+[2022.04.29-16.02.28:562][616]LogWorld: Bringing up level for play took: 0.000732
+[2022.04.29-16.02.28:564][616]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.04.29-16.02.28:567][616]PIE: Server logged in
+[2022.04.29-16.02.28:568][616]PIE: Play in editor total start time 0,114 seconds.
+[2022.04.29-16.03.21:038][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.03.21:038][589]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.03.21:041][589]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-16.03.21:041][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.03.21:057][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-16.03.21:060][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.03.21:069][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.03.21:069][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.04.29-16.03.21:071][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.04.29-16.03.21:080][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.29-16.03.21:124][590]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.04.29-16.03.21:132][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.29-16.14.05:583][ 78]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.14.25:360][498]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.14.27:676][656]Cmd: TRANSACTION UNDO
+[2022.04.29-16.14.27:676][656]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.14.49:530][425]Cmd: DELETE
+[2022.04.29-16.14.49:530][425]Cmd: ACTOR DELETE
+[2022.04.29-16.14.49:537][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-16.14.49:547][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.29-16.14.49:550][425]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.04.29-16.15.20:834][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.15.35:776][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.29-16.15.35:781][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-16.15.35:781][232]PIE: New page: PIE session: Main (29 Apr 2022, 20:15:35)
+[2022.04.29-16.15.35:781][232]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.15.35:784][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002166s)
+[2022.04.29-16.15.35:784][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002251s)
+[2022.04.29-16.15.35:784][232]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.29-16.15.35:784][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-16.15.35:784][232]LogAIModule: Creating AISystem for world Main
+[2022.04.29-16.15.35:784][232]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2022.04.29-16.15.35:792][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.29-16.15.35:793][232]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.29-16.15.35:793][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-16.15.35:793][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-16.15.35:793][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-16.15.35:793][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-16.15.35:794][232]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-16.15.35:794][232]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.29-16.15.35:794][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-16.15.35:794][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-16.15.35:794][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-16.15.35:794][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-16.15.35:794][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-16.15.35:796][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.29-16.15.35:834][232]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.29-16.15.35:834][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-16.15.35:834][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-16.15.35:834][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-16.15.35:835][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.04.29-16.15.35:835][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.04.29-16.15.35:836][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.04.29-16.15.35:836][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.04.29-16.15.35:836][232]LogInit: FAudioDevice initialized.
+[2022.04.29-16.15.35:836][232]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2022.04.29-16.15.35:848][232]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.04.29-16.15.35:889][232]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.29-18.15.35
+[2022.04.29-16.15.35:890][232]LogWorld: Bringing up level for play took: 0.000725
+[2022.04.29-16.15.35:891][232]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.04.29-16.15.35:895][232]PIE: Server logged in
+[2022.04.29-16.15.35:895][232]PIE: Play in editor total start time 0,114 seconds.
+[2022.04.29-16.16.27:568][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.16.27:568][168]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.16.27:571][168]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-16.16.27:571][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.16.27:589][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-16.16.27:592][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.16.27:601][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.16.27:601][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.04.29-16.16.27:603][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.04.29-16.16.27:612][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.29-16.16.27:655][169]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.04.29-16.16.27:663][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.29-16.17.03:021][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.04.29-16.17.03:023][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-16.17.03:104][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto3
+[2022.04.29-16.17.03:104][495]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto3B552BBCC4A7F7678695F309A744139D4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto3.umap'
+[2022.04.29-16.17.03:109][495]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.094
+[2022.04.29-16.17.03:109][495]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2022.04.29-16.24.56:284][268]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.25.00:938][593]Cmd: TRANSACTION UNDO
+[2022.04.29-16.25.00:938][593]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.25.03:906][766]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.25.25:667][919]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.29-16.25.25:673][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-16.25.25:673][919]PIE: New page: PIE session: Main (29 Apr 2022, 20:25:25)
+[2022.04.29-16.25.25:673][919]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.25.25:675][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002258s)
+[2022.04.29-16.25.25:675][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002339s)
+[2022.04.29-16.25.25:675][919]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.29-16.25.25:676][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-16.25.25:676][919]LogAIModule: Creating AISystem for world Main
+[2022.04.29-16.25.25:676][919]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2022.04.29-16.25.25:684][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.29-16.25.25:686][919]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.29-16.25.25:686][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-16.25.25:686][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-16.25.25:686][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-16.25.25:686][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-16.25.25:686][919]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-16.25.25:686][919]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.29-16.25.25:686][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-16.25.25:686][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-16.25.25:687][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-16.25.25:687][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-16.25.25:687][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-16.25.25:689][919]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.29-16.25.25:729][919]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.29-16.25.25:729][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-16.25.25:729][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-16.25.25:729][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-16.25.25:730][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.04.29-16.25.25:730][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.04.29-16.25.25:731][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.04.29-16.25.25:731][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.04.29-16.25.25:731][919]LogInit: FAudioDevice initialized.
+[2022.04.29-16.25.25:731][919]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2022.04.29-16.25.25:745][919]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.04.29-16.25.25:802][919]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.29-18.25.25
+[2022.04.29-16.25.25:803][919]LogWorld: Bringing up level for play took: 0.000942
+[2022.04.29-16.25.25:805][919]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.04.29-16.25.25:809][919]PIE: Server logged in
+[2022.04.29-16.25.25:810][919]PIE: Play in editor total start time 0,137 seconds.
+[2022.04.29-16.26.02:578][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.26.02:578][808]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.26.02:581][808]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-16.26.02:582][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.26.02:612][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-16.26.02:615][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.26.02:624][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.26.02:624][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.04.29-16.26.02:626][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.04.29-16.26.02:634][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.29-16.26.02:679][809]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.29-16.26.02:687][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.29-16.27.59:818][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.04.29-16.27.59:820][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-16.27.59:899][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto4
+[2022.04.29-16.27.59:899][627]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto49FD4886B4306F9ADDEB790848240371D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto4.umap'
+[2022.04.29-16.27.59:904][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.093
+[2022.04.29-16.27.59:904][627]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2022.04.29-16.33.43:877][847]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.33.50:337][248]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.39.22:479][677]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Amphora02.fbx)
+[2022.04.29-16.39.22:485][677]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Amphora02.fbx
+[2022.04.29-16.39.22:490][677]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-16.39.23:913][677]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.29-16.39.23:928][677]LogFbx: Display: Triangulating static mesh Amfora02
+[2022.04.29-16.39.23:957][677]LogStaticMesh: Display: Building static mesh Amphora02...
+[2022.04.29-16.39.24:165][677]LogStaticMesh: Built static mesh [0.21s] /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.24:165][677]LogStaticMesh: Display: Building static mesh Amphora02...
+[2022.04.29-16.39.24:365][677]LogStaticMesh: Built static mesh [0.20s] /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.25:700][753]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.25:732][753]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-16.39.39:299][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Clutter/Amphora02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Amphora02.uasset" SILENT=true
+[2022.04.29-16.39.39:304][338]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Amphora02
+[2022.04.29-16.39.39:304][338]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Amphora0283B7EB134B7F3936E56E1495903CC2A9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Amphora02.uasset'
+[2022.04.29-16.39.39:316][338]AssetCheck: New page: Asset Save: Amphora02
+[2022.04.29-16.39.39:316][338]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.39:959][366]LogSlate: Window 'Amphora02' being destroyed
+[2022.04.29-16.39.40:018][366]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-16.39.40:018][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.39.41:668][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.41:668][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.41:668][443]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_506
+[2022.04.29-16.39.42:376][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.42:376][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.42:377][476]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_507
+[2022.04.29-16.39.42:710][493]Cmd: TRANSACTION UNDO
+[2022.04.29-16.39.42:710][493]LogEditorTransaction: Undo Create Actors
+[2022.04.29-16.39.46:344][673]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.39.50:497][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.50:497][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.50:497][902]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_508
+[2022.04.29-16.39.51:910][979]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.51:910][979]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.39.51:911][979]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_509
+[2022.04.29-16.39.53:229][ 51]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.40.07:174][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.40.07:174][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.40.07:174][754]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_510
+[2022.04.29-16.40.09:729][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.40.09:729][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.40.09:730][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_511
+[2022.04.29-16.40.09:888][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.40.16:041][213]Cmd: TRANSACTION UNDO
+[2022.04.29-16.40.16:041][213]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.40.21:467][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-16.40.21:467][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-16.40.21:468][485]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_512
+[2022.04.29-16.40.22:913][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-16.40.22:913][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-16.40.22:914][560]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_513
+[2022.04.29-16.40.27:481][800]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.40.35:127][204]Cmd: TRANSACTION UNDO
+[2022.04.29-16.40.35:127][204]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-16.40.35:766][231]Cmd: TRANSACTION UNDO
+[2022.04.29-16.40.35:766][231]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.40.43:080][610]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.40.44:335][670]Cmd: TRANSACTION UNDO
+[2022.04.29-16.40.44:335][670]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-16.40.45:018][695]Cmd: TRANSACTION UNDO
+[2022.04.29-16.40.45:018][695]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.41.23:420][645]Cmd: DELETE
+[2022.04.29-16.41.23:420][645]Cmd: ACTOR DELETE
+[2022.04.29-16.41.23:427][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-16.41.23:445][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.29-16.41.23:448][645]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.04.29-16.41.28:026][869]Cmd: TRANSACTION UNDO
+[2022.04.29-16.41.28:026][869]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-16.41.28:284][874]Cmd: TRANSACTION UNDO
+[2022.04.29-16.41.28:284][874]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.41.30:994][  1]Cmd: TRANSACTION UNDO
+[2022.04.29-16.41.30:994][  1]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-16.41.34:766][178]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.42.14:405][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.42.18:029][ 37]Cmd: TRANSACTION UNDO
+[2022.04.29-16.42.18:029][ 37]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.42.18:436][ 50]Cmd: TRANSACTION UNDO
+[2022.04.29-16.42.18:436][ 50]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-16.42.37:657][913]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.176 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.29-16.42.53:695][698]Cmd: TRANSACTION UNDO
+[2022.04.29-16.42.53:695][698]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-16.43.02:826][115]Cmd: TRANSACTION UNDO
+[2022.04.29-16.43.02:826][115]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-16.43.30:614][370]Cmd: TRANSACTION UNDO
+[2022.04.29-16.43.30:614][370]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.43.34:117][520]Cmd: TRANSACTION UNDO
+[2022.04.29-16.43.34:117][520]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.43.54:525][418]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.44.01:083][718]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.44.15:093][400]Cmd: TRANSACTION UNDO
+[2022.04.29-16.44.15:093][400]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.44.34:911][350]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.45.09:971][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.29-16.45.09:976][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-16.45.10:059][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto5
+[2022.04.29-16.45.10:059][ 16]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto5B7B584A54D22ABDDE67A09B0810A5483.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap'
+[2022.04.29-16.45.10:064][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.102
+[2022.04.29-16.45.10:064][ 16]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2022.04.29-16.45.53:661][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.45.53:661][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.45.53:661][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_532
+[2022.04.29-16.45.55:067][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.45.55:067][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-16.45.55:068][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_533
+[2022.04.29-16.45.55:424][167]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.46.07:193][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-16.46.07:193][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-16.46.07:194][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_534
+[2022.04.29-16.46.07:982][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-16.46.07:982][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-16.46.07:983][746]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_535
+[2022.04.29-16.46.11:395][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02
+[2022.04.29-16.46.11:396][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02
+[2022.04.29-16.46.11:396][899]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_536
+[2022.04.29-16.46.13:018][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02
+[2022.04.29-16.46.13:018][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02
+[2022.04.29-16.46.13:019][973]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier02.Brazier02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_537
+[2022.04.29-16.46.21:735][374]Cmd: TRANSACTION UNDO
+[2022.04.29-16.46.21:736][374]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.46.32:028][834]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.47.58:788][594]Cmd: DELETE
+[2022.04.29-16.47.58:789][594]Cmd: ACTOR DELETE
+[2022.04.29-16.47.58:796][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-16.47.58:820][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.29-16.47.58:823][594]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.04.29-16.48.27:085][721]Cmd: TRANSACTION UNDO
+[2022.04.29-16.48.27:085][721]LogEditorTransaction: Undo Move Elements
+[2022.04.29-16.48.40:920][298]Cmd: TRANSACTION UNDO
+[2022.04.29-16.48.40:920][298]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-16.48.48:109][592]Cmd: TRANSACTION UNDO
+[2022.04.29-16.48.48:109][592]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-16.48.56:176][920]Cmd: TRANSACTION UNDO
+[2022.04.29-16.48.56:176][920]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-16.49.01:234][123]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.49.07:950][404]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-16.51.29:426][743]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Cliff49)
+[2022.04.29-16.51.30:446][781]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Cliff49)
+[2022.04.29-16.51.39:485][151]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Wall03_Broken3)
+[2022.04.29-16.51.53:016][746]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor151)
+[2022.04.29-16.51.53:692][773]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Pillar69)
+[2022.04.29-16.52.47:566][960]LogSlate: Window 'Level Details' being destroyed
+[2022.04.29-16.52.47:590][960]LogSlate: Window 'Level Details' being destroyed
+[2022.04.29-16.52.58:561][402]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.29-16.52.58:566][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.29-16.52.58:566][402]PIE: New page: PIE session: Main (29 Apr 2022, 20:52:58)
+[2022.04.29-16.52.58:567][402]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.52.58:569][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002518s)
+[2022.04.29-16.52.58:569][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002599s)
+[2022.04.29-16.52.58:569][402]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.29-16.52.58:569][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.29-16.52.58:570][402]LogAIModule: Creating AISystem for world Main
+[2022.04.29-16.52.58:570][402]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2022.04.29-16.52.58:607][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.29-16.52.58:611][402]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.29-16.52.58:611][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.29-16.52.58:611][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.29-16.52.58:611][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.29-16.52.58:611][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.29-16.52.58:611][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.29-16.52.58:611][402]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.29-16.52.58:611][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.29-16.52.58:611][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.29-16.52.58:612][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.29-16.52.58:612][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.29-16.52.58:612][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.29-16.52.58:614][402]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.29-16.52.58:651][402]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.04.29-16.52.58:652][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.29-16.52.58:652][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.29-16.52.58:652][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.29-16.52.58:653][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.04.29-16.52.58:653][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.04.29-16.52.58:654][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.04.29-16.52.58:654][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.04.29-16.52.58:654][402]LogInit: FAudioDevice initialized.
+[2022.04.29-16.52.58:654][402]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2022.04.29-16.52.58:666][402]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.04.29-16.52.58:769][402]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.04.29-18.52.58
+[2022.04.29-16.52.58:772][402]LogWorld: Bringing up level for play took: 0.003310
+[2022.04.29-16.52.58:774][402]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.04.29-16.52.58:780][402]PIE: Server logged in
+[2022.04.29-16.52.58:780][402]PIE: Play in editor total start time 0,214 seconds.
+[2022.04.29-16.56.16:458][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.56.16:458][883]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.04.29-16.56.16:464][883]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-16.56.16:464][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.56.16:478][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.29-16.56.16:481][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-16.56.16:494][883]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.29-16.56.16:495][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.04.29-16.56.16:496][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.04.29-16.56.16:500][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.29-16.56.16:510][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.29-16.56.16:545][884]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2022.04.29-16.56.16:545][884]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.04.29-16.56.16:556][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.29-16.58.28:170][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.29-16.58.28:176][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto6
+[2022.04.29-16.58.28:177][363]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto6F1F2FC754AFDD735169CC29910966F1D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto6.umap'
+[2022.04.29-16.58.28:182][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.29-16.58.28:276][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto6
+[2022.04.29-16.58.28:276][363]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto6786A0B874DF2490E38B6DB9DBA075E7D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto6.umap'
+[2022.04.29-16.58.28:282][363]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.120
+[2022.04.29-16.58.28:282][363]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.120
+[2022.04.29-17.42.38:117][233]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.608 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.29-18.42.37:763][957]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.067 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.29-19.42.38:268][701]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.489 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.29-19.51.35:975][306]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Cliff49)
+[2022.04.29-19.52.06:552][841]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.53.20:088][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.29-19.53.20:088][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.29-19.53.20:089][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_564
+[2022.04.29-19.53.22:450][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.29-19.53.22:450][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01
+[2022.04.29-19.53.22:451][856]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier01.Brazier01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_565
+[2022.04.29-19.53.23:094][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.53.53:275][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.54.42:391][788]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.54.55:980][432]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.55.10:914][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-19.55.10:928][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.29-19.55.11:018][142]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.29-19.55.11:019][142]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David0678A16D4780F624AF53669C0D8B119B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.29-19.55.11:028][142]LogFileHelpers: No new changes to save!
+[2022.04.29-19.55.11:040][142]AssetCheck: New page: Asset Save: David
+[2022.04.29-19.55.11:040][142]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.29-19.55.31:099][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-19.55.31:100][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-19.55.31:100][114]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_567
+[2022.04.29-19.55.31:851][149]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-19.55.31:851][149]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.04.29-19.55.31:852][149]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_568
+[2022.04.29-19.55.32:130][163]Cmd: TRANSACTION UNDO
+[2022.04.29-19.55.32:130][163]LogEditorTransaction: Undo Create Actors
+[2022.04.29-19.55.33:313][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken
+[2022.04.29-19.55.33:313][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken
+[2022.04.29-19.55.33:313][202]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_569
+[2022.04.29-19.55.34:435][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken
+[2022.04.29-19.55.34:435][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken
+[2022.04.29-19.55.34:436][249]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar05_Broken.Pillar05_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_570
+[2022.04.29-19.55.34:599][255]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.55.42:183][608]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.56.11:981][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.29-19.56.11:981][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.29-19.56.11:982][987]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Pillar05.Pillar05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_571
+[2022.04.29-19.56.13:207][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.29-19.56.13:207][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.29-19.56.13:208][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Pillar05.Pillar05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_572
+[2022.04.29-19.56.14:993][124]Cmd: TRANSACTION UNDO
+[2022.04.29-19.56.14:993][124]LogEditorTransaction: Undo Create Actors
+[2022.04.29-19.56.16:851][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.29-19.56.16:851][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.29-19.56.16:851][192]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Pillar05.Pillar05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_573
+[2022.04.29-19.56.17:335][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.29-19.56.17:335][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Pillar05.Pillar05
+[2022.04.29-19.56.17:337][210]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Pillar05.Pillar05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_574
+[2022.04.29-19.56.35:491][ 72]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.56.46:542][594]Cmd: TRANSACTION UNDO
+[2022.04.29-19.56.46:542][594]LogEditorTransaction: Undo Move Elements
+[2022.04.29-19.57.10:748][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-19.57.10:748][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-19.57.10:749][699]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_576
+[2022.04.29-19.57.11:512][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-19.57.11:512][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-19.57.11:513][733]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_577
+[2022.04.29-19.57.12:667][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-19.57.12:667][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-19.57.12:667][781]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_578
+[2022.04.29-19.57.13:895][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-19.57.13:895][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-19.57.13:896][835]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_579
+[2022.04.29-19.57.15:162][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-19.57.15:162][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-19.57.15:163][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_580
+[2022.04.29-19.57.15:433][900]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-19.57.15:433][900]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-19.57.15:434][900]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_581
+[2022.04.29-19.57.16:819][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-19.57.16:819][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-19.57.16:819][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_582
+[2022.04.29-19.57.17:169][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-19.57.17:169][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.04.29-19.57.17:170][971]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_583
+[2022.04.29-19.57.17:276][975]Cmd: TRANSACTION UNDO
+[2022.04.29-19.57.17:276][975]LogEditorTransaction: Undo Create Actors
+[2022.04.29-19.57.18:326][  6]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-19.57.18:326][  6]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-19.57.18:326][  6]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_584
+[2022.04.29-19.57.19:303][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-19.57.19:303][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-19.57.19:304][ 46]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_585
+[2022.04.29-19.57.20:105][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-19.57.20:105][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-19.57.20:105][ 73]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_586
+[2022.04.29-19.57.20:492][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-19.57.20:492][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-19.57.20:493][ 89]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_587
+[2022.04.29-19.57.22:148][166]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.57.35:030][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-19.57.35:030][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-19.57.35:031][743]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_588
+[2022.04.29-19.57.35:031][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.57.35:031][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.57.35:031][743]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_589
+[2022.04.29-19.57.36:393][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-19.57.36:393][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-19.57.36:394][805]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_590
+[2022.04.29-19.57.36:409][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.57.36:409][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.57.36:409][805]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_591
+[2022.04.29-19.57.39:307][936]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-19.57.54:476][670]Cmd: TRANSACTION UNDO
+[2022.04.29-19.57.54:476][670]LogEditorTransaction: Undo Move Elements
+[2022.04.29-19.57.55:980][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-19.57.55:980][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-19.57.55:980][726]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_592
+[2022.04.29-19.57.57:754][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-19.57.57:754][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-19.57.57:755][802]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_593
+[2022.04.29-19.58.03:565][ 61]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.58.03:566][ 61]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.58.03:566][ 61]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_594
+[2022.04.29-19.58.05:653][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.58.05:653][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.58.05:654][156]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_595
+[2022.04.29-19.58.06:208][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.58.06:208][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-19.58.06:209][181]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_596
+[2022.04.29-19.58.07:528][245]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.07:528][245]LogEditorTransaction: Undo Move Elements
+[2022.04.29-19.58.09:147][306]Cmd: DELETE
+[2022.04.29-19.58.09:147][306]Cmd: ACTOR DELETE
+[2022.04.29-19.58.09:174][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-19.58.09:183][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.29-19.58.09:187][306]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.04.29-19.58.12:076][437]Cmd: DELETE
+[2022.04.29-19.58.12:076][437]Cmd: ACTOR DELETE
+[2022.04.29-19.58.12:084][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.29-19.58.12:094][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.29-19.58.12:096][437]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.04.29-19.58.13:208][493]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.13:208][493]LogEditorTransaction: Undo Delete Elements
+[2022.04.29-19.58.13:450][498]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.13:450][498]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-19.58.13:851][510]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.13:851][510]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-19.58.14:210][526]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.14:210][526]LogEditorTransaction: Undo Delete Elements
+[2022.04.29-19.58.14:419][533]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.14:419][533]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-19.58.14:581][539]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.14:581][539]LogEditorTransaction: Undo Create Actors
+[2022.04.29-19.58.14:779][543]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.14:779][543]LogEditorTransaction: Undo Create Actors
+[2022.04.29-19.58.14:963][547]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.14:963][547]LogEditorTransaction: Undo Move Elements
+[2022.04.29-19.58.18:525][702]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.18:525][702]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-19.58.19:242][730]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.19:242][730]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-19.58.19:720][748]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.19:720][748]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-19.58.20:105][764]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.20:105][764]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-19.58.20:860][795]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.20:860][795]LogEditorTransaction: Undo Move Elements
+[2022.04.29-19.58.21:896][840]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.21:896][840]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-19.58.22:326][858]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.22:326][858]LogEditorTransaction: Undo Move Elements
+[2022.04.29-19.58.22:706][875]Cmd: TRANSACTION UNDO
+[2022.04.29-19.58.22:706][875]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-20.00.54:576][593]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.29-20.00.54:576][593]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.29-20.00.55:561][633]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Sarcofagus01.fbx]
+[2022.04.29-20.00.55:566][633]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Sarcofagus01.fbx
+[2022.04.29-20.00.55:571][633]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.29-20.00.55:601][633]LogFbx: Display: Triangulating static mesh Sarcofagus
+[2022.04.29-20.00.55:620][633]LogStaticMesh: Display: Building static mesh Sarcofagus01_Sarcofagus...
+[2022.04.29-20.00.55:676][633]LogStaticMesh: Built static mesh [0.06s] /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-20.00.55:682][633]LogStaticMesh: Display: Building static mesh Sarcofagus01_Sarcofagus...
+[2022.04.29-20.00.55:749][633]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-20.00.55:764][633]LogEditorFactories: -- imported successfully
+[2022.04.29-20.01.02:272][954]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-20.01.11:157][440]Cmd: TRANSACTION UNDO
+[2022.04.29-20.01.11:157][440]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-20.01.11:399][447]Cmd: TRANSACTION UNDO
+[2022.04.29-20.01.11:399][447]LogEditorTransaction: Undo Rotate Elements
+[2022.04.29-20.01.30:428][460]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-20.01.59:543][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-20.02.08:885][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-20.02.08:885][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-20.02.08:885][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_598
+[2022.04.29-20.02.09:617][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-20.02.09:617][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.04.29-20.02.09:618][566]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_599
+[2022.04.29-20.02.10:509][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-20.02.10:509][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-20.02.10:510][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_600
+[2022.04.29-20.02.11:855][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-20.02.11:855][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-20.02.11:856][673]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_601
+[2022.04.29-20.02.13:235][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-20.02.13:235][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-20.02.13:236][733]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_602
+[2022.04.29-20.02.13:670][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-20.02.13:670][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.04.29-20.02.13:671][758]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_603
+[2022.04.29-20.02.14:445][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-20.02.14:445][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-20.02.14:445][789]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_604
+[2022.04.29-20.02.15:279][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-20.02.15:279][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.04.29-20.02.15:280][834]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_605
+[2022.04.29-20.02.41:813][265]Cmd: TRANSACTION UNDO
+[2022.04.29-20.02.41:813][265]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.29-20.02.44:439][371]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.29-20.02.57:444][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-20.02.57:452][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.29-20.02.57:541][ 35]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.29-20.02.57:542][ 35]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David963C3BD144C9DA0643A0B2B21C43DA14.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.29-20.02.57:547][ 35]LogFileHelpers: No new changes to save!
+[2022.04.29-20.02.57:556][ 35]AssetCheck: New page: Asset Save: David
+[2022.04.29-20.02.57:556][ 35]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.29-20.03.03:183][313]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-20.03.03:183][313]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-20.03.03:183][313]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_608
+[2022.04.29-20.03.05:761][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-20.03.05:761][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.04.29-20.03.05:762][442]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_609
+[2022.04.29-20.03.08:485][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-20.03.08:485][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-20.03.08:486][574]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_610
+[2022.04.29-20.03.09:692][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-20.03.09:692][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.04.29-20.03.09:693][634]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_611
+[2022.04.29-20.03.26:278][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.29-20.03.27:722][383]LogSlate: Window 'Save Content' being destroyed
+[2022.04.29-20.03.27:784][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-20.03.27:791][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.29-20.03.27:877][383]LogSavePackage: Moving output files for package: /Game/David
+[2022.04.29-20.03.27:877][383]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidDCDC405D438C213A753780A97A081338.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.04.29-20.03.27:882][383]LogFileHelpers: No new changes to save!
+[2022.04.29-20.03.27:882][383]LogFileHelpers: Saving map 'David' took 0.098
+[2022.04.29-20.03.27:883][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-20.03.27:890][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.04.29-20.03.27:895][383]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.04.29-20.03.27:896][383]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main60B5FD7C4B2CA68C7C522E93F7893393.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.04.29-20.03.27:903][383]LogFileHelpers: No new changes to save!
+[2022.04.29-20.03.27:903][383]LogFileHelpers: Saving map 'Main' took 0.021
+[2022.04.29-20.03.27:926][383]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus
+[2022.04.29-20.03.27:926][383]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Sarcofagus01_Sarcofagus9312279D4C4050F6E4EE74AC57EAC081.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.uasset'
+[2022.04.29-20.03.27:936][383]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.29-20.03.27:936][383]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.04.29-20.03.27:936][383]LogContentValidation: Display: Validating World /Game/David.David
+[2022.04.29-20.03.27:936][383]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-20.03.32:456][574]LogMetaData: Removing '/Game/ArchitecturalModules/Tomb/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus' ref from Metadata '/Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.PackageMetaData'
+[2022.04.29-20.03.32:460][574]LogMetaData: Removing '/Game/ArchitecturalModules/Tomb/Sarcofagus01_Lid.Sarcofagus01_Lid' ref from Metadata '/Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.PackageMetaData'
+[2022.04.29-20.03.32:497][574]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Tomb/Sarcofagus01_Sarcofagus
+[2022.04.29-20.03.32:497][574]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Sarcofagus01_Sarcofagus3915C066416D3AEACDAC00B825B427DC.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Tomb/Sarcofagus01_Sarcofagus.uasset'
+[2022.04.29-20.03.32:498][574]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus
+[2022.04.29-20.03.32:498][574]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Sarcofagus01_SarcofagusAECFE1654ECF436E1D1EF695AEA14BE0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.uasset'
+[2022.04.29-20.03.32:520][574]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Tomb/Sarcofagus01_Lid
+[2022.04.29-20.03.32:520][574]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Sarcofagus01_LidA8F85222498665BB376FF58BE4CE4733.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Tomb/Sarcofagus01_Lid.uasset'
+[2022.04.29-20.03.32:522][574]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid
+[2022.04.29-20.03.32:522][574]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Sarcofagus01_Lid109DE6F2418BD5D64C77AFA8190BD1D0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Sarcofagus01_Lid.uasset'
+[2022.04.29-20.03.32:540][574]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.29-20.03.32:540][574]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Tomb/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-20.03.32:540][574]LogContentValidation: Display: Validating ObjectRedirector /Game/ArchitecturalModules/Clutter/Sarcofagus01_Lid.Sarcofagus01_Lid
+[2022.04.29-20.03.32:540][574]LogContentValidation: Display: Validating ObjectRedirector /Game/ArchitecturalModules/Clutter/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-20.03.32:540][574]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Tomb/Sarcofagus01_Sarcofagus.Sarcofagus01_Sarcofagus
+[2022.04.29-20.03.38:847][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
