@@ -737,3 +737,186 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.02-18.18.58:634][201]LogFileHelpers: No new changes to save!
 [2022.05.02-18.18.58:644][201]AssetCheck: New page: Asset Save: David
 [2022.05.02-18.18.58:644][201]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.02-18.19.43:542][913]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.19.43:542][913]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.19.43:543][913]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_0
+[2022.05.02-18.19.43:544][913]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_0
+[2022.05.02-18.19.46:064][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.19.46:064][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.19.46:066][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_1
+[2022.05.02-18.19.46:067][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_1
+[2022.05.02-18.19.49:753][269]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.223 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.02-18.19.56:528][610]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.02-18.20.38:167][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.02-18.20.38:167][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.02-18.20.38:168][832]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_0
+[2022.05.02-18.20.38:168][832]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_0
+[2022.05.02-18.20.39:859][945]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.02-18.20.39:859][945]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.02-18.20.39:862][945]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_2
+[2022.05.02-18.20.39:862][945]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_2
+[2022.05.02-18.20.54:519][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.20.54:519][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.20.54:520][720]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_3
+[2022.05.02-18.20.54:521][720]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_3
+[2022.05.02-18.20.56:466][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.20.56:466][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.20.56:468][855]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_5
+[2022.05.02-18.20.56:468][855]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_5
+[2022.05.02-18.21.04:561][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.02-18.21.04:576][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.02-18.21.04:742][280]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.02-18.21.04:743][280]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidDD435EB547D7976066A4CBBD8518A0C9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.02-18.21.04:749][280]LogFileHelpers: No new changes to save!
+[2022.05.02-18.21.04:768][280]AssetCheck: New page: Asset Save: David
+[2022.05.02-18.21.04:768][280]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.02-18.21.14:254][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.21.14:254][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.21.14:255][808]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_8
+[2022.05.02-18.21.14:256][808]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_8
+[2022.05.02-18.21.16:787][961]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.21.16:787][961]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.21.16:789][961]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_10
+[2022.05.02-18.21.16:789][961]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_10
+[2022.05.02-18.21.17:201][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.02-18.21.17:213][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.02-18.21.17:380][983]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.02-18.21.17:381][983]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB0B1169E4AB7CF3D9870EAB723FF019D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.02-18.21.17:387][983]LogFileHelpers: No new changes to save!
+[2022.05.02-18.21.17:416][983]AssetCheck: New page: Asset Save: David
+[2022.05.02-18.21.17:416][983]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.02-18.21.39:630][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.02-18.21.39:638][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.02-18.21.39:805][208]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.02-18.21.39:805][208]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David7C7BB5434C5971AD0C54F2BE9E6B2B46.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.02-18.21.39:811][208]LogFileHelpers: No new changes to save!
+[2022.05.02-18.21.39:829][208]AssetCheck: New page: Asset Save: David
+[2022.05.02-18.21.39:829][208]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.02-18.21.50:484][770]Cmd: DELETE
+[2022.05.02-18.21.50:484][770]Cmd: ACTOR DELETE
+[2022.05.02-18.21.50:499][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.02-18.21.50:507][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.02-18.21.50:508][770]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.05.02-18.21.52:289][874]Cmd: DELETE
+[2022.05.02-18.21.52:289][874]Cmd: ACTOR DELETE
+[2022.05.02-18.21.52:304][874]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.02-18.21.52:312][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.02-18.21.52:313][874]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.05.02-18.21.56:706][131]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.21.56:706][131]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.21.56:707][131]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_12
+[2022.05.02-18.21.56:708][131]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_12
+[2022.05.02-18.21.59:473][337]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.21.59:473][337]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.21.59:475][337]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_14
+[2022.05.02-18.21.59:475][337]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_14
+[2022.05.02-18.21.59:565][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.02-18.22.16:533][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.02-18.22.32:870][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.02-18.22.32:870][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.02-18.22.32:871][196]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_3
+[2022.05.02-18.22.32:871][196]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_3
+[2022.05.02-18.22.33:833][264]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.02-18.22.33:833][264]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.02-18.22.33:835][264]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_4
+[2022.05.02-18.22.33:835][264]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_4
+[2022.05.02-18.22.39:267][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.02-18.22.39:277][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.02-18.22.39:451][553]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.02-18.22.39:451][553]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David354902A24CCFAB1E45C9DBB1B29C959B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.02-18.22.39:457][553]LogFileHelpers: No new changes to save!
+[2022.05.02-18.22.39:476][553]AssetCheck: New page: Asset Save: David
+[2022.05.02-18.22.39:476][553]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.02-18.22.42:396][701]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.02-18.22.42:401][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-18.22.42:402][701]PIE: New page: PIE session: Main (2 May 2022, 22:22:42)
+[2022.05.02-18.22.42:405][701]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.02-18.22.42:405][701]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.02-18.22.42:405][701]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.02-18.22.42:407][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001991s)
+[2022.05.02-18.22.42:407][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002066s)
+[2022.05.02-18.22.42:407][701]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.02-18.22.42:407][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.02-18.22.42:407][701]LogAIModule: Creating AISystem for world Main
+[2022.05.02-18.22.42:407][701]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2022.05.02-18.22.42:415][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.02-18.22.42:415][701]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.02-18.22.42:415][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-18.22.42:416][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-18.22.42:416][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-18.22.42:416][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-18.22.42:416][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-18.22.42:416][701]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.02-18.22.42:416][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-18.22.42:416][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-18.22.42:416][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-18.22.42:416][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-18.22.42:416][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-18.22.42:418][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.02-18.22.42:452][701]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.02-18.22.42:452][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-18.22.42:453][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-18.22.42:453][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-18.22.42:454][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.05.02-18.22.42:454][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.05.02-18.22.42:455][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.02-18.22.42:455][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.05.02-18.22.42:455][701]LogInit: FAudioDevice initialized.
+[2022.05.02-18.22.42:455][701]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2022.05.02-18.22.42:485][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-18.22.42:487][701]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.02-18.22.42:580][701]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.02-20.22.42
+[2022.05.02-18.22.42:581][701]LogWorld: Bringing up level for play took: 0.001577
+[2022.05.02-18.22.42:583][701]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.05.02-18.22.42:610][701]PIE: Server logged in
+[2022.05.02-18.22.42:612][701]PIE: Play in editor total start time 0,211 seconds.
+[2022.05.02-18.22.54:423][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-18.22.54:423][225]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.02-18.22.54:425][225]LogSlate: Window 'LD_ENV Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.02-18.22.54:473][225]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-18.22.54:473][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-18.22.54:488][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-18.22.54:491][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-18.22.54:502][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.02-18.22.54:504][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.02-18.22.54:516][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.02-18.22.54:546][226]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.05.02-18.22.54:555][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.02-18.22.59:735][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.22.59:735][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.22.59:737][516]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_15
+[2022.05.02-18.22.59:737][516]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_15
+[2022.05.02-18.23.01:491][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.23.01:491][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.23.01:493][643]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_16
+[2022.05.02-18.23.01:494][643]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_16
+[2022.05.02-18.23.41:720][901]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.02-18.23.41:720][901]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.02-18.23.41:721][901]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_1
+[2022.05.02-18.23.41:722][901]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_1
+[2022.05.02-18.23.44:448][ 54]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.02-18.23.44:448][ 54]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.02-18.23.44:450][ 54]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_2
+[2022.05.02-18.23.44:451][ 54]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_2
+[2022.05.02-18.24.15:826][643]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.02-18.24.54:930][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.02-18.24.54:930][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.02-18.24.54:931][272]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_423
+[2022.05.02-18.24.56:365][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.02-18.24.56:365][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.02-18.24.56:367][365]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_503
+[2022.05.02-18.25.06:721][939]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.25.06:721][939]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.25.06:722][939]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_17
+[2022.05.02-18.25.06:723][939]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_17
+[2022.05.02-18.25.08:413][ 46]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.25.08:413][ 46]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.02-18.25.08:415][ 46]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_18
+[2022.05.02-18.25.08:416][ 46]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_18
+[2022.05.02-18.25.29:208][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.02-18.25.29:226][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.02-18.25.29:397][193]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.02-18.25.29:397][193]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David19CB9CA842E19CB86E9668A221EFE6A1.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.02-18.25.29:403][193]LogFileHelpers: No new changes to save!
+[2022.05.02-18.25.29:425][193]AssetCheck: New page: Asset Save: David
+[2022.05.02-18.25.29:425][193]LogContentValidation: Display: Validating World /Game/David.David
