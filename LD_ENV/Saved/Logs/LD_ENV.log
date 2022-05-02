@@ -1221,3 +1221,117 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.05.02-12.38.17:113][659]LogFileHelpers: No new changes to save!
 [2022.05.02-12.38.17:122][659]AssetCheck: New page: Asset Save: David
 [2022.05.02-12.38.17:123][659]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.02-12.44.00:582][965]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx]
+[2022.05.02-12.44.00:587][965]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx
+[2022.05.02-12.44.00:592][965]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.02-12.44.00:624][965]LogFbx: Display: Triangulating static mesh Tomb
+[2022.05.02-12.44.00:633][965]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.05.02-12.44.00:695][965]LogStaticMesh: Built static mesh [0.06s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.44.00:703][965]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.05.02-12.44.00:771][965]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.44.00:786][965]LogEditorFactories: -- imported successfully
+[2022.05.02-12.44.06:025][288]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.05.02-12.44.06:025][288]LogStaticMesh: Adjacency [0.00s], tris: 164, UVs 2
+[2022.05.02-12.44.06:025][288]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.02-12.44.06:025][288]LogStaticMesh: Leaves [0.00s]
+[2022.05.02-12.44.06:025][288]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.02-12.44.06:025][288]LogStaticMesh: Num clusters 1. Error 1.7095, 1.7095, 1.7095
+[2022.05.02-12.44.06:025][288]LogStaticMesh: Reduce [0.00s]
+[2022.05.02-12.44.06:025][288]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 164
+[2022.05.02-12.44.06:031][289]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 82
+[2022.05.02-12.44.06:035][289]LogStaticMesh: Fallback 2/4 [0.01s], num tris: 64
+[2022.05.02-12.44.06:041][289]LogStaticMesh: Fallback 3/4 [0.01s], num tris: 64
+[2022.05.02-12.44.06:042][289]LogStaticMesh: ConstrainClusters:
+[2022.05.02-12.44.06:042][289]LogStaticMesh:   Input: 3 Clusters, 290 Triangles and 401 Vertices
+[2022.05.02-12.44.06:042][289]LogStaticMesh:   Output without splits: 3 Clusters, 290 Triangles and 401 Vertices
+[2022.05.02-12.44.06:042][289]LogStaticMesh:   Output with splits: 3 Clusters, 290 Triangles and 401 Vertices
+[2022.05.02-12.44.06:042][289]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.02-12.44.06:042][289]LogStaticMesh: WritePages:
+[2022.05.02-12.44.06:042][289]LogStaticMesh:   Root: GPU size: 6552 bytes. 1 Pages. 6552.000 bytes per page (19.995% utilization).
+[2022.05.02-12.44.06:042][289]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.02-12.44.06:042][289]LogStaticMesh:   Page data disk size: 4976 bytes. Fixup data size: 40 bytes.
+[2022.05.02-12.44.06:042][289]LogStaticMesh:   Total GPU size: 6552 bytes, Total disk size: 5016 bytes.
+[2022.05.02-12.44.06:042][289]LogStaticMesh: Encode [0.00s]
+[2022.05.02-12.44.06:042][289]LogStaticMesh: Imposter [0.00s]
+[2022.05.02-12.44.06:042][289]LogStaticMesh: Nanite build [0.02s]
+
+[2022.05.02-12.44.06:045][289]LogStaticMesh: Built static mesh [0.03s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.44.07:825][388]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.02-12.44.23:875][258]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.02-12.44.39:087][ 61]Cmd: TRANSACTION UNDO
+[2022.05.02-12.44.39:088][ 61]LogEditorTransaction: Undo Move Elements
+[2022.05.02-12.47.30:444][426]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.02-12.47.30:445][426]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.02-12.47.32:721][687]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx]
+[2022.05.02-12.47.32:726][687]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx
+[2022.05.02-12.47.32:731][687]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.02-12.47.32:754][687]LogFbx: Display: Triangulating static mesh Tomb
+[2022.05.02-12.47.32:763][687]LogStaticMesh: Display: Building static mesh Tomb01_Lid...
+[2022.05.02-12.47.32:825][687]LogStaticMesh: Built static mesh [0.06s] /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.05.02-12.47.32:832][687]LogStaticMesh: Display: Building static mesh Tomb01_Lid...
+[2022.05.02-12.47.32:900][687]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.05.02-12.47.32:914][687]LogEditorFactories: -- imported successfully
+[2022.05.02-12.47.36:861][874]Cmd: TRANSACTION UNDO
+[2022.05.02-12.47.36:861][874]LogEditorTransaction: Undo Clicking on Elements
+[2022.05.02-12.47.42:878][313]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.02-12.47.42:878][313]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.02-12.47.50:960][543]LogSlate: Window 'Message' being destroyed
+[2022.05.02-12.47.50:966][543]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/ArchitecturalModules/Tomb/Tomb01_Lid
+[2022.05.02-12.47.50:966][543]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01_Lid.fbx)
+[2022.05.02-12.47.50:967][543]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01_Lid.fbx]
+[2022.05.02-12.47.50:973][543]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01_Lid.fbx
+[2022.05.02-12.47.50:977][543]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.02-12.47.50:980][543]LogFbx: Display: Triangulating static mesh Lid
+[2022.05.02-12.47.50:982][543]LogStaticMesh: Display: Building static mesh Tomb01_Lid...
+[2022.05.02-12.47.50:992][543]LogStaticMesh: Built static mesh [0.01s] /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.05.02-12.47.50:992][543]LogStaticMesh: Display: Building static mesh Tomb01_Lid...
+[2022.05.02-12.47.51:007][543]LogStaticMesh: Built static mesh [0.01s] /Game/ArchitecturalModules/Tomb/Tomb01_Lid.Tomb01_Lid
+[2022.05.02-12.47.51:015][543]LogEditorFactories: -- imported successfully
+[2022.05.02-12.47.58:937][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.02-12.47.58:945][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.02-12.47.59:116][924]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.02-12.47.59:116][924]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David395021BC4583DB7C54A75C8360D31627.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.02-12.47.59:122][924]LogFileHelpers: No new changes to save!
+[2022.05.02-12.47.59:135][924]AssetCheck: New page: Asset Save: David
+[2022.05.02-12.47.59:135][924]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.02-12.48.09:399][237]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.02-12.48.20:641][798]Cmd: TRANSACTION UNDO
+[2022.05.02-12.48.20:641][798]LogEditorTransaction: Undo Move Elements
+[2022.05.02-12.49.14:338][444]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx]
+[2022.05.02-12.49.14:343][444]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx
+[2022.05.02-12.49.14:348][444]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.02-12.49.14:374][444]LogFbx: Display: Triangulating static mesh Tomb
+[2022.05.02-12.49.14:383][444]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.05.02-12.49.14:445][444]LogStaticMesh: Built static mesh [0.06s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.49.14:452][444]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.05.02-12.49.14:520][444]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.49.14:534][444]LogEditorFactories: -- imported successfully
+[2022.05.02-12.49.24:713][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.49.24:713][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.49.24:713][899]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1054
+[2022.05.02-12.49.25:628][959]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.49.25:628][959]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.49.25:629][959]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1055
+[2022.05.02-12.49.31:468][285]Cmd: DELETE
+[2022.05.02-12.49.31:468][285]Cmd: ACTOR DELETE
+[2022.05.02-12.49.31:493][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.02-12.49.31:501][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.02-12.49.31:503][285]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.05.02-12.51.30:098][959]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx]
+[2022.05.02-12.51.30:103][959]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Tomb01.fbx
+[2022.05.02-12.51.30:108][959]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.02-12.51.30:140][959]LogFbx: Display: Triangulating static mesh Tomb
+[2022.05.02-12.51.30:149][959]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.05.02-12.51.30:210][959]LogStaticMesh: Built static mesh [0.06s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.51.30:217][959]LogStaticMesh: Display: Building static mesh Tomb01_Tomb...
+[2022.05.02-12.51.30:283][959]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Tomb/Tomb01_Tomb.Tomb01_Tomb
+[2022.05.02-12.51.30:299][959]LogEditorFactories: -- imported successfully
+[2022.05.02-12.51.51:773][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.02-12.51.51:782][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.02-12.51.51:946][134]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.02-12.51.51:947][134]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB8F8ABF84AAF9D2F951D989C2BA4E849.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.02-12.51.51:952][134]LogFileHelpers: No new changes to save!
+[2022.05.02-12.51.51:964][134]AssetCheck: New page: Asset Save: David
+[2022.05.02-12.51.51:964][134]LogContentValidation: Display: Validating World /Game/David.David
