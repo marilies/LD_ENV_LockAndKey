@@ -1062,3 +1062,1249 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.05-09.12.25:048][777]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidE9BEC1264DD22EEB85A5DEA9ACA419A2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
 [2022.05.05-09.12.25:077][777]AssetCheck: New page: Asset Save: David
 [2022.05.05-09.12.25:077][777]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.13.04:671][831]Cmd: DELETE
+[2022.05.05-09.13.04:671][831]Cmd: ACTOR DELETE
+[2022.05.05-09.13.04:713][831]LogEditorActor: Deleted Actor: BP_Light_Torch_C
+[2022.05.05-09.13.04:723][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.05-09.13.04:725][831]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-09.13.06:406][896]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.06:406][896]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.06:408][896]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_55
+[2022.05.05-09.13.06:409][896]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_55
+[2022.05.05-09.13.08:473][971]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.08:473][971]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.08:476][971]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_56
+[2022.05.05-09.13.08:477][971]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_56
+[2022.05.05-09.13.15:142][219]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.15:142][219]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.15:143][219]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_57
+[2022.05.05-09.13.15:144][219]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_57
+[2022.05.05-09.13.17:830][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.17:830][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.17:833][331]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_58
+[2022.05.05-09.13.17:834][331]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_58
+[2022.05.05-09.13.19:546][394]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.13.31:692][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.13.31:706][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.05.05-09.13.32:128][719]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.13.32:128][719]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David19C0C7464CCA92042C9896AC3EF3DA46.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.13.32:148][719]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.13.32:148][719]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.13.35:196][798]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.35:196][798]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.35:197][798]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_60
+[2022.05.05-09.13.35:198][798]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_60
+[2022.05.05-09.13.37:008][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.37:008][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.13.37:011][855]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_61
+[2022.05.05-09.13.37:012][855]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_61
+[2022.05.05-09.13.49:866][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.13.49:877][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.05-09.13.50:304][209]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.13.50:304][209]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David73B6DB1B4D051BAF398711B169A07BAB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.13.50:322][209]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.13.50:322][209]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.14.19:810][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.14.19:818][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.05-09.14.20:253][317]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.14.20:253][317]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidF1B8C53D428BF07511B9A5A73DD7C069.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.14.20:272][317]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.14.20:272][317]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.14.34:012][856]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.15.26:429][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.15.26:439][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.05.05-09.15.26:872][858]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.15.26:872][858]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David3548837349610C8CA173EFBC98D0AD4A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.15.26:891][858]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.15.26:891][858]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.15.34:192][127]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.05-09.15.34:192][127]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.05-09.15.34:194][127]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_69
+[2022.05.05-09.15.34:195][127]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_69
+[2022.05.05-09.15.34:992][159]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.05-09.15.34:992][159]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.05-09.15.34:995][159]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_70
+[2022.05.05-09.15.34:996][159]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_70
+[2022.05.05-09.15.49:875][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01
+[2022.05.05-09.15.49:875][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01
+[2022.05.05-09.15.49:876][703]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2633
+[2022.05.05-09.15.51:111][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01
+[2022.05.05-09.15.51:111][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01
+[2022.05.05-09.15.51:113][747]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2634
+[2022.05.05-09.16.16:398][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.16.16:408][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.05.05-09.16.16:834][674]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.16.16:835][674]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidC8468CB544788E46DE34A79567B5A3A7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.16.16:859][674]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.16.16:859][674]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.16.49:112][860]Cmd: MODE GRID=0
+[2022.05.05-09.16.52:132][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.16.52:142][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.05.05-09.16.52:567][959]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.16.52:568][959]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David7957C91443F8A7923B2729BBF7D5BFAF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.16.52:586][959]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.16.52:586][959]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.17.13:653][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.17.13:653][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.17.13:654][668]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2637
+[2022.05.05-09.17.15:129][724]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.17.15:129][724]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.17.15:131][724]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2638
+[2022.05.05-09.17.16:040][756]Cmd: TRANSACTION UNDO
+[2022.05.05-09.17.16:040][756]LogEditorTransaction: Undo Create Actors
+[2022.05.05-09.17.17:309][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.17.17:309][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.17.17:310][785]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2639
+[2022.05.05-09.17.17:765][798]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.17.17:766][798]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.17.17:768][798]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2640
+[2022.05.05-09.17.22:035][938]Cmd: MODE GRID=1
+[2022.05.05-09.17.29:844][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.17.42:635][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.17.42:645][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.05-09.17.43:070][683]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.17.43:070][683]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David6F025FB24A8AC6DA0BF344B4BBBB2FB0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.17.43:095][683]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.17.43:095][683]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.17.51:594][988]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.05.05-09.17.51:594][988]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.05.05-09.17.51:595][988]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2642
+[2022.05.05-09.17.54:718][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.05.05-09.17.54:718][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.05.05-09.17.54:720][113]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2643
+[2022.05.05-09.17.56:133][161]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.17.56:133][161]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.17.56:134][161]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2644
+[2022.05.05-09.17.57:623][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.17.57:623][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.17.57:625][225]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2645
+[2022.05.05-09.17.58:613][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.05.05-09.17.58:613][254]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.05.05-09.17.58:614][254]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2646
+[2022.05.05-09.17.59:143][273]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.05.05-09.17.59:143][273]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.05.05-09.17.59:145][273]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2647
+[2022.05.05-09.18.02:073][374]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.02:073][374]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.02:074][374]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2648
+[2022.05.05-09.18.02:610][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.02:610][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.02:612][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2649
+[2022.05.05-09.18.04:613][469]Cmd: MODE ROTGRID=0
+[2022.05.05-09.18.09:196][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.18.09:196][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.18.09:197][624]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2650
+[2022.05.05-09.18.09:808][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.18.09:808][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.18.09:810][647]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2651
+[2022.05.05-09.18.11:768][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.11:768][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.11:769][714]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2652
+[2022.05.05-09.18.12:379][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.12:379][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.12:381][735]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2653
+[2022.05.05-09.18.16:570][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.16:570][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.16:571][881]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2654
+[2022.05.05-09.18.17:139][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.17:139][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.17:141][903]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2655
+[2022.05.05-09.18.21:338][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.05.05-09.18.21:338][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.05.05-09.18.21:339][ 59]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2656
+[2022.05.05-09.18.22:314][101]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.05.05-09.18.22:314][101]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.05.05-09.18.22:316][101]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2657
+[2022.05.05-09.18.30:640][345]Cmd: DELETE
+[2022.05.05-09.18.30:640][345]Cmd: ACTOR DELETE
+[2022.05.05-09.18.30:682][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.18.30:692][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.05-09.18.30:694][345]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-09.18.31:856][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.18.31:856][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.18.31:857][380]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2658
+[2022.05.05-09.18.32:631][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.18.32:631][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.18.32:633][402]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2659
+[2022.05.05-09.18.34:161][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.05.05-09.18.34:161][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.05.05-09.18.34:162][442]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2660
+[2022.05.05-09.18.34:720][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.05.05-09.18.34:720][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.05.05-09.18.34:722][457]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2661
+[2022.05.05-09.18.35:818][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.05.05-09.18.35:818][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.05.05-09.18.35:819][488]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2662
+[2022.05.05-09.18.36:473][507]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.05.05-09.18.36:473][507]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03
+[2022.05.05-09.18.36:475][507]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble03.Rubble03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2663
+[2022.05.05-09.18.38:196][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.38:196][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.38:197][553]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2664
+[2022.05.05-09.18.40:567][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.40:567][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02
+[2022.05.05-09.18.40:570][634]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble02.FloorRubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2665
+[2022.05.05-09.18.44:854][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.18.44:854][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.18.44:855][754]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2666
+[2022.05.05-09.18.45:321][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.18.45:321][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.18.45:323][767]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2667
+[2022.05.05-09.18.56:377][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.05.05-09.18.56:377][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.05.05-09.18.56:378][ 58]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2668
+[2022.05.05-09.18.57:134][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.05.05-09.18.57:134][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01
+[2022.05.05-09.18.57:136][ 82]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Box01.Box01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2669
+[2022.05.05-09.19.07:146][381]Cmd: MODE GRID=0
+[2022.05.05-09.19.18:597][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.19.18:607][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.05-09.19.19:039][737]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.19.19:039][737]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidF14E61764CBBD1932F97DEB36DAA5BF6.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.19.19:059][737]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.19.19:059][737]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.19.31:923][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-09.19.31:923][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-09.19.31:924][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2671
+[2022.05.05-09.19.36:224][355]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-09.19.36:224][355]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-09.19.36:226][355]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2672
+[2022.05.05-09.19.39:639][471]Cmd: DELETE
+[2022.05.05-09.19.39:639][471]Cmd: ACTOR DELETE
+[2022.05.05-09.19.39:679][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.19.39:688][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.05-09.19.39:690][471]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.05.05-09.19.48:175][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.19.48:183][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.05-09.19.48:622][735]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.19.48:622][735]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidA5A55A2D435D9A5E5F579790EFB12280.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.19.48:641][735]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.19.48:641][735]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.20.13:536][456]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-09.20.13:536][456]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-09.20.13:537][456]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2673
+[2022.05.05-09.20.14:729][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-09.20.14:729][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-09.20.14:731][494]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2674
+[2022.05.05-09.20.14:890][497]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.20.37:512][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.20.37:520][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.05-09.20.37:947][238]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.20.37:947][238]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David80B70B4A48EECE0B0B54EA857523278D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.20.37:974][238]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.20.37:974][238]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.21.09:017][239]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-09.21.09:017][239]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-09.21.09:018][239]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2676
+[2022.05.05-09.21.10:200][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-09.21.10:200][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-09.21.10:202][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2677
+[2022.05.05-09.21.10:643][293]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.21.34:135][ 13]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.05-09.21.34:135][ 13]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.05-09.21.34:137][ 13]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_102
+[2022.05.05-09.21.34:137][ 13]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_102
+[2022.05.05-09.21.35:064][ 38]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.05-09.21.35:064][ 38]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.05-09.21.35:066][ 38]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_103
+[2022.05.05-09.21.35:067][ 38]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_103
+[2022.05.05-09.21.56:631][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.21.56:640][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.05-09.21.57:073][670]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.21.57:073][670]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidD96A943D458C83514AEB43BE839D3B65.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.21.57:098][670]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.21.57:098][670]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.22.12:047][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.22.12:055][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.05-09.22.12:490][117]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.22.12:490][117]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David2052A0C7415901A0CDE8E7BB7204A4E2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.22.12:514][117]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.22.12:514][117]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.22.18:061][290]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.22.18:061][290]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.22.18:063][290]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_63
+[2022.05.05-09.22.18:064][290]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_63
+[2022.05.05-09.22.19:121][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.22.19:121][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.22.19:124][327]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_64
+[2022.05.05-09.22.19:125][327]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_64
+[2022.05.05-09.22.20:252][364]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.22.20:252][364]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.22.20:254][364]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_65
+[2022.05.05-09.22.20:254][364]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_65
+[2022.05.05-09.22.20:834][380]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.22.20:834][380]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier_C
+[2022.05.05-09.22.20:837][380]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_66
+[2022.05.05-09.22.20:838][380]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Brazier.BP_Light_Brazier as actor: BP_Light_Brazier_C /Game/David.David:PersistentLevel.BP_Light_Brazier_C_66
+[2022.05.05-09.22.20:948][383]Cmd: TRANSACTION UNDO
+[2022.05.05-09.22.20:948][383]LogEditorTransaction: Undo Create Actors
+[2022.05.05-09.22.46:063][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.22.46:075][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.05-09.22.46:516][185]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.22.46:517][185]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David127A592F40619E487DEB9091928E7A56.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.22.46:536][185]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.22.46:536][185]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.22.53:725][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.05.05-09.22.53:725][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.05.05-09.22.53:726][413]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2681
+[2022.05.05-09.22.55:096][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.05.05-09.22.55:096][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03
+[2022.05.05-09.22.55:098][463]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Brazier03.Brazier03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2682
+[2022.05.05-09.25.40:422][ 35]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.604 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.05-09.28.37:117][572]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar02.fbx)
+[2022.05.05-09.28.37:141][572]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar02.fbx
+[2022.05.05-09.28.37:149][572]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-09.28.38:446][572]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.05-09.28.38:478][572]LogFbx: Display: Triangulating static mesh Pillar02
+[2022.05.05-09.28.38:485][572]LogStaticMesh: Display: Building static mesh pillar02...
+[2022.05.05-09.28.38:526][572]LogStaticMesh: Built static mesh [0.04s] /Game/ArchitecturalModules/Pillars/pillar02.pillar02
+[2022.05.05-09.28.38:526][572]LogStaticMesh: Display: Building static mesh pillar02...
+[2022.05.05-09.28.38:577][572]LogStaticMesh: Built static mesh [0.05s] /Game/ArchitecturalModules/Pillars/pillar02.pillar02
+[2022.05.05-09.28.42:047][680]LogStaticMesh: Display: Building static mesh pillar02...
+[2022.05.05-09.28.42:057][680]LogStaticMesh: Adjacency [0.00s], tris: 172, UVs 2
+[2022.05.05-09.28.42:058][680]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.05-09.28.42:060][680]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-09.28.42:060][680]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-09.28.42:061][680]LogStaticMesh: Num clusters 1. Error 13.4920, 13.4920, 13.4920
+[2022.05.05-09.28.42:061][680]LogStaticMesh: Reduce [0.00s]
+[2022.05.05-09.28.42:062][680]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 172
+[2022.05.05-09.28.42:068][680]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 86
+[2022.05.05-09.28.42:073][680]LogStaticMesh: Fallback 2/4 [0.01s], num tris: 64
+[2022.05.05-09.28.42:080][680]LogStaticMesh: Fallback 3/4 [0.01s], num tris: 64
+[2022.05.05-09.28.42:080][680]LogStaticMesh: ConstrainClusters:
+[2022.05.05-09.28.42:080][680]LogStaticMesh:   Input: 3 Clusters, 298 Triangles and 427 Vertices
+[2022.05.05-09.28.42:080][680]LogStaticMesh:   Output without splits: 3 Clusters, 298 Triangles and 427 Vertices
+[2022.05.05-09.28.42:080][680]LogStaticMesh:   Output with splits: 3 Clusters, 298 Triangles and 427 Vertices
+[2022.05.05-09.28.42:080][680]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-09.28.42:081][680]LogStaticMesh: WritePages:
+[2022.05.05-09.28.42:081][680]LogStaticMesh:   Root: GPU size: 6948 bytes. 1 Pages. 6948.000 bytes per page (21.204% utilization).
+[2022.05.05-09.28.42:081][680]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-09.28.42:081][680]LogStaticMesh:   Page data disk size: 5544 bytes. Fixup data size: 40 bytes.
+[2022.05.05-09.28.42:081][680]LogStaticMesh:   Total GPU size: 6948 bytes, Total disk size: 5584 bytes.
+[2022.05.05-09.28.42:081][680]LogStaticMesh: Encode [0.00s]
+[2022.05.05-09.28.42:081][680]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-09.28.42:081][680]LogStaticMesh: Nanite build [0.02s]
+
+[2022.05.05-09.28.42:084][680]LogStaticMesh: Built static mesh [0.04s] /Game/ArchitecturalModules/Pillars/pillar02.pillar02
+[2022.05.05-09.29.08:244][790]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Pillars/pillar02.pillar02
+[2022.05.05-09.29.08:330][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-09.29.08:362][790]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.05.05-09.29.20:659][101]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:660][101]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:714][101]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:722][101]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.05-09.29.20:737][102]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:751][103]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:763][104]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:811][105]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:836][106]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:859][107]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:885][108]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:908][109]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:934][110]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:957][111]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.20:985][112]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:041][113]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:051][114]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:098][115]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:108][116]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:124][117]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:152][118]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:178][119]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:202][120]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:227][121]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:253][122]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:279][123]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:334][124]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:342][125]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:362][126]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:392][127]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:425][128]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:489][129]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:529][130]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:537][131]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:559][132]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:588][133]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:619][134]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:649][135]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:680][136]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:715][137]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:741][138]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:772][139]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.21:803][140]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.29.22:333][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/pillar02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar02.uasset" SILENT=true
+[2022.05.05-09.29.22:336][149]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/pillar02
+[2022.05.05-09.29.22:336][149]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/pillar02A65AE84C4D4B5FCAB9BC9B8ED3658200.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar02.uasset'
+[2022.05.05-09.29.22:347][149]AssetCheck: New page: Asset Save: pillar02
+[2022.05.05-09.29.22:347][149]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/pillar02.pillar02
+[2022.05.05-09.29.23:609][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/pillar02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar02.uasset" SILENT=true
+[2022.05.05-09.29.23:617][181]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/pillar02
+[2022.05.05-09.29.23:617][181]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/pillar029FE545ED422741898AACC681B7234448.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar02.uasset'
+[2022.05.05-09.29.23:635][181]AssetCheck: New page: Asset Save: pillar02
+[2022.05.05-09.29.23:635][181]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/pillar02.pillar02
+[2022.05.05-09.29.24:906][215]LogSlate: Window 'pillar02' being destroyed
+[2022.05.05-09.29.24:964][215]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-09.29.24:964][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-09.29.27:066][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.05-09.29.30:901][283]LogSlate: Window 'Save Content' being destroyed
+[2022.05.05-09.29.30:971][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.29.30:979][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.05-09.29.31:407][283]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.29.31:407][283]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidFE3C7793417E8AD3DF9A8DB5EC2A15DD.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.29.31:415][283]LogFileHelpers: Saving map 'David' took 0.446
+[2022.05.05-09.29.31:425][283]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.29.31:425][283]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.32.18:581][258]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Pillar03.fbx]
+[2022.05.05-09.32.18:586][258]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Pillar03.fbx
+[2022.05.05-09.32.18:592][258]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-09.32.18:622][258]LogFbx: Display: Triangulating static mesh Pillar03
+[2022.05.05-09.32.18:640][258]LogStaticMesh: Display: Building static mesh Pillar03...
+[2022.05.05-09.32.18:712][258]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.05.05-09.32.18:720][258]LogStaticMesh: Display: Building static mesh Pillar03...
+[2022.05.05-09.32.18:800][258]LogStaticMesh: Built static mesh [0.08s] /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.05.05-09.32.18:818][258]LogEditorFactories: -- imported successfully
+[2022.05.05-09.32.18:906][258]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.18:906][258]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.18:906][258]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.18:906][258]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.18:906][258]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.18:906][258]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.18:906][258]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.18:906][258]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.22:162][347]LogStaticMesh: Display: Building static mesh Pillar03...
+[2022.05.05-09.32.22:162][347]LogStaticMesh: Adjacency [0.00s], tris: 220, UVs 2
+[2022.05.05-09.32.22:162][347]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.05-09.32.22:162][347]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-09.32.22:162][347]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-09.32.22:162][347]LogStaticMesh: Num clusters 1. Error 7.7650, 7.7650, 7.7650
+[2022.05.05-09.32.22:162][347]LogStaticMesh: Reduce [0.01s]
+[2022.05.05-09.32.22:168][348]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 220
+[2022.05.05-09.32.22:170][348]LogStaticMesh: Fallback 1/4 [0.01s], num tris: 110
+[2022.05.05-09.32.22:177][348]LogStaticMesh: Fallback 2/4 [0.01s], num tris: 64
+[2022.05.05-09.32.22:185][348]LogStaticMesh: Fallback 3/4 [0.01s], num tris: 64
+[2022.05.05-09.32.22:186][348]LogStaticMesh: ConstrainClusters:
+[2022.05.05-09.32.22:186][348]LogStaticMesh:   Input: 3 Clusters, 346 Triangles and 477 Vertices
+[2022.05.05-09.32.22:186][348]LogStaticMesh:   Output without splits: 3 Clusters, 346 Triangles and 477 Vertices
+[2022.05.05-09.32.22:186][348]LogStaticMesh:   Output with splits: 3 Clusters, 346 Triangles and 477 Vertices
+[2022.05.05-09.32.22:186][348]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-09.32.22:186][348]LogStaticMesh: WritePages:
+[2022.05.05-09.32.22:186][348]LogStaticMesh:   Root: GPU size: 7768 bytes. 1 Pages. 7768.000 bytes per page (23.706% utilization).
+[2022.05.05-09.32.22:186][348]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-09.32.22:186][348]LogStaticMesh:   Page data disk size: 6648 bytes. Fixup data size: 40 bytes.
+[2022.05.05-09.32.22:186][348]LogStaticMesh:   Total GPU size: 7768 bytes, Total disk size: 6688 bytes.
+[2022.05.05-09.32.22:186][348]LogStaticMesh: Encode [0.00s]
+[2022.05.05-09.32.22:186][348]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-09.32.22:186][348]LogStaticMesh: Nanite build [0.03s]
+
+[2022.05.05-09.32.22:189][348]LogStaticMesh: Built static mesh [0.04s] /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.05.05-09.32.22:321][349]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.22:321][349]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.22:321][349]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.22:321][349]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.22:321][349]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.22:321][349]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.22:321][349]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.22:321][349]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.23:179][368]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.05.05-09.32.23:248][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-09.32.29:355][521]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.29:355][521]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.29:355][521]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.29:355][521]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.29:355][521]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.29:356][521]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.29:356][521]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.29:356][521]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.32.30:234][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/Pillar03" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar03.uasset" SILENT=true
+[2022.05.05-09.32.30:237][540]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/Pillar03
+[2022.05.05-09.32.30:237][540]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar0373C91118436CAF7C92AA3BAD747B1B62.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar03.uasset'
+[2022.05.05-09.32.30:250][540]AssetCheck: New page: Asset Save: Pillar03
+[2022.05.05-09.32.30:250][540]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/Pillar03.Pillar03
+[2022.05.05-09.32.32:172][591]LogSlate: Window 'Pillar03' being destroyed
+[2022.05.05-09.32.32:228][591]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-09.32.32:228][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-09.32.36:294][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.32.36:303][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.05-09.32.36:733][724]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.32.36:733][724]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David1E6351E74636440BB311DA8A1267D322.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.32.36:752][724]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.32.36:752][724]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.34.16:143][679]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.05-09.38.11:313][115]Cmd: TRANSACTION UNDO
+[2022.05.05-09.38.11:313][115]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2022.05.05-09.38.12:081][147]Cmd: TRANSACTION UNDO
+[2022.05.05-09.38.12:081][147]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2022.05.05-09.39.25:300][ 28]Cmd: DELETE
+[2022.05.05-09.39.25:300][ 28]Cmd: ACTOR DELETE
+[2022.05.05-09.39.25:352][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.25:362][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.05-09.39.25:365][ 28]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2022.05.05-09.39.29:313][233]Cmd: DELETE
+[2022.05.05-09.39.29:313][233]Cmd: ACTOR DELETE
+[2022.05.05-09.39.29:354][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.29:363][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-09.39.29:365][233]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.05.05-09.39.29:999][264]Cmd: DELETE
+[2022.05.05-09.39.29:999][264]Cmd: ACTOR DELETE
+[2022.05.05-09.39.30:040][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.30:050][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.05-09.39.30:051][264]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.05.05-09.39.30:686][294]Cmd: DELETE
+[2022.05.05-09.39.30:686][294]Cmd: ACTOR DELETE
+[2022.05.05-09.39.30:725][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.30:735][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.05-09.39.30:736][294]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.05.05-09.39.31:397][326]Cmd: DELETE
+[2022.05.05-09.39.31:397][326]Cmd: ACTOR DELETE
+[2022.05.05-09.39.31:439][326]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.31:449][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.05-09.39.31:450][326]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.05.05-09.39.32:357][371]Cmd: DELETE
+[2022.05.05-09.39.32:357][371]Cmd: ACTOR DELETE
+[2022.05.05-09.39.32:398][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.32:407][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.05-09.39.32:409][371]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.05.05-09.39.32:948][397]Cmd: DELETE
+[2022.05.05-09.39.32:948][397]Cmd: ACTOR DELETE
+[2022.05.05-09.39.32:989][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.33:000][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.05-09.39.33:001][397]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.39.33:544][423]Cmd: DELETE
+[2022.05.05-09.39.33:544][423]Cmd: ACTOR DELETE
+[2022.05.05-09.39.33:582][423]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.33:592][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.05-09.39.33:594][423]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.05.05-09.39.35:130][496]Cmd: DELETE
+[2022.05.05-09.39.35:130][496]Cmd: ACTOR DELETE
+[2022.05.05-09.39.35:171][496]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.35:181][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.05-09.39.35:183][496]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.39.35:960][534]Cmd: DELETE
+[2022.05.05-09.39.35:960][534]Cmd: ACTOR DELETE
+[2022.05.05-09.39.36:002][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.36:012][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.05.05-09.39.36:013][534]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.39.36:632][564]Cmd: DELETE
+[2022.05.05-09.39.36:632][564]Cmd: ACTOR DELETE
+[2022.05.05-09.39.36:674][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.36:684][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.05-09.39.36:685][564]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.05.05-09.39.38:075][630]Cmd: DELETE
+[2022.05.05-09.39.38:075][630]Cmd: ACTOR DELETE
+[2022.05.05-09.39.38:119][630]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.38:128][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.05-09.39.38:130][630]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.05.05-09.39.38:919][669]Cmd: DELETE
+[2022.05.05-09.39.38:919][669]Cmd: ACTOR DELETE
+[2022.05.05-09.39.38:960][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.38:969][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-09.39.38:970][669]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.05.05-09.39.39:847][711]Cmd: DELETE
+[2022.05.05-09.39.39:847][711]Cmd: ACTOR DELETE
+[2022.05.05-09.39.39:892][711]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.39:901][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.05-09.39.39:903][711]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2022.05.05-09.39.40:454][738]Cmd: DELETE
+[2022.05.05-09.39.40:454][738]Cmd: ACTOR DELETE
+[2022.05.05-09.39.40:495][738]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.40:505][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.05-09.39.40:506][738]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.05.05-09.39.40:986][759]Cmd: DELETE
+[2022.05.05-09.39.40:986][759]Cmd: ACTOR DELETE
+[2022.05.05-09.39.41:024][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.41:035][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.05-09.39.41:036][759]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.05.05-09.39.42:552][833]Cmd: DELETE
+[2022.05.05-09.39.42:552][833]Cmd: ACTOR DELETE
+[2022.05.05-09.39.42:593][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.42:604][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.05-09.39.42:605][833]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-09.39.43:260][865]Cmd: DELETE
+[2022.05.05-09.39.43:260][865]Cmd: ACTOR DELETE
+[2022.05.05-09.39.43:301][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.43:312][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.05-09.39.43:313][865]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.39.43:930][895]Cmd: DELETE
+[2022.05.05-09.39.43:930][895]Cmd: ACTOR DELETE
+[2022.05.05-09.39.43:971][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.43:982][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-09.39.43:983][895]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.39.45:232][962]Cmd: TRANSACTION UNDO
+[2022.05.05-09.39.45:232][962]LogEditorTransaction: Undo Delete Elements
+[2022.05.05-09.39.47:966][ 67]Cmd: DELETE
+[2022.05.05-09.39.47:966][ 67]Cmd: ACTOR DELETE
+[2022.05.05-09.39.48:006][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.48:017][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.05-09.39.48:019][ 67]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.39.49:372][134]Cmd: DELETE
+[2022.05.05-09.39.49:372][134]Cmd: ACTOR DELETE
+[2022.05.05-09.39.49:415][134]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.49:425][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.05-09.39.49:426][134]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-09.39.50:211][173]Cmd: DELETE
+[2022.05.05-09.39.50:211][173]Cmd: ACTOR DELETE
+[2022.05.05-09.39.50:252][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.50:263][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.05-09.39.50:264][173]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.39.51:036][212]Cmd: DELETE
+[2022.05.05-09.39.51:036][212]Cmd: ACTOR DELETE
+[2022.05.05-09.39.51:077][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.51:088][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.05-09.39.51:090][212]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.39.52:770][300]Cmd: DELETE
+[2022.05.05-09.39.52:770][300]Cmd: ACTOR DELETE
+[2022.05.05-09.39.52:810][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.52:822][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.05-09.39.52:824][300]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-09.39.54:738][395]Cmd: DELETE
+[2022.05.05-09.39.54:738][395]Cmd: ACTOR DELETE
+[2022.05.05-09.39.54:780][395]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.54:791][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.05-09.39.54:793][395]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.05.05-09.39.55:553][432]Cmd: DELETE
+[2022.05.05-09.39.55:553][432]Cmd: ACTOR DELETE
+[2022.05.05-09.39.55:594][432]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.55:604][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.05-09.39.55:606][432]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.05.05-09.39.56:287][465]Cmd: DELETE
+[2022.05.05-09.39.56:287][465]Cmd: ACTOR DELETE
+[2022.05.05-09.39.56:328][465]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.56:341][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.05-09.39.56:342][465]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.05.05-09.39.56:994][497]Cmd: DELETE
+[2022.05.05-09.39.56:994][497]Cmd: ACTOR DELETE
+[2022.05.05-09.39.57:039][497]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.57:051][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.05-09.39.57:052][497]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.05.05-09.39.57:659][526]Cmd: DELETE
+[2022.05.05-09.39.57:659][526]Cmd: ACTOR DELETE
+[2022.05.05-09.39.57:701][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.57:713][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.05-09.39.57:714][526]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.05.05-09.39.58:617][572]Cmd: DELETE
+[2022.05.05-09.39.58:617][572]Cmd: ACTOR DELETE
+[2022.05.05-09.39.58:658][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.58:670][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.05-09.39.58:671][572]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-09.39.59:259][600]Cmd: DELETE
+[2022.05.05-09.39.59:259][600]Cmd: ACTOR DELETE
+[2022.05.05-09.39.59:300][600]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.39.59:310][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.05.05-09.39.59:312][600]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.40.00:350][652]Cmd: DELETE
+[2022.05.05-09.40.00:350][652]Cmd: ACTOR DELETE
+[2022.05.05-09.40.00:389][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.40.00:402][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.05-09.40.00:403][652]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-09.40.01:030][682]Cmd: DELETE
+[2022.05.05-09.40.01:030][682]Cmd: ACTOR DELETE
+[2022.05.05-09.40.01:071][682]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.40.01:083][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-09.40.01:085][682]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-09.40.01:878][722]Cmd: DELETE
+[2022.05.05-09.40.01:878][722]Cmd: ACTOR DELETE
+[2022.05.05-09.40.01:918][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.40.01:931][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-09.40.01:932][722]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-09.40.02:595][755]Cmd: DELETE
+[2022.05.05-09.40.02:595][755]Cmd: ACTOR DELETE
+[2022.05.05-09.40.02:636][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.40.02:649][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.05-09.40.02:650][755]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.05.05-09.40.04:087][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.40.04:099][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.05-09.40.04:532][821]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.40.04:532][821]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David637C77BF49259858DC789CB5B464FE74.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.40.04:551][821]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.40.04:551][821]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.40.36:613][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.40.36:613][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.40.36:614][869]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2684
+[2022.05.05-09.40.37:231][891]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.40.37:231][891]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01
+[2022.05.05-09.40.37:233][891]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Railing01.Wall_Railing01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2685
+[2022.05.05-09.40.39:992][976]Cmd: TRANSACTION UNDO
+[2022.05.05-09.40.39:992][976]LogEditorTransaction: Undo Rotate Elements
+[2022.05.05-09.40.41:530][ 37]Cmd: MODE ROTGRID=1
+[2022.05.05-09.40.42:444][ 62]Cmd: MODE GRID=1
+[2022.05.05-09.42.51:678][896]LogStaticMesh: Display: Building static mesh Wall_Half...
+[2022.05.05-09.42.51:678][896]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 2
+[2022.05.05-09.42.51:678][896]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Reduce [0.00s]
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 12
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 12
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Fallback 2/4 [0.00s], num tris: 12
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Fallback 3/4 [0.00s], num tris: 12
+[2022.05.05-09.42.51:679][896]LogStaticMesh: ConstrainClusters:
+[2022.05.05-09.42.51:679][896]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2022.05.05-09.42.51:679][896]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2022.05.05-09.42.51:679][896]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-09.42.51:679][896]LogStaticMesh: WritePages:
+[2022.05.05-09.42.51:679][896]LogStaticMesh:   Root: GPU size: 520 bytes. 1 Pages. 520.000 bytes per page (1.587% utilization).
+[2022.05.05-09.42.51:679][896]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-09.42.51:679][896]LogStaticMesh:   Page data disk size: 660 bytes. Fixup data size: 24 bytes.
+[2022.05.05-09.42.51:679][896]LogStaticMesh:   Total GPU size: 520 bytes, Total disk size: 684 bytes.
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Encode [0.00s]
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Nanite build [0.00s]
+
+[2022.05.05-09.42.51:679][896]LogStaticMesh: Built static mesh [0.00s] /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-09.42.51:680][896]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.42.51:680][896]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.42.51:680][896]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.42.51:680][896]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.42.51:680][896]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.42.51:680][896]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.42.51:680][896]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.42.51:680][896]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.05-09.42.54:348][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.05-09.42.59:656][972]LogSlate: Window 'Save Content' being destroyed
+[2022.05.05-09.42.59:721][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.42.59:730][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.05-09.43.00:153][972]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.43.00:153][972]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David0C4875DA4FE774C3C997EFA6005C46E5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.43.00:162][972]LogFileHelpers: Saving map 'David' took 0.443
+[2022.05.05-09.43.00:194][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall_Half" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Half.uasset" SILENT=true
+[2022.05.05-09.43.00:197][972]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall_Half
+[2022.05.05-09.43.00:197][972]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Half9674FA9E42E549D4B3E0E5A813A9F57F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Half.uasset'
+[2022.05.05-09.43.00:212][972]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-09.43.00:212][972]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-09.43.00:212][972]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.43.44:067][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.43.44:076][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.05-09.43.44:508][340]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.43.44:508][340]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidD762EDAE4540FE1FF6C6D290D858ADAD.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.43.44:528][340]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.43.44:528][340]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.43.50:836][547]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.05-09.43.50:843][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-09.43.50:843][547]PIE: New page: PIE session: Main (5 May 2022, 13:43:50)
+[2022.05.05-09.43.50:843][547]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.05-09.43.50:846][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002471s)
+[2022.05.05-09.43.50:846][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.002547s)
+[2022.05.05-09.43.50:846][547]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.05-09.43.50:846][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-09.43.50:846][547]LogAIModule: Creating AISystem for world Main
+[2022.05.05-09.43.50:847][547]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2022.05.05-09.43.50:856][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.05-09.43.50:857][547]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.05-09.43.50:857][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-09.43.50:857][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-09.43.50:857][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-09.43.50:857][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-09.43.50:857][547]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-09.43.50:857][547]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.05-09.43.50:857][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-09.43.50:857][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-09.43.50:857][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-09.43.50:857][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-09.43.50:857][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-09.43.50:859][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.05-09.43.50:893][547]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.05-09.43.50:893][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-09.43.50:893][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-09.43.50:893][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-09.43.50:894][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.05.05-09.43.50:894][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.05.05-09.43.50:895][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.05.05-09.43.50:895][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.05.05-09.43.50:895][547]LogInit: FAudioDevice initialized.
+[2022.05.05-09.43.50:895][547]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2022.05.05-09.43.50:919][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-09.43.50:920][547]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.05-09.43.51:200][547]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.05-11.43.51
+[2022.05.05-09.43.51:202][547]LogWorld: Bringing up level for play took: 0.003255
+[2022.05.05-09.43.51:204][547]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.05.05-09.43.51:211][547]PIE: Server logged in
+[2022.05.05-09.43.51:213][547]PIE: Play in editor total start time 0,37 seconds.
+[2022.05.05-09.45.11:600][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-09.45.11:600][445]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.05-09.45.11:601][445]LogSlate: Window 'LD_ENV Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.05-09.45.11:684][445]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-09.45.11:685][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-09.45.11:748][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-09.45.11:752][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-09.45.11:770][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.05-09.45.11:772][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.05.05-09.45.11:796][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.05.05-09.45.11:914][446]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.05.05-09.45.11:922][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.05-09.45.59:654][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.45.59:662][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.05-09.46.00:092][838]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.46.00:092][838]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidC4137619431D85D30C71719E5B2204A2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.46.00:116][838]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.46.00:116][838]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.46.12:888][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02
+[2022.05.05-09.46.12:888][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02
+[2022.05.05-09.46.12:889][214]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2704
+[2022.05.05-09.46.14:406][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02
+[2022.05.05-09.46.14:406][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02
+[2022.05.05-09.46.14:408][260]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Fringe02.Wall_Fringe02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2705
+[2022.05.05-09.47.04:219][990]Cmd: DELETE
+[2022.05.05-09.47.04:219][990]Cmd: ACTOR DELETE
+[2022.05.05-09.47.04:272][990]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.47.04:282][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.05-09.47.04:285][990]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2022.05.05-09.48.11:902][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall04_Broken.wall04_Broken
+[2022.05.05-09.48.11:902][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall04_Broken.wall04_Broken
+[2022.05.05-09.48.11:903][202]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/wall04_Broken.wall04_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2710
+[2022.05.05-09.48.14:237][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall04_Broken.wall04_Broken
+[2022.05.05-09.48.14:237][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall04_Broken.wall04_Broken
+[2022.05.05-09.48.14:239][287]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/wall04_Broken.wall04_Broken as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2711
+[2022.05.05-09.48.16:411][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken03.Wall02_Broken03
+[2022.05.05-09.48.16:411][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken03.Wall02_Broken03
+[2022.05.05-09.48.16:412][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken03.Wall02_Broken03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2712
+[2022.05.05-09.48.17:297][397]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken03.Wall02_Broken03
+[2022.05.05-09.48.17:297][397]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken03.Wall02_Broken03
+[2022.05.05-09.48.17:299][397]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken03.Wall02_Broken03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2713
+[2022.05.05-09.49.00:321][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.49.00:321][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.49.00:322][918]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2714
+[2022.05.05-09.49.01:624][961]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.49.01:624][961]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01
+[2022.05.05-09.49.01:626][961]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/FloorRubble01.FloorRubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2715
+[2022.05.05-09.49.04:134][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.05.05-09.49.04:134][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.05.05-09.49.04:135][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2716
+[2022.05.05-09.49.06:162][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.05.05-09.49.06:162][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05
+[2022.05.05-09.49.06:164][ 91]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble05.Rubble05 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2717
+[2022.05.05-09.49.12:104][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.05.05-09.49.12:104][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.05.05-09.49.12:106][258]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2718
+[2022.05.05-09.49.12:747][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.05.05-09.49.12:747][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.05.05-09.49.12:749][277]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2719
+[2022.05.05-09.49.14:303][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.05.05-09.49.14:303][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.05.05-09.49.14:304][317]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2720
+[2022.05.05-09.49.14:801][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.05.05-09.49.14:801][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02
+[2022.05.05-09.49.14:803][332]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble02.Rubble02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2721
+[2022.05.05-09.49.15:649][355]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.49.15:649][355]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.49.15:650][355]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2722
+[2022.05.05-09.49.16:190][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.49.16:190][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01
+[2022.05.05-09.49.16:193][371]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble01.Rubble01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2723
+[2022.05.05-09.49.22:498][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01
+[2022.05.05-09.49.22:498][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01
+[2022.05.05-09.49.22:499][579]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2724
+[2022.05.05-09.49.23:793][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01
+[2022.05.05-09.49.23:793][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01
+[2022.05.05-09.49.23:796][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2725
+[2022.05.05-09.49.32:816][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.49.32:826][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.05-09.49.33:271][978]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.49.33:271][978]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB8118738405D57847E9272B9D8C87396.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.49.33:290][978]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.49.33:290][978]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.49.41:464][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01
+[2022.05.05-09.49.41:464][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01
+[2022.05.05-09.49.41:466][276]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2726
+[2022.05.05-09.49.42:205][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01
+[2022.05.05-09.49.42:205][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01
+[2022.05.05-09.49.42:207][310]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Barrel01.Barrel01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2727
+[2022.05.05-09.50.07:344][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.50.07:353][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.05-09.50.07:789][208]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.50.07:790][208]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB583BFED4DA1BCA6F87B3F89576FF327.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.50.07:821][208]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.50.07:821][208]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.50.28:190][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01
+[2022.05.05-09.50.28:190][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01
+[2022.05.05-09.50.28:192][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2729
+[2022.05.05-09.50.31:228][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01
+[2022.05.05-09.50.31:228][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01
+[2022.05.05-09.50.31:230][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Floors/Floor02_Broken01.Floor02_Broken01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2730
+[2022.05.05-09.51.36:881][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.51.36:890][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.05-09.51.37:333][926]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.51.37:333][926]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David6C5F9D634DC57EB493A986A90588FC88.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.51.37:356][926]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.51.37:356][926]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.51.46:099][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.51.46:107][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.05-09.51.46:548][200]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.51.46:548][200]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidE008906441A67178890852BAA50607D8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.51.46:578][200]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.51.46:578][200]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.55.38:338][649]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar04.fbx)
+[2022.05.05-09.55.38:353][649]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar04.fbx
+[2022.05.05-09.55.38:358][649]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-09.55.40:105][649]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.05-09.55.40:130][649]LogFbx: Display: Triangulating static mesh Pillar04
+[2022.05.05-09.55.40:134][649]LogStaticMesh: Display: Building static mesh pillar04...
+[2022.05.05-09.55.40:161][649]LogStaticMesh: Built static mesh [0.03s] /Game/ArchitecturalModules/Pillars/pillar04.pillar04
+[2022.05.05-09.55.40:162][649]LogStaticMesh: Display: Building static mesh pillar04...
+[2022.05.05-09.55.40:202][649]LogStaticMesh: Built static mesh [0.04s] /Game/ArchitecturalModules/Pillars/pillar04.pillar04
+[2022.05.05-09.55.41:529][699]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Pillars/pillar04.pillar04
+[2022.05.05-09.55.41:573][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-09.55.44:311][779]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:311][779]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:356][779]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:377][780]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:392][781]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:404][782]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:448][783]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:471][784]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:496][785]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:520][786]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:545][787]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:569][788]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:594][789]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:621][790]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:644][791]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:676][792]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:704][793]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:729][794]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:757][795]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:813][796]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:849][797]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:857][798]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:871][799]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:896][800]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:923][801]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:980][802]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.44:987][803]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:006][804]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:037][805]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:072][806]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:132][807]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:143][808]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:200][809]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:208][810]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:228][811]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:262][812]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:289][813]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:320][814]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:350][815]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:386][816]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:412][817]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:442][818]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:473][819]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.45:505][820]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.55.57:142][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/pillar04" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar04.uasset" SILENT=true
+[2022.05.05-09.55.57:145][210]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/pillar04
+[2022.05.05-09.55.57:146][210]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/pillar0460F8923F403CC15955A37880AD491822.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar04.uasset'
+[2022.05.05-09.55.57:155][210]AssetCheck: New page: Asset Save: pillar04
+[2022.05.05-09.55.57:155][210]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/pillar04.pillar04
+[2022.05.05-09.55.59:386][281]LogSlate: Window 'pillar04' being destroyed
+[2022.05.05-09.55.59:445][281]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-09.55.59:445][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-09.56.00:727][333]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.05-09.56.00:727][333]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.05-09.56.02:251][384]LogStaticMesh: Display: Building static mesh pillar04...
+[2022.05.05-09.56.02:251][384]LogStaticMesh: Adjacency [0.00s], tris: 130, UVs 2
+[2022.05.05-09.56.02:251][384]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.05-09.56.02:251][384]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-09.56.02:251][384]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-09.56.02:251][384]LogStaticMesh: Num clusters 1. Error 0.7791, 0.7791, 0.7791
+[2022.05.05-09.56.02:251][384]LogStaticMesh: Reduce [0.00s]
+[2022.05.05-09.56.02:251][384]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 130
+[2022.05.05-09.56.02:256][385]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 64
+[2022.05.05-09.56.02:256][385]LogStaticMesh: Fallback 2/4 [0.00s], num tris: 64
+[2022.05.05-09.56.02:261][385]LogStaticMesh: Fallback 3/4 [0.00s], num tris: 64
+[2022.05.05-09.56.02:261][385]LogStaticMesh: ConstrainClusters:
+[2022.05.05-09.56.02:261][385]LogStaticMesh:   Input: 3 Clusters, 256 Triangles and 362 Vertices
+[2022.05.05-09.56.02:261][385]LogStaticMesh:   Output without splits: 3 Clusters, 256 Triangles and 362 Vertices
+[2022.05.05-09.56.02:261][385]LogStaticMesh:   Output with splits: 3 Clusters, 256 Triangles and 362 Vertices
+[2022.05.05-09.56.02:261][385]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-09.56.02:261][385]LogStaticMesh: WritePages:
+[2022.05.05-09.56.02:261][385]LogStaticMesh:   Root: GPU size: 5936 bytes. 1 Pages. 5936.000 bytes per page (18.115% utilization).
+[2022.05.05-09.56.02:261][385]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-09.56.02:261][385]LogStaticMesh:   Page data disk size: 4036 bytes. Fixup data size: 40 bytes.
+[2022.05.05-09.56.02:261][385]LogStaticMesh:   Total GPU size: 5936 bytes, Total disk size: 4076 bytes.
+[2022.05.05-09.56.02:261][385]LogStaticMesh: Encode [0.00s]
+[2022.05.05-09.56.02:262][385]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-09.56.02:262][385]LogStaticMesh: Nanite build [0.01s]
+
+[2022.05.05-09.56.02:264][385]LogStaticMesh: Built static mesh [0.02s] /Game/ArchitecturalModules/Pillars/pillar04.pillar04
+[2022.05.05-09.56.07:340][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.05-09.56.10:091][577]LogSlate: Window 'Save Content' being destroyed
+[2022.05.05-09.56.10:186][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/pillar04" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar04.uasset" SILENT=true
+[2022.05.05-09.56.10:189][577]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/pillar04
+[2022.05.05-09.56.10:190][577]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/pillar04DFDF886E40F24689198999891D1AD84F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar04.uasset'
+[2022.05.05-09.56.10:200][577]AssetCheck: New page: Asset Save: pillar04
+[2022.05.05-09.56.10:200][577]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/pillar04.pillar04
+[2022.05.05-09.57.52:332][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar06.fbx)
+[2022.05.05-09.57.52:348][980]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar06.fbx
+[2022.05.05-09.57.52:353][980]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-09.57.57:598][980]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.05-09.57.57:624][980]LogFbx: Display: Triangulating static mesh Pillar06
+[2022.05.05-09.57.57:629][980]LogStaticMesh: Display: Building static mesh pillar06...
+[2022.05.05-09.57.57:634][980]LogStaticMesh: Adjacency [0.00s], tris: 172, UVs 2
+[2022.05.05-09.57.57:634][980]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.05-09.57.57:634][980]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-09.57.57:634][980]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-09.57.57:637][980]LogStaticMesh: Num clusters 1. Error 6.4493, 6.4493, 6.4493
+[2022.05.05-09.57.57:637][980]LogStaticMesh: Reduce [0.00s]
+[2022.05.05-09.57.57:637][980]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 172
+[2022.05.05-09.57.57:641][980]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 86
+[2022.05.05-09.57.57:646][980]LogStaticMesh: Fallback 2/4 [0.01s], num tris: 64
+[2022.05.05-09.57.57:651][980]LogStaticMesh: Fallback 3/4 [0.01s], num tris: 64
+[2022.05.05-09.57.57:652][980]LogStaticMesh: ConstrainClusters:
+[2022.05.05-09.57.57:652][980]LogStaticMesh:   Input: 3 Clusters, 298 Triangles and 427 Vertices
+[2022.05.05-09.57.57:652][980]LogStaticMesh:   Output without splits: 3 Clusters, 298 Triangles and 427 Vertices
+[2022.05.05-09.57.57:652][980]LogStaticMesh:   Output with splits: 3 Clusters, 298 Triangles and 427 Vertices
+[2022.05.05-09.57.57:652][980]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-09.57.57:652][980]LogStaticMesh: WritePages:
+[2022.05.05-09.57.57:652][980]LogStaticMesh:   Root: GPU size: 6812 bytes. 1 Pages. 6812.000 bytes per page (20.789% utilization).
+[2022.05.05-09.57.57:652][980]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-09.57.57:652][980]LogStaticMesh:   Page data disk size: 5292 bytes. Fixup data size: 40 bytes.
+[2022.05.05-09.57.57:652][980]LogStaticMesh:   Total GPU size: 6812 bytes, Total disk size: 5332 bytes.
+[2022.05.05-09.57.57:652][980]LogStaticMesh: Encode [0.00s]
+[2022.05.05-09.57.57:653][980]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-09.57.57:653][980]LogStaticMesh: Nanite build [0.02s]
+
+[2022.05.05-09.57.57:656][980]LogStaticMesh: Built static mesh [0.03s] /Game/ArchitecturalModules/Pillars/pillar06.pillar06
+[2022.05.05-09.57.59:767][ 40]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Pillars/pillar06.pillar06
+[2022.05.05-09.57.59:826][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-09.58.07:535][237]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:536][237]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:590][237]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:609][238]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:622][239]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:641][240]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:681][241]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:706][242]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:731][243]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:758][244]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:781][245]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:811][246]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:839][247]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:895][248]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:905][249]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:950][250]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:957][251]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.07:978][252]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:008][253]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:039][254]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:094][255]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:101][256]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:117][257]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:141][258]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:166][259]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:193][260]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:249][261]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:257][262]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:276][263]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:310][264]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:371][265]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:379][266]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:400][267]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:431][268]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:461][269]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:495][270]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:567][271]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:576][272]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:595][273]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:626][274]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:657][275]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:691][276]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:718][277]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:749][278]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.08:779][279]LogUObjectHash: Warning: Ambiguous path search, could be RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:RigVMModel.SequenceExecution.D or RigVMPin /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:RigVMModel.SequenceExecution.D
+[2022.05.05-09.58.10:121][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/pillar06" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar06.uasset" SILENT=true
+[2022.05.05-09.58.10:124][307]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/pillar06
+[2022.05.05-09.58.10:124][307]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/pillar06AE2F035E4BEDE6E10108FCB0C2AFEE9C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar06.uasset'
+[2022.05.05-09.58.10:134][307]AssetCheck: New page: Asset Save: pillar06
+[2022.05.05-09.58.10:134][307]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/pillar06.pillar06
+[2022.05.05-09.58.12:093][356]LogSlate: Window 'pillar06' being destroyed
+[2022.05.05-09.58.12:150][356]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-09.58.12:150][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-10.01.26:435][170]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Pillar07.fbx)
+[2022.05.05-10.01.26:443][170]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Pillar07.fbx
+[2022.05.05-10.01.26:448][170]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-10.01.28:534][170]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.05-10.01.28:561][170]LogFbx: Display: Triangulating static mesh Pillar07
+[2022.05.05-10.01.28:566][170]LogStaticMesh: Display: Building static mesh Pillar07...
+[2022.05.05-10.01.28:571][170]LogStaticMesh: Adjacency [0.00s], tris: 204, UVs 2
+[2022.05.05-10.01.28:572][170]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.05-10.01.28:572][170]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-10.01.28:572][170]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-10.01.28:576][170]LogStaticMesh: Num clusters 1. Error 10.5227, 10.5227, 10.5227
+[2022.05.05-10.01.28:576][170]LogStaticMesh: Reduce [0.00s]
+[2022.05.05-10.01.28:576][170]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 204
+[2022.05.05-10.01.28:582][170]LogStaticMesh: Fallback 1/4 [0.01s], num tris: 102
+[2022.05.05-10.01.28:589][170]LogStaticMesh: Fallback 2/4 [0.01s], num tris: 64
+[2022.05.05-10.01.28:596][170]LogStaticMesh: Fallback 3/4 [0.01s], num tris: 64
+[2022.05.05-10.01.28:596][170]LogStaticMesh: ConstrainClusters:
+[2022.05.05-10.01.28:596][170]LogStaticMesh:   Input: 3 Clusters, 330 Triangles and 438 Vertices
+[2022.05.05-10.01.28:596][170]LogStaticMesh:   Output without splits: 3 Clusters, 330 Triangles and 438 Vertices
+[2022.05.05-10.01.28:596][170]LogStaticMesh:   Output with splits: 3 Clusters, 330 Triangles and 438 Vertices
+[2022.05.05-10.01.28:596][170]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-10.01.28:597][170]LogStaticMesh: WritePages:
+[2022.05.05-10.01.28:597][170]LogStaticMesh:   Root: GPU size: 7232 bytes. 1 Pages. 7232.000 bytes per page (22.070% utilization).
+[2022.05.05-10.01.28:597][170]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-10.01.28:597][170]LogStaticMesh:   Page data disk size: 6280 bytes. Fixup data size: 40 bytes.
+[2022.05.05-10.01.28:597][170]LogStaticMesh:   Total GPU size: 7232 bytes, Total disk size: 6320 bytes.
+[2022.05.05-10.01.28:597][170]LogStaticMesh: Encode [0.00s]
+[2022.05.05-10.01.28:597][170]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-10.01.28:597][170]LogStaticMesh: Nanite build [0.03s]
+
+[2022.05.05-10.01.28:600][170]LogStaticMesh: Built static mesh [0.03s] /Game/ArchitecturalModules/Pillars/Pillar07.Pillar07
+[2022.05.05-10.01.30:390][226]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Pillars/Pillar07.Pillar07
+[2022.05.05-10.01.30:440][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-10.01.42:447][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/Pillar07" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar07.uasset" SILENT=true
+[2022.05.05-10.01.42:450][545]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/Pillar07
+[2022.05.05-10.01.42:451][545]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar07D2141C9045D6E1ECA0F4598CCA7ED407.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar07.uasset'
+[2022.05.05-10.01.42:461][545]AssetCheck: New page: Asset Save: Pillar07
+[2022.05.05-10.01.42:461][545]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/Pillar07.Pillar07
+[2022.05.05-10.01.48:537][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/Pillar07" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar07.uasset" SILENT=true
+[2022.05.05-10.01.48:540][705]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/Pillar07
+[2022.05.05-10.01.48:541][705]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar0714A49F7143508DA76183E8AA042214EE.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar07.uasset'
+[2022.05.05-10.01.48:551][705]AssetCheck: New page: Asset Save: Pillar07
+[2022.05.05-10.01.48:551][705]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/Pillar07.Pillar07
+[2022.05.05-10.01.50:093][745]LogSlate: Window 'Pillar07' being destroyed
+[2022.05.05-10.01.50:151][745]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-10.01.50:151][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-10.02.12:377][393]Cmd: TRANSACTION UNDO
+[2022.05.05-10.02.12:377][393]LogEditorTransaction: Undo Edit Static Mesh
+[2022.05.05-10.02.49:672][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.05-10.02.49:681][675]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1
+[2022.05.05-10.02.49:681][675]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto179AC8580414D67EA703DB09CED23294D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto1.umap'
+[2022.05.05-10.02.49:955][675]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Marika_Auto1
+[2022.05.05-10.02.49:955][675]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Marika_Auto1C7DDD8D4426F33914A2C288A74A73D26.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Marika_Auto1.umap'
+[2022.05.05-10.02.49:963][675]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.303
+[2022.05.05-10.02.49:963][675]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.303
+[2022.05.05-10.04.07:702][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.04.07:712][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.05-10.04.08:142][611]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.04.08:143][611]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David5AFA63A440452656A396EB899FC32A08.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.04.08:166][611]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.04.08:166][611]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.05.02:685][586]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.02:685][586]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.02:686][586]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2733
+[2022.05.05-10.05.03:440][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.03:440][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.03:442][622]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2734
+[2022.05.05-10.05.04:355][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.04:355][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.04:357][655]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2735
+[2022.05.05-10.05.05:996][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.05:996][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.05:998][726]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2736
+[2022.05.05-10.05.17:475][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.17:475][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.17:477][154]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2737
+[2022.05.05-10.05.18:602][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.18:602][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.18:604][210]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2738
+[2022.05.05-10.05.19:620][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.19:620][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.19:622][248]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2739
+[2022.05.05-10.05.21:614][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.21:614][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.05-10.05.21:616][341]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2740
+[2022.05.05-10.05.27:226][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.05-10.05.27:226][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.05-10.05.27:227][559]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2741
+[2022.05.05-10.05.28:745][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.05-10.05.28:745][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.05-10.05.28:747][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2742
+[2022.05.05-10.05.31:559][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.05.31:568][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.05-10.05.32:003][738]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.05.32:003][738]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David72CB058D4A2143DDA68A279CA97C358F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.05.32:027][738]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.05.32:027][738]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.06.25:460][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-10.06.25:460][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-10.06.25:461][117]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2743
+[2022.05.05-10.06.26:212][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-10.06.26:212][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-10.06.26:214][138]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2744
+[2022.05.05-10.06.37:852][430]Cmd: TRANSACTION UNDO
+[2022.05.05-10.06.37:852][430]LogEditorTransaction: Undo Move Elements
+[2022.05.05-10.06.40:063][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.06.40:072][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.05-10.06.40:518][498]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.06.40:518][498]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidC109B4C64C1B6F4BE6C35EB0D89A0858.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.06.40:548][498]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.06.40:548][498]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.07.17:003][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.07.17:012][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.05-10.07.17:454][390]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.07.17:455][390]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidA489775B455FD74E4C7C4D8425F5EF78.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.07.17:473][390]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.07.17:473][390]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.07.23:239][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-10.07.23:239][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-10.07.23:240][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2748
+[2022.05.05-10.07.24:607][590]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-10.07.24:607][590]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-10.07.24:609][590]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2749
+[2022.05.05-10.07.25:741][621]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-10.08.06:678][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.08.06:686][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.05-10.08.07:119][786]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.08.07:119][786]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David575867CB4CAF149D0DB849AF2CCE154B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.08.07:145][786]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.08.07:145][786]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.08.33:278][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.08.33:286][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.05-10.08.33:717][539]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.08.33:717][539]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David0741866C4AF9E0B6954AB1A2EFFB18A2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.08.33:741][539]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.08.33:741][539]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.08.50:816][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.08.50:824][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.05-10.08.51:258][125]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.08.51:258][125]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David505C71E542E065FD46632A805140929B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.08.51:282][125]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.08.51:282][125]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.09.12:376][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.09.12:384][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.05-10.09.12:821][669]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.09.12:821][669]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidF0D6F2D944AE321258249F83C3AD4732.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.09.12:851][669]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.09.12:851][669]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.09.31:038][120]Cmd: TRANSACTION UNDO
+[2022.05.05-10.09.31:038][120]LogEditorTransaction: Undo Edit Static Mesh
+[2022.05.05-10.09.40:463][383]Cmd: DELETE
+[2022.05.05-10.09.40:463][383]Cmd: ACTOR DELETE
+[2022.05.05-10.09.40:527][383]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-10.09.40:536][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-10.09.40:538][383]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2022.05.05-10.09.43:089][458]Cmd: TRANSACTION UNDO
+[2022.05.05-10.09.43:089][458]LogEditorTransaction: Undo Delete Elements
+[2022.05.05-10.10.04:287][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-10.10.37:755][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.10.37:763][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.05-10.10.38:209][ 83]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.10.38:209][ 83]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidDBA3C79C476C117C41675C81A918B261.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.10.38:235][ 83]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.10.38:235][ 83]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.11.02:419][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.11.02:427][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.05-10.11.02:869][872]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.11.02:870][872]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David3224C4734CF57CC73AB3AC9EF41C99C9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.11.02:903][872]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.11.02:903][872]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-10.11.10:138][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.05-10.11.10:138][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.05-10.11.10:139][ 73]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2762
+[2022.05.05-10.11.11:314][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.05-10.11.11:314][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.05-10.11.11:316][107]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2763
+[2022.05.05-10.11.11:492][111]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-10.11.24:767][502]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.05-10.11.24:767][502]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.05-10.11.24:769][502]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_104
+[2022.05.05-10.11.24:770][502]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_104
+[2022.05.05-10.11.26:209][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.05-10.11.26:210][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle_C
+[2022.05.05-10.11.26:212][539]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_105
+[2022.05.05-10.11.26:213][539]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Candle.BP_Light_Candle as actor: BP_Light_Candle_C /Game/David.David:PersistentLevel.BP_Light_Candle_C_105
+[2022.05.05-10.11.35:406][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-10.11.35:417][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.05.05-10.11.35:862][780]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-10.11.35:862][780]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidEC77DC2B48E5D86E0713C88F4D3A382B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-10.11.35:883][780]AssetCheck: New page: Asset Save: David
+[2022.05.05-10.11.35:883][780]LogContentValidation: Display: Validating World /Game/David.David
