@@ -939,3 +939,126 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.05-08.50.01:162][885]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidE30EF1D347426F8DA79BA3B1E92C254B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
 [2022.05.05-08.50.01:187][885]AssetCheck: New page: Asset Save: David
 [2022.05.05-08.50.01:187][885]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-08.59.19:543][391]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.05-08.59.19:543][391]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.05-08.59.22:283][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.05-08.59.22:283][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.05-08.59.28:993][725]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.05-08.59.28:993][725]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.05-08.59.35:582][946]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/Pillar_MidSection
+[2022.05.05-08.59.35:582][946]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar_MidSection2EA246EE47AB78A300EA498ED1248BC9.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar_MidSection.uasset'
+[2022.05.05-08.59.35:593][946]AssetCheck: New page: Asset Save: Pillar_MidSection
+[2022.05.05-08.59.35:593][946]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/Pillar_MidSection.Pillar_MidSection
+[2022.05.05-09.00.08:651][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.00.08:659][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.05-09.00.09:076][ 12]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.00.09:077][ 12]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David2A8580B1421FB6E152CFE2AA34E98568.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.00.09:097][ 12]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.00.09:097][ 12]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.01.20:236][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01
+[2022.05.05-09.01.20:236][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01
+[2022.05.05-09.01.20:237][472]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2571
+[2022.05.05-09.01.22:079][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01
+[2022.05.05-09.01.22:079][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01
+[2022.05.05-09.01.22:081][559]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Braziers/Torch01.Torch01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2572
+[2022.05.05-09.01.22:631][581]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.01.44:111][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.01.44:119][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.05-09.01.44:547][450]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.01.44:548][450]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David0A42527C41F78D94A8C176B79B773F6C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.01.44:573][450]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.01.44:573][450]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.02.42:770][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.05-09.02.42:770][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.05-09.02.42:772][925]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_18
+[2022.05.05-09.02.42:773][925]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_18
+[2022.05.05-09.02.44:242][985]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.05-09.02.44:242][985]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch_C
+[2022.05.05-09.02.44:245][985]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_61
+[2022.05.05-09.02.44:246][985]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Light_Torch.BP_Light_Torch as actor: BP_Light_Torch_C /Game/David.David:PersistentLevel.BP_Light_Torch_C_61
+[2022.05.05-09.02.58:694][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.02.58:706][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.05-09.02.59:118][532]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.02.59:119][532]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David3D51076B4A3B6655BC7569A5A159C81E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.02.59:138][532]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.02.59:138][532]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.03.10:965][999]Cmd: TRANSACTION UNDO
+[2022.05.05-09.03.10:965][999]LogEditorTransaction: Undo Move Elements
+[2022.05.05-09.03.21:522][386]Cmd: TRANSACTION UNDO
+[2022.05.05-09.03.21:522][386]LogEditorTransaction: Undo Move Elements
+[2022.05.05-09.03.21:968][397]Cmd: TRANSACTION UNDO
+[2022.05.05-09.03.21:968][397]LogEditorTransaction: Undo Move Elements
+[2022.05.05-09.03.30:910][718]Cmd: TRANSACTION UNDO
+[2022.05.05-09.03.30:910][718]LogEditorTransaction: Undo Move Elements
+[2022.05.05-09.03.32:925][776]Cmd: TRANSACTION UNDO
+[2022.05.05-09.03.32:925][776]LogEditorTransaction: Undo Move Elements
+[2022.05.05-09.04.27:479][977]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.04.34:435][246]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.04.44:964][657]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.05.07:446][512]Cmd: MODE GRID=1
+[2022.05.05-09.05.18:076][942]Cmd: TRANSACTION UNDO
+[2022.05.05-09.05.18:076][942]LogEditorTransaction: Undo Move Elements
+[2022.05.05-09.06.21:771][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.06.21:783][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.05.05-09.06.22:200][489]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.06.22:200][489]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidFE2BA2F14E6A7A170C0C8C84C6F1ED43.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.06.22:223][489]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.06.22:223][489]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.06.33:324][932]Cmd: TRANSACTION UNDO
+[2022.05.05-09.06.33:324][932]LogEditorTransaction: Undo Move Elements
+[2022.05.05-09.07.47:773][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.07.47:784][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.05.05-09.07.48:208][832]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.07.48:208][832]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David75D28C7E45207041B8B166B3885E1360.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.07.48:226][832]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.07.48:226][832]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.08.33:404][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-09.08.36:263][624]Cmd: MODE GRID=0
+[2022.05.05-09.08.48:714][118]Cmd: MODE GRID=1
+[2022.05.05-09.09.16:112][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.09.16:122][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.05.05-09.09.16:542][195]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.09.16:543][195]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David6EAADBD7414276B032CA65B59AE38412.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.09.16:569][195]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.09.16:569][195]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.09.36:627][896]Cmd: DELETE
+[2022.05.05-09.09.36:627][896]Cmd: ACTOR DELETE
+[2022.05.05-09.09.36:665][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-09.09.36:674][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.05-09.09.36:676][896]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2022.05.05-09.09.37:911][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.09.37:918][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.05-09.09.38:341][927]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.09.38:341][927]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB398E7F949CC5CC6CE61DF96498F7A75.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.09.38:364][927]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.09.38:364][927]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.09.45:223][ 66]Cmd: DUPLICATE
+[2022.05.05-09.09.45:223][ 66]Cmd: ACTOR DUPLICATE
+[2022.05.05-09.10.12:889][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.10.12:903][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.05-09.10.13:332][808]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.10.13:333][808]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David5B455AA54AD6416A77B6BE8C300F7B70.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.10.13:354][808]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.10.13:354][808]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.10.32:881][429]Cmd: DUPLICATE
+[2022.05.05-09.10.32:881][429]Cmd: ACTOR DUPLICATE
+[2022.05.05-09.10.50:234][897]Cmd: TRANSACTION UNDO
+[2022.05.05-09.10.50:234][897]LogEditorTransaction: Undo Clicking on Elements
+[2022.05.05-09.10.55:761][ 40]Cmd: DUPLICATE
+[2022.05.05-09.10.55:761][ 40]Cmd: ACTOR DUPLICATE
+[2022.05.05-09.11.31:795][358]Cmd: TRANSACTION UNDO
+[2022.05.05-09.11.31:795][358]LogEditorTransaction: Undo Move Elements
+[2022.05.05-09.11.55:900][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.11.55:918][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.05-09.11.56:347][135]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.11.56:347][135]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David70A1CDBB47C808B881A4A3B9EE74F325.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.11.56:375][135]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.11.56:375][135]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-09.12.17:108][603]Cmd: DUPLICATE
+[2022.05.05-09.12.17:108][603]Cmd: ACTOR DUPLICATE
+[2022.05.05-09.12.24:616][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-09.12.24:628][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.05-09.12.25:048][777]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-09.12.25:048][777]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidE9BEC1264DD22EEB85A5DEA9ACA419A2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-09.12.25:077][777]AssetCheck: New page: Asset Save: David
+[2022.05.05-09.12.25:077][777]LogContentValidation: Display: Validating World /Game/David.David
