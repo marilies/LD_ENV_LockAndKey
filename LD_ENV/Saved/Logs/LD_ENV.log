@@ -803,3 +803,292 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.05-11.59.34:188][  6]LogFileHelpers: Saving map 'David' took 0.451
 [2022.05.05-11.59.34:196][  6]AssetCheck: New page: Asset Save: David
 [2022.05.05-11.59.34:196][  6]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-12.04.57:715][771]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup01.fbx)
+[2022.05.05-12.04.57:730][771]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup01.fbx
+[2022.05.05-12.04.57:735][771]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-12.05.00:421][771]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.05-12.05.00:441][771]LogFbx: Display: Triangulating static mesh Wall_breakup01
+[2022.05.05-12.05.00:446][771]LogStaticMesh: Display: Building static mesh wall_breakup01...
+[2022.05.05-12.05.00:450][771]LogStaticMesh: Adjacency [0.00s], tris: 192, UVs 2
+[2022.05.05-12.05.00:451][771]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.05-12.05.00:451][771]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-12.05.00:451][771]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-12.05.00:454][771]LogStaticMesh: Num clusters 1. Error 2.9452, 2.9452, 2.9452
+[2022.05.05-12.05.00:454][771]LogStaticMesh: Reduce [0.00s]
+[2022.05.05-12.05.00:455][771]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 192
+[2022.05.05-12.05.00:459][771]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 96
+[2022.05.05-12.05.00:463][771]LogStaticMesh: Fallback 2/4 [0.00s], num tris: 64
+[2022.05.05-12.05.00:468][771]LogStaticMesh: Fallback 3/4 [0.00s], num tris: 64
+[2022.05.05-12.05.00:468][771]LogStaticMesh: ConstrainClusters:
+[2022.05.05-12.05.00:468][771]LogStaticMesh:   Input: 3 Clusters, 318 Triangles and 283 Vertices
+[2022.05.05-12.05.00:468][771]LogStaticMesh:   Output without splits: 3 Clusters, 318 Triangles and 283 Vertices
+[2022.05.05-12.05.00:468][771]LogStaticMesh:   Output with splits: 3 Clusters, 318 Triangles and 283 Vertices
+[2022.05.05-12.05.00:468][771]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-12.05.00:469][771]LogStaticMesh: WritePages:
+[2022.05.05-12.05.00:469][771]LogStaticMesh:   Root: GPU size: 4884 bytes. 1 Pages. 4884.000 bytes per page (14.905% utilization).
+[2022.05.05-12.05.00:469][771]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-12.05.00:469][771]LogStaticMesh:   Page data disk size: 3852 bytes. Fixup data size: 40 bytes.
+[2022.05.05-12.05.00:469][771]LogStaticMesh:   Total GPU size: 4884 bytes, Total disk size: 3892 bytes.
+[2022.05.05-12.05.00:469][771]LogStaticMesh: Encode [0.00s]
+[2022.05.05-12.05.00:469][771]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-12.05.00:469][771]LogStaticMesh: Nanite build [0.02s]
+
+[2022.05.05-12.05.00:471][771]LogStaticMesh: Built static mesh [0.03s] /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.05.00:497][771]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup02.fbx)
+[2022.05.05-12.05.00:506][771]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup02.fbx
+[2022.05.05-12.05.00:512][771]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-12.05.00:513][771]LogFbx: Display: Triangulating static mesh Wall_Breakup02
+[2022.05.05-12.05.00:520][771]LogStaticMesh: Display: Building static mesh wall_breakup02...
+[2022.05.05-12.05.00:526][771]LogStaticMesh: Adjacency [0.00s], tris: 272, UVs 2
+[2022.05.05-12.05.00:526][771]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2022.05.05-12.05.00:526][771]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-12.05.00:526][771]LogStaticMesh: Num clusters 4. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-12.05.00:529][771]LogStaticMesh: Num clusters 2. Error 1.0421, 1.0421, 1.0421
+[2022.05.05-12.05.00:533][771]LogStaticMesh: Num clusters 1. Error 4.0915, 4.0915, 4.0915
+[2022.05.05-12.05.00:534][771]LogStaticMesh: Reduce [0.01s]
+[2022.05.05-12.05.00:536][771]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 256
+[2022.05.05-12.05.00:542][771]LogStaticMesh: Fallback 1/4 [0.01s], num tris: 128
+[2022.05.05-12.05.00:550][771]LogStaticMesh: Fallback 2/4 [0.01s], num tris: 64
+[2022.05.05-12.05.00:557][771]LogStaticMesh: Fallback 3/4 [0.01s], num tris: 64
+[2022.05.05-12.05.00:558][771]LogStaticMesh: ConstrainClusters:
+[2022.05.05-12.05.00:558][771]LogStaticMesh:   Input: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.05.00:558][771]LogStaticMesh:   Output without splits: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.05.00:558][771]LogStaticMesh:   Output with splits: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.05.00:558][771]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-12.05.00:558][771]LogStaticMesh: WritePages:
+[2022.05.05-12.05.00:558][771]LogStaticMesh:   Root: GPU size: 9932 bytes. 1 Pages. 9932.000 bytes per page (30.310% utilization).
+[2022.05.05-12.05.00:558][771]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-12.05.00:558][771]LogStaticMesh:   Page data disk size: 6936 bytes. Fixup data size: 56 bytes.
+[2022.05.05-12.05.00:558][771]LogStaticMesh:   Total GPU size: 9932 bytes, Total disk size: 6992 bytes.
+[2022.05.05-12.05.00:558][771]LogStaticMesh: Encode [0.00s]
+[2022.05.05-12.05.00:559][771]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-12.05.00:559][771]LogStaticMesh: Nanite build [0.03s]
+
+[2022.05.05-12.05.00:561][771]LogStaticMesh: Built static mesh [0.04s] /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.05.03:643][859]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.05.03:701][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-12.05.03:731][859]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.05.05-12.05.14:109][119]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.05-12.05.17:349][195]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/wall_breakup01
+[2022.05.05-12.05.17:349][195]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/wall_breakup01E3F598D241C1D2FB33A6DF92A7E065D2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/wall_breakup01.uasset'
+[2022.05.05-12.05.17:360][195]AssetCheck: New page: Asset Save: wall_breakup01
+[2022.05.05-12.05.17:360][195]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.05.18:112][215]LogSlate: Window 'wall_breakup01' being destroyed
+[2022.05.05-12.05.18:185][215]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-12.05.18:185][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-12.05.19:134][243]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.05.19:177][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-12.05.34:751][621]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup02] - forcing default material instead.
+[2022.05.05-12.05.34:752][621]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup02] - forcing default material instead.
+[2022.05.05-12.05.34:752][621]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup02] - forcing default material instead.
+[2022.05.05-12.05.34:752][621]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup02] - forcing default material instead.
+[2022.05.05-12.05.34:809][623]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup02] - forcing default material instead.
+[2022.05.05-12.05.34:810][623]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup02] - forcing default material instead.
+[2022.05.05-12.05.34:853][624]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup02] - forcing default material instead.
+[2022.05.05-12.05.36:020][654]LogEditorTransaction: Undo Staticmesh editor: Add material slot
+[2022.05.05-12.05.39:668][728]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/wall_breakup02
+[2022.05.05-12.05.39:669][728]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/wall_breakup025A9D3C4243E129E80855AEB8B16B2E8F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/wall_breakup02.uasset'
+[2022.05.05-12.05.39:678][728]AssetCheck: New page: Asset Save: wall_breakup02
+[2022.05.05-12.05.39:678][728]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.05.40:512][750]LogSlate: Window 'wall_breakup02' being destroyed
+[2022.05.05-12.05.40:582][750]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-12.05.40:582][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-12.05.43:324][824]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.05.43:386][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-12.05.45:193][862]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup01] - forcing default material instead.
+[2022.05.05-12.05.45:194][862]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup01] - forcing default material instead.
+[2022.05.05-12.05.45:194][862]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup01] - forcing default material instead.
+[2022.05.05-12.05.45:194][862]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup01] - forcing default material instead.
+[2022.05.05-12.05.45:253][864]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup01] - forcing default material instead.
+[2022.05.05-12.05.45:253][864]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup01] - forcing default material instead.
+[2022.05.05-12.05.45:297][865]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [wall_breakup01] - forcing default material instead.
+[2022.05.05-12.05.45:838][879]LogEditorTransaction: Undo Staticmesh editor: Add material slot
+[2022.05.05-12.05.48:425][923]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/wall_breakup01
+[2022.05.05-12.05.48:426][923]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/wall_breakup012354A2E34C65AAE329FCCE89E6566C27.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/wall_breakup01.uasset'
+[2022.05.05-12.05.48:449][923]AssetCheck: New page: Asset Save: wall_breakup01
+[2022.05.05-12.05.48:449][923]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.05.50:184][968]LogSlate: Window 'wall_breakup01' being destroyed
+[2022.05.05-12.05.50:256][968]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-12.05.50:256][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-12.05.57:245][126]Cmd: TRANSACTION UNDO
+[2022.05.05-12.05.57:245][126]LogEditorTransaction: Undo StaticMesh: Material changed
+[2022.05.05-12.06.02:171][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.06.02:171][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.06.02:172][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_8
+[2022.05.05-12.06.03:777][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.06.03:777][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.06.03:779][264]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_39
+[2022.05.05-12.06.07:642][371]Cmd: TRANSACTION UNDO
+[2022.05.05-12.06.07:642][371]LogEditorTransaction: Undo Rotate Elements
+[2022.05.05-12.06.09:000][401]Cmd: TRANSACTION UNDO
+[2022.05.05-12.06.09:001][401]LogEditorTransaction: Undo Create Actors
+[2022.05.05-12.08.03:814][817]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup02.fbx]
+[2022.05.05-12.08.03:819][817]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup02.fbx
+[2022.05.05-12.08.03:824][817]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-12.08.03:854][817]LogFbx: Display: Triangulating static mesh Wall_Breakup02
+[2022.05.05-12.08.03:875][817]LogStaticMesh: Display: Building static mesh wall_breakup02...
+[2022.05.05-12.08.03:902][817]LogStaticMesh: Adjacency [0.00s], tris: 272, UVs 2
+[2022.05.05-12.08.03:903][817]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2022.05.05-12.08.03:903][817]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-12.08.03:903][817]LogStaticMesh: Num clusters 4. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-12.08.03:905][817]LogStaticMesh: Num clusters 2. Error 1.0421, 1.0421, 1.0421
+[2022.05.05-12.08.03:910][817]LogStaticMesh: Num clusters 1. Error 4.0915, 4.0915, 4.0915
+[2022.05.05-12.08.03:910][817]LogStaticMesh: Reduce [0.01s]
+[2022.05.05-12.08.03:912][817]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 256
+[2022.05.05-12.08.03:918][817]LogStaticMesh: Fallback 1/4 [0.01s], num tris: 128
+[2022.05.05-12.08.03:926][817]LogStaticMesh: Fallback 2/4 [0.01s], num tris: 64
+[2022.05.05-12.08.03:933][817]LogStaticMesh: Fallback 3/4 [0.01s], num tris: 64
+[2022.05.05-12.08.03:934][817]LogStaticMesh: ConstrainClusters:
+[2022.05.05-12.08.03:934][817]LogStaticMesh:   Input: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.08.03:934][817]LogStaticMesh:   Output without splits: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.08.03:934][817]LogStaticMesh:   Output with splits: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.08.03:934][817]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-12.08.03:934][817]LogStaticMesh: WritePages:
+[2022.05.05-12.08.03:935][817]LogStaticMesh:   Root: GPU size: 9932 bytes. 1 Pages. 9932.000 bytes per page (30.310% utilization).
+[2022.05.05-12.08.03:935][817]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-12.08.03:935][817]LogStaticMesh:   Page data disk size: 6936 bytes. Fixup data size: 56 bytes.
+[2022.05.05-12.08.03:935][817]LogStaticMesh:   Total GPU size: 9932 bytes, Total disk size: 6992 bytes.
+[2022.05.05-12.08.03:935][817]LogStaticMesh: Encode [0.00s]
+[2022.05.05-12.08.03:935][817]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-12.08.03:935][817]LogStaticMesh: Nanite build [0.03s]
+
+[2022.05.05-12.08.03:938][817]LogStaticMesh: Built static mesh [0.06s] /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.08.03:953][817]LogEditorFactories: -- imported successfully
+[2022.05.05-12.08.05:498][848]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.08.05:498][848]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.08.05:499][848]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_70
+[2022.05.05-12.08.06:283][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.08.06:283][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.08.06:285][865]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_113
+[2022.05.05-12.08.09:765][943]Cmd: TRANSACTION UNDO
+[2022.05.05-12.08.09:765][943]LogEditorTransaction: Undo Rotate Elements
+[2022.05.05-12.08.11:709][987]Cmd: MODE ROTGRID=1
+[2022.05.05-12.08.15:654][ 94]Cmd: TRANSACTION UNDO
+[2022.05.05-12.08.15:655][ 94]LogEditorTransaction: Undo Rotate Elements
+[2022.05.05-12.09.05:759][370]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup02.fbx]
+[2022.05.05-12.09.05:764][370]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup02.fbx
+[2022.05.05-12.09.05:769][370]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-12.09.05:799][370]LogFbx: Display: Triangulating static mesh Wall_Breakup02
+[2022.05.05-12.09.05:815][370]LogStaticMesh: Display: Building static mesh wall_breakup02...
+[2022.05.05-12.09.05:847][370]LogStaticMesh: Adjacency [0.00s], tris: 272, UVs 2
+[2022.05.05-12.09.05:847][370]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2022.05.05-12.09.05:848][370]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-12.09.05:848][370]LogStaticMesh: Num clusters 4. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-12.09.05:850][370]LogStaticMesh: Num clusters 2. Error 1.0421, 1.0421, 1.0421
+[2022.05.05-12.09.05:855][370]LogStaticMesh: Num clusters 1. Error 4.0915, 4.0915, 4.0915
+[2022.05.05-12.09.05:855][370]LogStaticMesh: Reduce [0.01s]
+[2022.05.05-12.09.05:857][370]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 256
+[2022.05.05-12.09.05:863][370]LogStaticMesh: Fallback 1/4 [0.01s], num tris: 128
+[2022.05.05-12.09.05:871][370]LogStaticMesh: Fallback 2/4 [0.01s], num tris: 64
+[2022.05.05-12.09.05:878][370]LogStaticMesh: Fallback 3/4 [0.01s], num tris: 64
+[2022.05.05-12.09.05:878][370]LogStaticMesh: ConstrainClusters:
+[2022.05.05-12.09.05:878][370]LogStaticMesh:   Input: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.09.05:878][370]LogStaticMesh:   Output without splits: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.09.05:878][370]LogStaticMesh:   Output with splits: 7 Clusters, 650 Triangles and 570 Vertices
+[2022.05.05-12.09.05:878][370]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-12.09.05:879][370]LogStaticMesh: WritePages:
+[2022.05.05-12.09.05:879][370]LogStaticMesh:   Root: GPU size: 9932 bytes. 1 Pages. 9932.000 bytes per page (30.310% utilization).
+[2022.05.05-12.09.05:879][370]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-12.09.05:879][370]LogStaticMesh:   Page data disk size: 6936 bytes. Fixup data size: 56 bytes.
+[2022.05.05-12.09.05:879][370]LogStaticMesh:   Total GPU size: 9932 bytes, Total disk size: 6992 bytes.
+[2022.05.05-12.09.05:879][370]LogStaticMesh: Encode [0.00s]
+[2022.05.05-12.09.05:879][370]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-12.09.05:879][370]LogStaticMesh: Nanite build [0.03s]
+
+[2022.05.05-12.09.05:882][370]LogStaticMesh: Built static mesh [0.07s] /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.09.05:897][370]LogEditorFactories: -- imported successfully
+[2022.05.05-12.09.11:882][493]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/wall_breakup02
+[2022.05.05-12.09.11:883][493]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/wall_breakup02ECB5326448131DBBECF916AA163DA1AA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/wall_breakup02.uasset'
+[2022.05.05-12.09.11:894][493]AssetCheck: New page: Asset Save: wall_breakup02
+[2022.05.05-12.09.11:894][493]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.09.13:157][526]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.09.13:224][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.05-12.09.18:471][629]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/wall_breakup01
+[2022.05.05-12.09.18:471][629]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/wall_breakup01958DA4A242C1E755930C418122FE3591.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/wall_breakup01.uasset'
+[2022.05.05-12.09.18:483][629]AssetCheck: New page: Asset Save: wall_breakup01
+[2022.05.05-12.09.18:483][629]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.09.19:418][650]LogSlate: Window 'wall_breakup01' being destroyed
+[2022.05.05-12.09.19:496][650]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-12.09.19:496][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-12.09.51:384][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.05-12.09.51:391][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto2
+[2022.05.05-12.09.51:391][813]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto269D46FD846DBC8E62E976FB0D75BAF66.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto2.umap'
+[2022.05.05-12.09.51:397][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.05-12.09.51:867][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto2
+[2022.05.05-12.09.51:867][813]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto2F2496C554C33010E9BB0E29558313CDB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto2.umap'
+[2022.05.05-12.09.51:878][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.507
+[2022.05.05-12.09.51:878][813]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.507
+[2022.05.05-12.10.13:043][945]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup01.fbx]
+[2022.05.05-12.10.13:048][945]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/wall_breakup01.fbx
+[2022.05.05-12.10.13:055][945]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.05-12.10.13:082][945]LogFbx: Display: Triangulating static mesh Wall_breakup01
+[2022.05.05-12.10.13:092][945]LogStaticMesh: Display: Building static mesh wall_breakup01...
+[2022.05.05-12.10.13:122][945]LogStaticMesh: Adjacency [0.00s], tris: 192, UVs 2
+[2022.05.05-12.10.13:122][945]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.05-12.10.13:122][945]LogStaticMesh: Leaves [0.00s]
+[2022.05.05-12.10.13:122][945]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.05-12.10.13:125][945]LogStaticMesh: Num clusters 1. Error 2.9452, 2.9452, 2.9452
+[2022.05.05-12.10.13:125][945]LogStaticMesh: Reduce [0.00s]
+[2022.05.05-12.10.13:126][945]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 192
+[2022.05.05-12.10.13:130][945]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 96
+[2022.05.05-12.10.13:135][945]LogStaticMesh: Fallback 2/4 [0.00s], num tris: 64
+[2022.05.05-12.10.13:140][945]LogStaticMesh: Fallback 3/4 [0.00s], num tris: 64
+[2022.05.05-12.10.13:140][945]LogStaticMesh: ConstrainClusters:
+[2022.05.05-12.10.13:140][945]LogStaticMesh:   Input: 3 Clusters, 318 Triangles and 283 Vertices
+[2022.05.05-12.10.13:140][945]LogStaticMesh:   Output without splits: 3 Clusters, 318 Triangles and 283 Vertices
+[2022.05.05-12.10.13:140][945]LogStaticMesh:   Output with splits: 3 Clusters, 318 Triangles and 283 Vertices
+[2022.05.05-12.10.13:140][945]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.05-12.10.13:141][945]LogStaticMesh: WritePages:
+[2022.05.05-12.10.13:141][945]LogStaticMesh:   Root: GPU size: 4884 bytes. 1 Pages. 4884.000 bytes per page (14.905% utilization).
+[2022.05.05-12.10.13:141][945]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.05-12.10.13:141][945]LogStaticMesh:   Page data disk size: 3852 bytes. Fixup data size: 40 bytes.
+[2022.05.05-12.10.13:141][945]LogStaticMesh:   Total GPU size: 4884 bytes, Total disk size: 3892 bytes.
+[2022.05.05-12.10.13:141][945]LogStaticMesh: Encode [0.00s]
+[2022.05.05-12.10.13:141][945]LogStaticMesh: Imposter [0.00s]
+[2022.05.05-12.10.13:141][945]LogStaticMesh: Nanite build [0.02s]
+
+[2022.05.05-12.10.13:144][945]LogStaticMesh: Built static mesh [0.05s] /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.13:158][945]LogEditorFactories: -- imported successfully
+[2022.05.05-12.10.22:487][190]Cmd: TRANSACTION UNDO
+[2022.05.05-12.10.22:487][190]LogEditorTransaction: Undo Clicking on Elements
+[2022.05.05-12.10.37:268][597]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-12.10.45:065][763]Cmd: DELETE
+[2022.05.05-12.10.45:065][763]Cmd: ACTOR DELETE
+[2022.05.05-12.10.45:123][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-12.10.45:132][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.05-12.10.45:134][763]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2022.05.05-12.10.52:820][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.52:820][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.52:821][933]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_116
+[2022.05.05-12.10.55:020][984]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.55:020][984]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.55:022][984]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_119
+[2022.05.05-12.10.56:248][ 15]Cmd: TRANSACTION UNDO
+[2022.05.05-12.10.56:248][ 15]LogEditorTransaction: Undo Create Actors
+[2022.05.05-12.10.57:559][ 38]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.57:559][ 38]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.57:561][ 38]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_124
+[2022.05.05-12.10.58:363][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.58:363][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-12.10.58:366][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_125
+[2022.05.05-12.11.05:169][220]Cmd: TRANSACTION UNDO
+[2022.05.05-12.11.05:169][220]LogEditorTransaction: Undo Move Elements
+[2022.05.05-12.11.07:095][266]Cmd: MODE GRID=0
+[2022.05.05-12.11.08:291][295]Cmd: MODE GRID=1
+[2022.05.05-12.11.28:123][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.11.28:123][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.11.28:124][785]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_126
+[2022.05.05-12.11.29:362][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.11.29:362][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-12.11.29:364][816]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_142
+[2022.05.05-12.11.37:035][ 21]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.05-12.11.49:260][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-12.11.49:269][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.05-12.11.49:726][306]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-12.11.49:727][306]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David3560AA1B45428614130200A47D8B6421.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-12.11.49:746][306]AssetCheck: New page: Asset Save: David
+[2022.05.05-12.11.49:746][306]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-12.11.58:711][574]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/wall_breakup01
+[2022.05.05-12.11.58:711][574]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/wall_breakup0149C3B2D94127E131D8A40988E88A9E48.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/wall_breakup01.uasset'
+[2022.05.05-12.11.58:721][574]AssetCheck: New page: Asset Save: wall_breakup01
+[2022.05.05-12.11.58:721][574]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
