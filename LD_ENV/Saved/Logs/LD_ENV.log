@@ -727,3 +727,306 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.05-14.00.46:390][ 68]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,562ms to complete.
 [2022.05.05-14.00.46:390][ 68]LogFileHelpers: Loading map 'Main' took 0.632
 [2022.05.05-14.01.02:774][479]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.05-14.01.42:242][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.01.42:250][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.05-14.01.42:255][277]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004588 seconds
+[2022.05.05-14.01.42:728][277]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.01.42:728][277]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidEC996858406F97DADF55309E0F882EC7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.01.42:748][277]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.01.42:748][277]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.01.59:631][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.01.59:631][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.01.59:632][709]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_8
+[2022.05.05-14.02.01:817][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.02.01:817][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.02.01:820][778]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_39
+[2022.05.05-14.02.15:555][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.02.15:563][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.05-14.02.16:038][123]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.02.16:039][123]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David6ADA13E146E359250F9EF2BCA85B132C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.02.16:064][123]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.02.16:064][123]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.02.24:006][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.02.24:013][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.05-14.02.24:493][347]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.02.24:494][347]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David3C7947264E41A4E01E4FD3A6E8EFE03D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.02.24:519][347]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.02.24:519][347]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.02.35:588][703]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.310 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.05-14.02.39:603][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.02.39:611][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-14.02.40:081][840]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.02.40:081][840]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David212FDD8548FB2918221AB4A35913F147.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.02.40:106][840]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.02.40:106][840]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.02.49:878][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.02.49:878][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.02.49:879][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_70
+[2022.05.05-14.02.50:954][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.02.50:954][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.02.50:957][225]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_113
+[2022.05.05-14.02.51:602][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.02.51:610][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.05-14.02.52:085][246]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.02.52:085][246]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David41582BF645ED40F849BA39A8DD742303.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.02.52:110][246]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.02.52:110][246]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.02.55:533][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-14.02.55:533][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-14.02.55:535][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_116
+[2022.05.05-14.02.56:565][396]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-14.02.56:565][396]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-14.02.56:567][396]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_119
+[2022.05.05-14.03.04:989][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.03.04:997][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.05-14.03.05:477][680]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.03.05:477][680]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidC78496974332B5095A9836BAD8BCA00B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.03.05:504][680]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.03.05:504][680]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.03.10:172][837]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.03.10:172][837]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.03.10:173][837]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_124
+[2022.05.05-14.03.11:067][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.03.11:067][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.03.11:069][866]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_126
+[2022.05.05-14.03.15:927][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.03.15:935][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.05-14.03.16:416][ 41]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.03.16:417][ 41]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David8357DC774653DF7B84F84B8E56E21BB8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.03.16:442][ 41]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.03.16:442][ 41]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.03.19:085][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.03.19:085][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.03.19:086][138]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_144
+[2022.05.05-14.03.19:585][155]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.03.19:585][155]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.03.19:588][155]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_146
+[2022.05.05-14.03.28:645][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.03.28:653][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.05-14.03.29:119][504]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.03.29:119][504]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidFBAD729D44D82B38B881F3BB9E6F2928.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.03.29:144][504]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.03.29:144][504]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.03.35:464][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-14.03.35:464][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-14.03.35:465][735]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_158
+[2022.05.05-14.03.36:634][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-14.03.36:634][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01
+[2022.05.05-14.03.36:637][773]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup01.wall_breakup01 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_160
+[2022.05.05-14.03.41:988][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.03.41:996][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.05-14.03.42:465][960]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.03.42:465][960]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David0CD242964EE439456FF81E9B5D3FA072.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.03.42:483][960]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.03.42:483][960]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.03.46:665][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.03.46:665][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.03.46:667][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_163
+[2022.05.05-14.03.47:381][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.03.47:381][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.03.47:384][ 62]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_166
+[2022.05.05-14.03.51:110][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.03.51:118][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.05-14.03.51:586][143]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.03.51:586][143]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidBF5AB51049B308036BAA4782D8C23EFB.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.03.51:622][143]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.03.51:622][143]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.03.56:370][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.03.56:370][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.03.56:371][238]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_172
+[2022.05.05-14.03.57:684][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.03.57:684][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.05-14.03.57:686][274]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_175
+[2022.05.05-14.03.58:112][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.03.58:122][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.05-14.03.58:624][282]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.03.58:624][282]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidA9179D0A4CBFD52E5B604380FC566FBF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.03.58:643][282]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.03.58:643][282]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.04.01:200][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.04.01:200][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.04.01:201][362]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_179
+[2022.05.05-14.04.02:185][400]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.04.02:185][400]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.05-14.04.02:189][400]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_181
+[2022.05.05-14.04.02:371][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.04.02:379][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.05-14.04.02:851][403]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.04.02:851][403]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David64AA65FE4BAAED7C192AA6A0642D5BE6.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.04.02:870][403]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.04.02:870][403]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.04.15:848][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.04.15:855][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-14.04.16:326][846]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.04.16:327][846]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David7584C2324885B873BFBE3D92FC9A1C61.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.04.16:347][846]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.04.16:347][846]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.04.30:314][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.04.30:314][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.04.30:316][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1171
+[2022.05.05-14.04.31:715][329]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.04.31:715][329]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.04.31:717][329]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1202
+[2022.05.05-14.04.38:961][576]Cmd: TRANSACTION UNDO
+[2022.05.05-14.04.38:961][576]LogEditorTransaction: Undo Rotate Elements
+[2022.05.05-14.04.47:233][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.04.47:241][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.05.05-14.04.47:720][840]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.04.47:721][840]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David52492A3F457847862662B89904770630.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.04.47:744][840]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.04.47:745][840]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.05.07:792][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.05.07:800][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-14.05.08:276][489]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.05.08:276][489]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidC677A36C4067E4685CEF8ABAF6D7421D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.05.08:300][489]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.05.08:300][489]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.05.19:896][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.05.19:904][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.05-14.05.20:381][942]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.05.20:382][942]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidFAEEEB334D797703D59D05B2051E7A61.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.05.20:407][942]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.05.20:407][942]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.05.36:267][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/WallFringe04.WallFringe04
+[2022.05.05-14.05.36:267][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/WallFringe04.WallFringe04
+[2022.05.05-14.05.36:268][392]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/WallFringe04.WallFringe04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1205
+[2022.05.05-14.05.38:371][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/WallFringe04.WallFringe04
+[2022.05.05-14.05.38:371][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/WallFringe04.WallFringe04
+[2022.05.05-14.05.38:373][466]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/WallFringe04.WallFringe04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1207
+[2022.05.05-14.06.36:402][320]Cmd: DELETE
+[2022.05.05-14.06.36:402][320]Cmd: ACTOR DELETE
+[2022.05.05-14.06.36:450][320]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.36:459][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.05-14.06.36:460][320]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.05.05-14.06.36:872][333]Cmd: DELETE
+[2022.05.05-14.06.36:872][333]Cmd: ACTOR DELETE
+[2022.05.05-14.06.36:915][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.36:924][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.05.05-14.06.36:925][333]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-14.06.37:343][346]Cmd: DELETE
+[2022.05.05-14.06.37:343][346]Cmd: ACTOR DELETE
+[2022.05.05-14.06.37:387][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.37:396][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.05-14.06.37:397][346]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-14.06.39:001][404]Cmd: DELETE
+[2022.05.05-14.06.39:001][404]Cmd: ACTOR DELETE
+[2022.05.05-14.06.39:045][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.39:054][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.05-14.06.39:055][404]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-14.06.40:821][464]Cmd: DELETE
+[2022.05.05-14.06.40:821][464]Cmd: ACTOR DELETE
+[2022.05.05-14.06.40:865][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.40:874][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.05-14.06.40:875][464]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-14.06.41:408][482]Cmd: DELETE
+[2022.05.05-14.06.41:408][482]Cmd: ACTOR DELETE
+[2022.05.05-14.06.41:452][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.41:462][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.05.05-14.06.41:464][482]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2022.05.05-14.06.42:404][515]Cmd: DELETE
+[2022.05.05-14.06.42:404][515]Cmd: ACTOR DELETE
+[2022.05.05-14.06.42:447][515]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.42:457][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.05.05-14.06.42:458][515]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.05.05-14.06.43:875][566]Cmd: DELETE
+[2022.05.05-14.06.43:875][566]Cmd: ACTOR DELETE
+[2022.05.05-14.06.43:919][566]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.43:927][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.05-14.06.43:929][566]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-14.06.44:791][596]Cmd: DELETE
+[2022.05.05-14.06.44:791][596]Cmd: ACTOR DELETE
+[2022.05.05-14.06.44:843][596]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.44:852][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.05-14.06.44:853][596]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2022.05.05-14.06.49:331][749]Cmd: DELETE
+[2022.05.05-14.06.49:331][749]Cmd: ACTOR DELETE
+[2022.05.05-14.06.49:382][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.06.49:393][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.05-14.06.49:394][749]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2022.05.05-14.07.02:904][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.07.02:914][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.05-14.07.03:381][191]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.07.03:382][191]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David2C7EFC7641A366DB68B4BBA8933ECE60.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.07.03:401][191]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.07.03:401][191]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.07.09:762][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.07.09:770][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.05-14.07.10:253][383]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.07.10:253][383]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David1E49DF964E76C8E566A22290EA8338CC.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.07.10:274][383]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.07.10:274][383]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.07.11:658][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.07.11:658][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.07.11:659][424]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1375
+[2022.05.05-14.07.13:331][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.07.13:331][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.05-14.07.13:333][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1443
+[2022.05.05-14.07.16:664][588]Cmd: DELETE
+[2022.05.05-14.07.16:664][588]Cmd: ACTOR DELETE
+[2022.05.05-14.07.16:708][588]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.07.16:718][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.05-14.07.16:719][588]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-14.07.59:035][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-14.07.59:036][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-14.07.59:036][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1892
+[2022.05.05-14.08.00:249][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-14.08.00:249][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half
+[2022.05.05-14.08.00:251][926]LogActorFactory: Actor Factory spawned StaticMesh /Game/LDK/Walls/Wall_Half.Wall_Half as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2112
+[2022.05.05-14.08.00:418][930]Cmd: TRANSACTION UNDO
+[2022.05.05-14.08.00:418][930]LogEditorTransaction: Undo Create Actors
+[2022.05.05-14.08.22:548][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.08.22:556][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.05-14.08.23:025][582]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.08.23:026][582]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David12F82A1A40E522F34973F2B7816C5E87.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.08.23:051][582]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.08.23:051][582]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.08.32:630][847]Cmd: DELETE
+[2022.05.05-14.08.32:630][847]Cmd: ACTOR DELETE
+[2022.05.05-14.08.32:675][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.08.32:685][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.05.05-14.08.32:686][847]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2022.05.05-14.09.06:378][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.09.06:386][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.05-14.09.06:868][779]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.09.06:868][779]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David5C9F16584B80EC1BEC68E5A1AE490176.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.09.06:888][779]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.09.06:888][779]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.05-14.09.25:806][280]Cmd: DUPLICATE
+[2022.05.05-14.09.25:806][280]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.30:197][362]Cmd: DUPLICATE
+[2022.05.05-14.09.30:197][362]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.36:583][483]Cmd: DUPLICATE
+[2022.05.05-14.09.36:583][483]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.37:780][505]Cmd: DUPLICATE
+[2022.05.05-14.09.37:780][505]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.39:644][541]Cmd: DUPLICATE
+[2022.05.05-14.09.39:644][541]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.40:349][552]Cmd: DUPLICATE
+[2022.05.05-14.09.40:349][552]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.41:455][572]Cmd: DUPLICATE
+[2022.05.05-14.09.41:455][572]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.42:870][598]Cmd: DUPLICATE
+[2022.05.05-14.09.42:870][598]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.44:061][620]Cmd: DUPLICATE
+[2022.05.05-14.09.44:061][620]Cmd: ACTOR DUPLICATE
+[2022.05.05-14.09.51:775][754]Cmd: DELETE
+[2022.05.05-14.09.51:775][754]Cmd: ACTOR DELETE
+[2022.05.05-14.09.51:818][754]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.09.51:831][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.05-14.09.51:832][754]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.05.05-14.09.52:327][765]Cmd: DELETE
+[2022.05.05-14.09.52:327][765]Cmd: ACTOR DELETE
+[2022.05.05-14.09.52:370][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.09.52:383][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.05.05-14.09.52:384][765]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2022.05.05-14.09.53:120][781]Cmd: DELETE
+[2022.05.05-14.09.53:120][781]Cmd: ACTOR DELETE
+[2022.05.05-14.09.53:162][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-14.09.53:173][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.05-14.09.53:174][781]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.05.05-14.09.54:932][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-14.09.54:943][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.05-14.09.55:417][820]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.05-14.09.55:418][820]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David65991A8E4E5AFC5C0F17EA9F569BB8B7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.05-14.09.55:439][820]AssetCheck: New page: Asset Save: David
+[2022.05.05-14.09.55:439][820]LogContentValidation: Display: Validating World /Game/David.David
