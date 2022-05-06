@@ -875,3 +875,113 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.06-11.54.53:126][664]LogFileHelpers: No new changes to save!
 [2022.05.06-11.54.53:137][664]AssetCheck: New page: Asset Save: David
 [2022.05.06-11.54.53:137][664]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-11.56.26:793][918]Cmd: TRANSACTION UNDO
+[2022.05.06-11.56.26:793][918]LogEditorTransaction: Undo Clicking on Elements
+[2022.05.06-11.57.10:885][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-11.57.10:893][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.06-11.57.11:405][330]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-11.57.11:406][330]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David72C90AFC42B71335ABE06CADB71F9F5F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-11.57.11:415][330]LogFileHelpers: No new changes to save!
+[2022.05.06-11.57.11:435][330]AssetCheck: New page: Asset Save: David
+[2022.05.06-11.57.11:435][330]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.00.21:832][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-12.00.21:832][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-12.00.21:834][532]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_31
+[2022.05.06-12.00.24:026][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-12.00.24:026][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-12.00.24:028][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_32
+[2022.05.06-12.00.38:159][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-12.00.47:388][461]Cmd: MODE ROTGRID=1
+[2022.05.06-12.01.06:043][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-12.01.28:820][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.01.28:828][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.06-12.01.29:357][ 36]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.01.29:357][ 36]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David8B3E15594D0B18F5BEC2639D59EA46E6.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.01.29:366][ 36]LogFileHelpers: No new changes to save!
+[2022.05.06-12.01.29:385][ 36]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.01.29:385][ 36]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.01.47:798][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.01.47:806][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.06-12.01.48:316][796]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.01.48:317][796]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David167202704AF602AE29F65D9860CDB265.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.01.48:325][796]LogFileHelpers: No new changes to save!
+[2022.05.06-12.01.48:344][796]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.01.48:344][796]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.09.17:023][391]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-12.09.17:023][391]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-12.09.18:593][447]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Amphora01.fbx]
+[2022.05.06-12.09.18:599][447]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Amphora01.fbx
+[2022.05.06-12.09.18:609][447]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-12.09.18:655][447]LogFbx: Display: Triangulating static mesh Amfora01
+[2022.05.06-12.09.19:171][447]LogStaticMesh: Display: Building static mesh Amphora01...
+[2022.05.06-12.09.21:904][447]LogStaticMesh: Built static mesh [2.73s] /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.05.06-12.09.21:910][447]LogStaticMesh: Display: Building static mesh Amphora01...
+[2022.05.06-12.09.24:622][447]LogStaticMesh: Built static mesh [2.71s] /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.05.06-12.09.24:727][447]LogEditorFactories: -- imported successfully
+[2022.05.06-12.09.24:747][447]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ArchitecturalModules/Clutter/Amphora01) ...
+[2022.05.06-12.11.13:550][  8]LogStaticMesh: Display: Building static mesh Amphora01...
+[2022.05.06-12.11.13:641][ 11]LogStaticMesh: Adjacency [0.00s], tris: 19456, UVs 2
+[2022.05.06-12.11.13:659][ 12]LogStaticMesh: Clustering [0.02s]. Ratio: 1.013158
+[2022.05.06-12.11.13:659][ 12]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-12.11.13:659][ 12]LogStaticMesh: Num clusters 154. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-12.11.13:741][ 15]LogStaticMesh: Num clusters 79. Error 0.0071, 0.0373, 0.1087
+[2022.05.06-12.11.13:822][ 19]LogStaticMesh: Num clusters 40. Error 0.0241, 0.0886, 0.1268
+[2022.05.06-12.11.13:886][ 22]LogStaticMesh: Num clusters 20. Error 0.1586, 0.1736, 0.1886
+[2022.05.06-12.11.13:946][ 25]LogStaticMesh: Num clusters 10. Error 0.3952, 0.3952, 0.3952
+[2022.05.06-12.11.13:978][ 27]LogStaticMesh: Num clusters 5. Error 0.8172, 0.8172, 0.8172
+[2022.05.06-12.11.13:991][ 28]LogStaticMesh: Num clusters 3. Error 1.2215, 1.2215, 1.2215
+[2022.05.06-12.11.13:999][ 28]LogStaticMesh: Num clusters 2. Error 2.0522, 2.0522, 2.0522
+[2022.05.06-12.11.14:006][ 29]LogStaticMesh: Num clusters 1. Error 4.7303, 4.7303, 4.7303
+[2022.05.06-12.11.14:007][ 29]LogStaticMesh: Reduce [0.35s]
+[2022.05.06-12.11.14:104][ 34]LogStaticMesh: Fallback 0/4 [0.09s], num tris: 662
+[2022.05.06-12.11.14:324][ 45]LogStaticMesh: Fallback 1/4 [0.23s], num tris: 330
+[2022.05.06-12.11.14:547][ 57]LogStaticMesh: Fallback 2/4 [0.22s], num tris: 164
+[2022.05.06-12.11.14:779][ 70]LogStaticMesh: Fallback 3/4 [0.22s], num tris: 82
+[2022.05.06-12.11.14:779][ 70]LogStaticMesh: ConstrainClusters:
+[2022.05.06-12.11.14:779][ 70]LogStaticMesh:   Input: 314 Clusters, 39606 Triangles and 30575 Vertices
+[2022.05.06-12.11.14:779][ 70]LogStaticMesh:   Output without splits: 314 Clusters, 39606 Triangles and 31020 Vertices
+[2022.05.06-12.11.14:779][ 70]LogStaticMesh:   Output with splits: 314 Clusters, 39606 Triangles and 31020 Vertices
+[2022.05.06-12.11.14:779][ 70]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 314, Slow Path Clusters: 0, 1 Material: 314, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-12.11.14:784][ 70]LogStaticMesh: WritePages:
+[2022.05.06-12.11.14:784][ 70]LogStaticMesh:   Root: GPU size: 31644 bytes. 1 Pages. 31644.000 bytes per page (96.570% utilization).
+[2022.05.06-12.11.14:784][ 70]LogStaticMesh:   Streaming: GPU size: 448572 bytes. 4 Pages. 112143.000 bytes per page (85.558% utilization).
+[2022.05.06-12.11.14:784][ 70]LogStaticMesh:   Page data disk size: 396304 bytes. Fixup data size: 1824 bytes.
+[2022.05.06-12.11.14:784][ 70]LogStaticMesh:   Total GPU size: 480216 bytes, Total disk size: 398128 bytes.
+[2022.05.06-12.11.14:784][ 70]LogStaticMesh: Encode [0.01s]
+[2022.05.06-12.11.14:785][ 70]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-12.11.14:785][ 70]LogStaticMesh: Nanite build [1.13s]
+
+[2022.05.06-12.11.14:797][ 71]LogStaticMesh: Built static mesh [1.25s] /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.05.06-12.11.15:791][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Clutter/Amphora01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Amphora01.uasset" SILENT=true
+[2022.05.06-12.11.15:826][119]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Amphora01
+[2022.05.06-12.11.15:826][119]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Amphora0195FD4EEA4B20BCBFDC8907AAB35672D7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Amphora01.uasset'
+[2022.05.06-12.11.15:838][119]AssetCheck: New page: Asset Save: Amphora01
+[2022.05.06-12.11.15:838][119]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/Amphora01.Amphora01
+[2022.05.06-12.11.50:084][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.11.50:094][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.05.06-12.11.50:610][634]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.11.50:610][634]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidCAD85CEA45BE937D7F0110A2B72D2715.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.11.50:618][634]LogFileHelpers: No new changes to save!
+[2022.05.06-12.11.50:636][634]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.11.50:636][634]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.13.03:029][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.13.03:037][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.06-12.13.03:544][398]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.13.03:545][398]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB9F3F51B438AE60F0DA6AAA59F18DBF7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.13.03:553][398]LogFileHelpers: No new changes to save!
+[2022.05.06-12.13.03:570][398]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.13.03:570][398]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.13.15:033][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.06-12.13.15:033][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.06-12.13.15:034][835]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_77
+[2022.05.06-12.13.15:623][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.06-12.13.15:623][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.06-12.13.15:625][856]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_123
+[2022.05.06-12.13.31:390][438]Cmd: MODE ROTGRID=0
+[2022.05.06-12.13.33:658][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.13.33:667][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.06-12.13.34:178][519]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.13.34:179][519]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David2914101041AA209315BD3A8D677D96E0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.13.34:187][519]LogFileHelpers: No new changes to save!
+[2022.05.06-12.13.34:197][519]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.13.34:197][519]LogContentValidation: Display: Validating World /Game/David.David
