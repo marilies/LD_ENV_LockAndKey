@@ -1513,3 +1513,655 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.06-12.54.23:011][636]LogFileHelpers: No new changes to save!
 [2022.05.06-12.54.23:038][636]AssetCheck: New page: Asset Save: David
 [2022.05.06-12.54.23:038][636]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.54.55:758][990]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-12.54.55:764][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-12.54.55:764][990]PIE: New page: PIE session: Main (6 May 2022, 16:54:55)
+[2022.05.06-12.54.55:764][990]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-12.54.55:769][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004420s)
+[2022.05.06-12.54.55:769][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.004519s)
+[2022.05.06-12.54.55:769][990]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-12.54.55:769][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-12.54.55:770][990]LogAIModule: Creating AISystem for world Main
+[2022.05.06-12.54.55:770][990]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.05.06-12.54.55:796][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.06-12.54.55:796][990]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.06-12.54.55:796][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-12.54.55:796][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-12.54.55:796][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-12.54.55:796][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-12.54.55:796][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-12.54.55:796][990]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-12.54.55:796][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-12.54.55:796][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-12.54.55:797][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-12.54.55:797][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-12.54.55:797][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-12.54.55:798][990]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-12.54.55:833][990]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-12.54.55:834][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-12.54.55:834][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-12.54.55:834][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-12.54.55:835][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.05.06-12.54.55:835][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.05.06-12.54.55:836][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.05.06-12.54.55:836][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.05.06-12.54.55:836][990]LogInit: FAudioDevice initialized.
+[2022.05.06-12.54.55:836][990]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2022.05.06-12.54.55:846][990]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-12.54.56:203][990]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-14.54.56
+[2022.05.06-12.54.56:211][990]LogWorld: Bringing up level for play took: 0.009420
+[2022.05.06-12.54.56:212][990]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.05.06-12.54.56:219][990]PIE: Server logged in
+[2022.05.06-12.54.56:219][990]PIE: Play in editor total start time 0,455 seconds.
+[2022.05.06-12.54.56:262][990]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-12.54.56:289][991]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063348 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2022.05.06-12.55.14:970][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-12.55.14:970][605]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-12.55.14:984][605]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-12.55.14:985][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-12.55.15:031][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-12.55.15:035][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-12.55.15:054][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-12.55.15:054][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.06-12.55.15:055][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.06-12.55.15:082][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.06-12.55.15:122][606]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.05.06-12.55.15:132][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.06-12.55.32:772][164]Cmd: DELETE
+[2022.05.06-12.55.32:772][164]Cmd: ACTOR DELETE
+[2022.05.06-12.55.32:821][164]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-12.55.32:830][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.06-12.55.32:832][164]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.05.06-12.55.33:902][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.55.33:911][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.06-12.55.34:439][197]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.55.34:439][197]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidDEDBFF7247E48129AC7ED684C8B99655.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.55.34:448][197]LogFileHelpers: No new changes to save!
+[2022.05.06-12.55.34:468][197]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.55.34:468][197]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.55.40:944][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.55.40:953][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.06-12.55.41:451][411]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.55.41:452][411]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David6EAF1F6C4B2CA8F7456F95A23111F640.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.55.41:461][411]LogFileHelpers: No new changes to save!
+[2022.05.06-12.55.41:480][411]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.55.41:480][411]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.05.49:016][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.06-13.05.49:037][999]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4
+[2022.05.06-13.05.49:037][999]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto4C8E00BE0423FB528372D25BD7779A127.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto4.umap'
+[2022.05.06-13.05.49:363][999]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Marika_Auto4
+[2022.05.06-13.05.49:364][999]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Marika_Auto420B8FF764C489EB54478B2AAEA254C1D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Marika_Auto4.umap'
+[2022.05.06-13.05.49:372][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.06-13.05.49:873][999]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto4
+[2022.05.06-13.05.49:873][999]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto467C0C800471BFF863629328F24BBC225.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto4.umap'
+[2022.05.06-13.05.49:884][999]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.880
+[2022.05.06-13.05.49:884][999]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.880
+[2022.05.06-13.09.06:165][554]Cmd: TRANSACTION UNDO
+[2022.05.06-13.09.06:165][554]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2022.05.06-13.09.07:932][605]Cmd: TRANSACTION UNDO
+[2022.05.06-13.09.07:932][605]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2022.05.06-13.10.56:020][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.10.56:036][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.06-13.10.56:541][482]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.10.56:541][482]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidD84E17744D765DDE101991AD946E4F23.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.10.56:550][482]LogFileHelpers: No new changes to save!
+[2022.05.06-13.10.56:563][482]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.10.56:563][482]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.11.53:980][375]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.06:344][935]Cmd: DELETE
+[2022.05.06-13.12.06:344][935]Cmd: ACTOR DELETE
+[2022.05.06-13.12.06:370][935]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0 is already used by Landscape /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:370][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeComponent_0 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:370][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeComponent_1 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:370][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeComponent_2 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:370][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeComponent_3 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:371][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeComponent_4 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:371][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeComponent_5 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:371][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_4 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:371][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_5 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:371][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_6 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:371][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_7 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:371][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_8 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:371][935]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto4.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-13.12.06:411][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-13.12.06:421][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.06-13.12.06:424][935]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2022.05.06-13.12.09:532][ 77]Cmd: ACTOR HIDE SELECTED
+[2022.05.06-13.12.10:179][107]Cmd: ACTOR HIDE SELECTED
+[2022.05.06-13.12.15:657][366]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.21:384][635]Cmd: DELETE
+[2022.05.06-13.12.21:384][635]Cmd: ACTOR DELETE
+[2022.05.06-13.12.21:433][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-13.12.21:442][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.06-13.12.21:444][635]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.05.06-13.12.22:855][710]Cmd: TRANSACTION UNDO
+[2022.05.06-13.12.22:856][710]LogEditorTransaction: Undo Delete Elements
+[2022.05.06-13.12.26:871][868]Cmd: DELETE
+[2022.05.06-13.12.26:871][868]Cmd: ACTOR DELETE
+[2022.05.06-13.12.26:920][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-13.12.26:929][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.06-13.12.26:932][868]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.05.06-13.12.29:815][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.31:370][ 89]Cmd: DELETE
+[2022.05.06-13.12.31:370][ 89]Cmd: ACTOR DELETE
+[2022.05.06-13.12.31:420][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-13.12.31:429][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.06-13.12.31:431][ 89]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.05.06-13.12.32:976][163]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.34:299][225]Cmd: DELETE
+[2022.05.06-13.12.34:299][225]Cmd: ACTOR DELETE
+[2022.05.06-13.12.34:348][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-13.12.34:357][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.06-13.12.34:359][225]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.05.06-13.12.36:224][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.37:398][372]Cmd: DELETE
+[2022.05.06-13.12.37:398][372]Cmd: ACTOR DELETE
+[2022.05.06-13.12.37:448][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-13.12.37:458][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.06-13.12.37:459][372]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.05.06-13.12.38:634][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.39:637][474]Cmd: DELETE
+[2022.05.06-13.12.39:637][474]Cmd: ACTOR DELETE
+[2022.05.06-13.12.39:685][474]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-13.12.39:695][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.06-13.12.39:696][474]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2022.05.06-13.12.43:231][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.45:454][724]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.48:206][825]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.12.49:396][864]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-13.13.06:266][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.13.06:275][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.06-13.13.06:790][526]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.13.06:790][526]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David53F3E94E48BE72BAA283568A04B2C574.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.13.06:798][526]LogFileHelpers: No new changes to save!
+[2022.05.06-13.13.06:814][526]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.13.06:814][526]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.13.18:038][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.13.18:046][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.06-13.13.18:567][957]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.13.18:567][957]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidD8E5371740BEB9C11532C3BF95541C0B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.13.18:576][957]LogFileHelpers: No new changes to save!
+[2022.05.06-13.13.18:586][957]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.13.18:586][957]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.13.47:760][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-13.13.47:760][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-13.13.47:762][951]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2778
+[2022.05.06-13.13.49:455][  9]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-13.13.49:455][  9]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-13.13.49:458][  9]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2779
+[2022.05.06-13.13.50:114][ 32]Cmd: TRANSACTION UNDO
+[2022.05.06-13.13.50:114][ 32]LogEditorTransaction: Undo Create Actors
+[2022.05.06-13.13.50:692][ 40]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03
+[2022.05.06-13.13.50:692][ 40]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03
+[2022.05.06-13.13.50:693][ 40]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2780
+[2022.05.06-13.13.52:821][ 99]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03
+[2022.05.06-13.13.52:821][ 99]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03
+[2022.05.06-13.13.52:823][ 99]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2781
+[2022.05.06-13.13.54:041][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03
+[2022.05.06-13.13.54:041][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03
+[2022.05.06-13.13.54:042][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2791
+[2022.05.06-13.13.56:498][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03
+[2022.05.06-13.13.56:499][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03
+[2022.05.06-13.13.56:501][216]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/wall_Fringe_Corner03.wall_Fringe_Corner03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2792
+[2022.05.06-13.13.56:753][224]Cmd: TRANSACTION UNDO
+[2022.05.06-13.13.56:753][224]LogEditorTransaction: Undo Create Actors
+[2022.05.06-13.14.32:147][334]Cmd: TRANSACTION UNDO
+[2022.05.06-13.14.32:147][334]LogEditorTransaction: Undo Move Elements
+[2022.05.06-13.14.37:704][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.14.37:714][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.06-13.14.38:224][481]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.14.38:224][481]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidEABEF5C74714D4C550381BA4873C99FA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.14.38:233][481]LogFileHelpers: No new changes to save!
+[2022.05.06-13.14.38:249][481]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.14.38:249][481]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.14.43:750][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.14.43:758][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.06-13.14.44:267][655]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.14.44:268][655]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David37BBF0D04CD49DBAC23856BDD2F4CB62.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.14.44:276][655]LogFileHelpers: No new changes to save!
+[2022.05.06-13.14.44:291][655]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.14.44:291][655]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.20.12:064][864]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-13.20.12:070][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-13.20.12:071][864]PIE: New page: PIE session: Main (6 May 2022, 17:20:12)
+[2022.05.06-13.20.12:071][864]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.20.12:075][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004564s)
+[2022.05.06-13.20.12:075][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.004651s)
+[2022.05.06-13.20.12:075][864]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-13.20.12:076][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.20.12:076][864]LogAIModule: Creating AISystem for world Main
+[2022.05.06-13.20.12:076][864]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2022.05.06-13.20.12:088][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.05.06-13.20.12:092][864]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.06-13.20.12:092][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.20.12:092][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.20.12:092][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.20.12:092][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.20.12:092][864]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.20.12:092][864]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-13.20.12:092][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.20.12:092][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.20.12:092][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-13.20.12:092][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-13.20.12:092][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-13.20.12:094][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-13.20.12:132][864]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-13.20.12:132][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.20.12:132][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.20.12:133][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.20.12:134][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.05.06-13.20.12:134][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.05.06-13.20.12:135][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.05.06-13.20.12:135][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.05.06-13.20.12:135][864]LogInit: FAudioDevice initialized.
+[2022.05.06-13.20.12:135][864]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2022.05.06-13.20.12:149][864]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-13.20.12:513][864]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-15.20.12
+[2022.05.06-13.20.12:521][864]LogWorld: Bringing up level for play took: 0.009435
+[2022.05.06-13.20.12:523][864]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.05.06-13.20.12:529][864]PIE: Server logged in
+[2022.05.06-13.20.12:530][864]PIE: Play in editor total start time 0,46 seconds.
+[2022.05.06-13.20.12:576][864]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-13.20.16:189][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.20.16:189][  9]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.20.16:204][  9]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.20.16:204][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.20.16:224][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-13.20.16:228][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.20.16:248][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.06-13.20.16:248][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.05.06-13.20.16:249][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.05.06-13.20.16:252][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.20.16:277][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.06-13.20.16:325][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.05.06-13.20.16:335][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.06-13.20.21:292][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.20.21:300][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.06-13.20.21:808][184]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.20.21:808][184]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidB0201E104FCE8A1CBB3451B3B4F9FB25.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.20.21:817][184]LogFileHelpers: No new changes to save!
+[2022.05.06-13.20.21:829][184]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.20.21:829][184]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.20.25:242][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.06-13.20.29:080][299]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-13.20.29:150][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.20.29:159][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.06-13.20.29:171][299]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.05.06-13.20.29:172][299]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/MainAAE5CECE481D1D17F930A0851744DA1D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.05.06-13.20.29:181][299]LogFileHelpers: Saving map 'Main' took 0.031
+[2022.05.06-13.20.29:192][299]AssetCheck: New page: Asset Save: Main
+[2022.05.06-13.20.29:192][299]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.05.06-13.20.32:882][433]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-13.20.32:890][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-13.20.32:890][433]PIE: New page: PIE session: Main (6 May 2022, 17:20:32)
+[2022.05.06-13.20.32:890][433]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.20.32:894][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003677s)
+[2022.05.06-13.20.32:894][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003755s)
+[2022.05.06-13.20.32:894][433]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-13.20.32:894][433]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.20.32:894][433]LogAIModule: Creating AISystem for world Main
+[2022.05.06-13.20.32:895][433]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2022.05.06-13.20.32:905][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.06-13.20.32:905][433]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.06-13.20.32:905][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.20.32:905][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.20.32:905][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.20.32:905][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.20.32:905][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.20.32:905][433]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-13.20.32:905][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.20.32:905][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.20.32:905][433]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-13.20.32:905][433]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-13.20.32:905][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-13.20.32:908][433]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-13.20.32:943][433]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-13.20.32:944][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.20.32:944][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.20.32:944][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.20.32:945][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.05.06-13.20.32:945][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.05.06-13.20.32:946][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.05.06-13.20.32:946][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.05.06-13.20.32:946][433]LogInit: FAudioDevice initialized.
+[2022.05.06-13.20.32:946][433]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2022.05.06-13.20.32:958][433]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-13.20.33:327][433]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-15.20.33
+[2022.05.06-13.20.33:335][433]LogWorld: Bringing up level for play took: 0.009564
+[2022.05.06-13.20.33:336][433]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.05.06-13.20.33:343][433]PIE: Server logged in
+[2022.05.06-13.20.33:343][433]PIE: Play in editor total start time 0,453 seconds.
+[2022.05.06-13.20.33:388][433]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-13.20.46:128][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.20.46:128][920]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.20.46:144][920]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.20.46:144][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.20.46:165][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-13.20.46:170][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.20.46:189][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.20.46:189][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.05.06-13.20.46:190][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.05.06-13.20.46:218][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.05.06-13.20.46:269][921]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.05.06-13.20.46:279][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.06-13.25.52:528][247]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-13.25.52:536][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-13.25.52:536][247]PIE: New page: PIE session: Main (6 May 2022, 17:25:52)
+[2022.05.06-13.25.52:536][247]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.25.52:540][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003783s)
+[2022.05.06-13.25.52:540][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003872s)
+[2022.05.06-13.25.52:540][247]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-13.25.52:540][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.25.52:540][247]LogAIModule: Creating AISystem for world Main
+[2022.05.06-13.25.52:541][247]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2022.05.06-13.25.52:549][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.06-13.25.52:551][247]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.06-13.25.52:551][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.25.52:551][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.25.52:551][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.25.52:551][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.25.52:551][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.25.52:551][247]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-13.25.52:551][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.25.52:551][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.25.52:552][247]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-13.25.52:552][247]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-13.25.52:552][247]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-13.25.52:554][247]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-13.25.52:589][247]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-13.25.52:590][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.25.52:590][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.25.52:590][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.25.52:591][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.05.06-13.25.52:591][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.05.06-13.25.52:593][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.05.06-13.25.52:593][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.05.06-13.25.52:593][247]LogInit: FAudioDevice initialized.
+[2022.05.06-13.25.52:593][247]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2022.05.06-13.25.52:605][247]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-13.25.52:976][247]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-15.25.52
+[2022.05.06-13.25.52:984][247]LogWorld: Bringing up level for play took: 0.009877
+[2022.05.06-13.25.52:985][247]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.05.06-13.25.52:992][247]PIE: Server logged in
+[2022.05.06-13.25.52:993][247]PIE: Play in editor total start time 0,457 seconds.
+[2022.05.06-13.25.53:040][247]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-13.25.54:408][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.25.54:409][322]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.25.54:424][322]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.25.54:424][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.25.54:441][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-13.25.54:445][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.25.54:465][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.25.54:465][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.05.06-13.25.54:466][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.05.06-13.25.54:495][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.06-13.25.54:536][323]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.05.06-13.25.54:546][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.06-13.26.07:601][988]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.767 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.06-13.26.08:062][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-13.26.08:069][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-13.26.08:069][  6]PIE: New page: PIE session: Main (6 May 2022, 17:26:08)
+[2022.05.06-13.26.08:069][  6]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.26.08:073][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003812s)
+[2022.05.06-13.26.08:073][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003883s)
+[2022.05.06-13.26.08:073][  6]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-13.26.08:073][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.26.08:073][  6]LogAIModule: Creating AISystem for world Main
+[2022.05.06-13.26.08:074][  6]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2022.05.06-13.26.08:082][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.06-13.26.08:082][  6]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.06-13.26.08:082][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.26.08:082][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.26.08:082][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.26.08:082][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.26.08:082][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.26.08:082][  6]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-13.26.08:082][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.26.08:082][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.26.08:083][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-13.26.08:083][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-13.26.08:083][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-13.26.08:084][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-13.26.08:120][  6]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-13.26.08:122][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.26.08:122][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.26.08:122][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.26.08:122][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.05.06-13.26.08:122][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.05.06-13.26.08:124][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.05.06-13.26.08:124][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.05.06-13.26.08:124][  6]LogInit: FAudioDevice initialized.
+[2022.05.06-13.26.08:124][  6]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main'.
+[2022.05.06-13.26.08:136][  6]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-13.26.08:495][  6]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-15.26.08
+[2022.05.06-13.26.08:503][  6]LogWorld: Bringing up level for play took: 0.009639
+[2022.05.06-13.26.08:505][  6]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.05.06-13.26.08:512][  6]PIE: Server logged in
+[2022.05.06-13.26.08:512][  6]PIE: Play in editor total start time 0,444 seconds.
+[2022.05.06-13.26.08:557][  6]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-13.33.06:998][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.33.06:998][588]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.33.07:014][588]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.33.07:014][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.33.07:039][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-13.33.07:045][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.33.07:063][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.33.07:063][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.05.06-13.33.07:065][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.05.06-13.33.07:093][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.05.06-13.33.07:134][589]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.05.06-13.33.07:145][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.06-13.33.23:371][ 75]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-13.33.23:371][ 75]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-13.33.25:810][133]LogStaticMesh: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.06-13.33.25:810][133]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.05.06-13.33.25:810][133]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.33.25:811][133]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.37.37:468][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.37.37:477][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.06-13.37.37:980][508]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.37.37:980][508]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidAA1C0A4844E2A70593788582A3AB66A6.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.37.37:989][508]LogFileHelpers: No new changes to save!
+[2022.05.06-13.37.38:007][508]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.37.38:007][508]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.37.43:325][725]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-13.37.43:334][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-13.37.43:334][725]PIE: New page: PIE session: Main (6 May 2022, 17:37:43)
+[2022.05.06-13.37.43:334][725]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.37.43:337][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003648s)
+[2022.05.06-13.37.43:337][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003729s)
+[2022.05.06-13.37.43:337][725]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-13.37.43:337][725]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.37.43:338][725]LogAIModule: Creating AISystem for world Main
+[2022.05.06-13.37.43:338][725]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2022.05.06-13.37.43:347][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.06-13.37.43:347][725]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.06-13.37.43:347][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.37.43:347][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.37.43:347][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.37.43:347][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.37.43:348][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.37.43:348][725]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-13.37.43:348][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.37.43:348][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.37.43:348][725]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-13.37.43:348][725]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-13.37.43:348][725]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-13.37.43:350][725]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-13.37.43:386][725]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-13.37.43:387][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.37.43:387][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.37.43:387][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.37.43:387][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.05.06-13.37.43:387][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.05.06-13.37.43:388][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.05.06-13.37.43:388][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.05.06-13.37.43:388][725]LogInit: FAudioDevice initialized.
+[2022.05.06-13.37.43:388][725]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2022.05.06-13.37.43:403][725]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-13.37.43:776][725]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-15.37.43
+[2022.05.06-13.37.43:785][725]LogWorld: Bringing up level for play took: 0.009999
+[2022.05.06-13.37.43:786][725]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.05.06-13.37.43:793][725]PIE: Server logged in
+[2022.05.06-13.37.43:794][725]PIE: Play in editor total start time 0,46 seconds.
+[2022.05.06-13.37.43:841][725]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-13.37.45:458][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.37.45:458][788]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.37.45:474][788]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.37.45:474][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.37.45:499][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-13.37.45:504][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.37.45:524][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.37.45:524][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.05.06-13.37.45:526][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.05.06-13.37.45:554][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.05.06-13.37.45:605][789]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.06-13.37.45:614][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.06-13.38.04:253][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.38.04:261][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.06-13.38.04:762][642]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.38.04:762][642]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidFABBC86B4DE80FA22E92F3AC4391365D.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.38.04:771][642]LogFileHelpers: No new changes to save!
+[2022.05.06-13.38.04:787][642]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.38.04:787][642]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.38.08:662][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDK/Walls/Wall_Catacomb02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Catacomb02.uasset" SILENT=true
+[2022.05.06-13.38.08:666][808]LogSavePackage: Moving output files for package: /Game/LDK/Walls/Wall_Catacomb02
+[2022.05.06-13.38.08:666][808]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02CE9461C840DA5D4FAB5D25B2D2B12CA0.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/LDK/Walls/Wall_Catacomb02.uasset'
+[2022.05.06-13.38.08:677][808]AssetCheck: New page: Asset Save: Wall_Catacomb02
+[2022.05.06-13.38.08:677][808]LogContentValidation: Display: Validating StaticMesh /Game/LDK/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.05.06-13.38.11:111][917]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-13.38.11:118][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-13.38.11:118][917]PIE: New page: PIE session: Main (6 May 2022, 17:38:11)
+[2022.05.06-13.38.11:118][917]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.38.11:121][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003220s)
+[2022.05.06-13.38.11:121][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003292s)
+[2022.05.06-13.38.11:121][917]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-13.38.11:121][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.38.11:122][917]LogAIModule: Creating AISystem for world Main
+[2022.05.06-13.38.11:122][917]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2022.05.06-13.38.11:132][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.05.06-13.38.11:132][917]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.06-13.38.11:133][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.38.11:133][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.38.11:133][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.38.11:133][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.38.11:133][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.38.11:133][917]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-13.38.11:133][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.38.11:133][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.38.11:134][917]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-13.38.11:134][917]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-13.38.11:134][917]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-13.38.11:135][917]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-13.38.11:172][917]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-13.38.11:172][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.38.11:172][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.38.11:172][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.38.11:173][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.05.06-13.38.11:173][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.05.06-13.38.11:174][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.05.06-13.38.11:174][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.05.06-13.38.11:174][917]LogInit: FAudioDevice initialized.
+[2022.05.06-13.38.11:174][917]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main'.
+[2022.05.06-13.38.11:184][917]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-13.38.11:546][917]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-15.38.11
+[2022.05.06-13.38.11:554][917]LogWorld: Bringing up level for play took: 0.009578
+[2022.05.06-13.38.11:556][917]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.05.06-13.38.11:563][917]PIE: Server logged in
+[2022.05.06-13.38.11:563][917]PIE: Play in editor total start time 0,446 seconds.
+[2022.05.06-13.38.11:608][917]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-13.38.28:348][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.38.28:348][574]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.38.28:363][574]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.38.28:364][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.38.28:385][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-13.38.28:391][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.38.28:411][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.38.28:411][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.05.06-13.38.28:412][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.05.06-13.38.28:440][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.05.06-13.38.28:491][575]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.06-13.38.28:500][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.06-13.39.45:573][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.39.45:582][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.05.06-13.39.46:094][719]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.39.46:095][719]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David3EFA1AE64DD78ADCCF277596850B3426.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.39.46:103][719]LogFileHelpers: No new changes to save!
+[2022.05.06-13.39.46:114][719]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.39.46:114][719]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.39.49:600][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-13.39.49:610][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-13.39.49:610][852]PIE: New page: PIE session: Main (6 May 2022, 17:39:49)
+[2022.05.06-13.39.49:611][852]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.39.49:614][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003727s)
+[2022.05.06-13.39.49:614][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003798s)
+[2022.05.06-13.39.49:614][852]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-13.39.49:614][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.39.49:615][852]LogAIModule: Creating AISystem for world Main
+[2022.05.06-13.39.49:615][852]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2022.05.06-13.39.49:623][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.06-13.39.49:624][852]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.06-13.39.49:624][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.39.49:624][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.39.49:624][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.39.49:624][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.39.49:624][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.39.49:624][852]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-13.39.49:624][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.39.49:624][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.39.49:624][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-13.39.49:624][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-13.39.49:624][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-13.39.49:626][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-13.39.49:662][852]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-13.39.49:662][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.39.49:662][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.39.49:663][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.39.49:663][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.05.06-13.39.49:663][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.05.06-13.39.49:665][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.05.06-13.39.49:665][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.05.06-13.39.49:665][852]LogInit: FAudioDevice initialized.
+[2022.05.06-13.39.49:665][852]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main'.
+[2022.05.06-13.39.49:679][852]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-13.39.50:047][852]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-15.39.50
+[2022.05.06-13.39.50:055][852]LogWorld: Bringing up level for play took: 0.009857
+[2022.05.06-13.39.50:057][852]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.05.06-13.39.50:063][852]PIE: Server logged in
+[2022.05.06-13.39.50:063][852]PIE: Play in editor total start time 0,453 seconds.
+[2022.05.06-13.39.50:105][852]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-13.39.50:139][853]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.073743 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2022.05.06-13.40.03:768][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.40.03:768][373]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.40.03:784][373]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.40.03:784][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.40.03:805][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-13.40.03:810][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.40.03:830][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.40.03:830][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.05.06-13.40.03:831][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.05.06-13.40.03:859][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.06-13.40.03:910][374]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.05.06-13.40.03:919][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
