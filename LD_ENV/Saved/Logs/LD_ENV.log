@@ -2471,3 +2471,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.06-14.08.55:322][866]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto53264DEB14399D848EEE57D9880F0FCEC.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap'
 [2022.05.06-14.08.55:332][866]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.926
 [2022.05.06-14.08.55:332][866]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.926
+[2022.05.06-14.10.34:057][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-14.10.34:068][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.06-14.10.34:588][497]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-14.10.34:589][497]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidCF4A2CDE43D35061CF10F5B64F978930.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-14.10.34:597][497]LogFileHelpers: No new changes to save!
+[2022.05.06-14.10.34:607][497]AssetCheck: New page: Asset Save: David
+[2022.05.06-14.10.34:607][497]LogContentValidation: Display: Validating World /Game/David.David
