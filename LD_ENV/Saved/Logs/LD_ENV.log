@@ -2165,3 +2165,309 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.06-13.40.03:859][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2022.05.06-13.40.03:910][374]LogPlayLevel: Display: Destroying online subsystem :Context_16
 [2022.05.06-13.40.03:919][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.06-13.40.27:443][618]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-13.40.27:450][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-13.40.27:450][618]PIE: New page: PIE session: Main (6 May 2022, 17:40:27)
+[2022.05.06-13.40.27:450][618]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.40.27:454][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003521s)
+[2022.05.06-13.40.27:454][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003590s)
+[2022.05.06-13.40.27:454][618]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-13.40.27:454][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.40.27:454][618]LogAIModule: Creating AISystem for world Main
+[2022.05.06-13.40.27:455][618]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2022.05.06-13.40.27:465][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.06-13.40.27:466][618]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.06-13.40.27:466][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.40.27:466][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.40.27:466][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.40.27:466][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.40.27:466][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.40.27:466][618]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-13.40.27:466][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.40.27:466][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.40.27:467][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-13.40.27:467][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-13.40.27:467][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-13.40.27:469][618]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-13.40.27:504][618]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-13.40.27:505][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.40.27:505][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.40.27:505][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.40.27:506][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.05.06-13.40.27:506][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.05.06-13.40.27:507][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.05.06-13.40.27:507][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.05.06-13.40.27:507][618]LogInit: FAudioDevice initialized.
+[2022.05.06-13.40.27:507][618]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main'.
+[2022.05.06-13.40.27:515][618]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-13.40.27:880][618]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-15.40.27
+[2022.05.06-13.40.27:889][618]LogWorld: Bringing up level for play took: 0.009691
+[2022.05.06-13.40.27:890][618]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.05.06-13.40.27:897][618]PIE: Server logged in
+[2022.05.06-13.40.27:897][618]PIE: Play in editor total start time 0,447 seconds.
+[2022.05.06-13.40.27:942][618]LogAudio: Warning: Detected orphaned looping sound 'SC_BackgroundMusic'.
+[2022.05.06-13.41.39:098][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.41.39:098][526]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-13.41.39:113][526]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.41.39:113][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.41.39:143][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-13.41.39:148][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.41.39:166][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.41.39:167][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.05.06-13.41.39:168][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.05.06-13.41.39:195][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.05.06-13.41.39:250][527]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.05.06-13.41.39:260][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.06-13.47.56:023][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.05.06-13.48.00:011][520]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-13.48.00:055][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.48.00:064][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.06-13.48.00:568][520]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.48.00:568][520]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David7B67859F47C703848C85649406408360.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.48.00:577][520]LogFileHelpers: No new changes to save!
+[2022.05.06-13.48.00:577][520]LogFileHelpers: Saving map 'David' took 0.523
+[2022.05.06-13.48.00:613][520]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.48.00:613][520]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.48.10:409][831]Cmd: TRANSACTION UNDO
+[2022.05.06-13.48.10:409][831]LogEditorTransaction: Undo Move Elements
+[2022.05.06-13.48.15:474][993]Cmd: TRANSACTION UNDO
+[2022.05.06-13.48.15:474][993]LogEditorTransaction: Undo Clicking on Elements
+[2022.05.06-13.48.15:733][998]Cmd: TRANSACTION UNDO
+[2022.05.06-13.48.15:733][998]LogEditorTransaction: Undo Move Elements
+[2022.05.06-13.48.25:319][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.48.25:327][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.06-13.48.25:830][349]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.48.25:831][349]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidF428F68547C80D5066771FA2BD59AE13.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.48.25:839][349]LogFileHelpers: No new changes to save!
+[2022.05.06-13.48.25:859][349]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.48.25:859][349]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.48.51:818][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.48.51:826][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.05.06-13.48.52:351][332]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.48.52:351][332]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David68B4632B45C7F658F712048A6DC1823C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.48.52:359][332]LogFileHelpers: No new changes to save!
+[2022.05.06-13.48.52:378][332]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.48.52:378][332]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.49.04:020][763]Cmd: DELETE
+[2022.05.06-13.49.04:020][763]Cmd: ACTOR DELETE
+[2022.05.06-13.49.04:080][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-13.49.04:090][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.05.06-13.49.04:092][763]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2022.05.06-13.49.06:065][818]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-13.49.06:065][818]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-13.49.06:066][818]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2803
+[2022.05.06-13.49.09:413][941]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-13.49.09:413][941]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin
+[2022.05.06-13.49.09:415][941]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall_Fringe_Thin.Wall_Fringe_Thin as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2805
+[2022.05.06-13.49.19:147][310]Cmd: TRANSACTION UNDO
+[2022.05.06-13.49.19:147][310]LogEditorTransaction: Undo Move Elements
+[2022.05.06-13.49.31:074][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.49.31:083][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.06-13.49.31:607][743]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.49.31:608][743]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidBBF572594EBDCE4123C66DB8AEF75CCD.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.49.31:617][743]LogFileHelpers: No new changes to save!
+[2022.05.06-13.49.31:636][743]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.49.31:636][743]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.50.04:664][807]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-13.50.04:664][807]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-13.50.06:064][851]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Amphora02.fbx]
+[2022.05.06-13.50.06:069][851]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Amphora02.fbx
+[2022.05.06-13.50.06:075][851]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-13.50.06:108][851]LogFbx: Display: Triangulating static mesh Amfora02
+[2022.05.06-13.50.06:151][851]LogStaticMesh: Display: Building static mesh Amphora02...
+[2022.05.06-13.50.06:444][851]LogStaticMesh: Built static mesh [0.29s] /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.05.06-13.50.06:451][851]LogStaticMesh: Display: Building static mesh Amphora02...
+[2022.05.06-13.50.06:752][851]LogStaticMesh: Built static mesh [0.30s] /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.05.06-13.50.06:775][851]LogEditorFactories: -- imported successfully
+[2022.05.06-13.50.06:792][851]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.50.09:945][937]LogStaticMesh: Display: Building static mesh Amphora02...
+[2022.05.06-13.50.09:945][937]LogStaticMesh: Adjacency [0.00s], tris: 1576, UVs 2
+[2022.05.06-13.50.09:945][937]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.06-13.50.09:945][937]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-13.50.09:945][937]LogStaticMesh: Num clusters 13. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-13.50.09:945][937]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ArchitecturalModules/Clutter/Amphora02) ...
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Num clusters 7. Error 0.3896, 0.3896, 0.3896
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Num clusters 4. Error 0.7341, 0.7341, 0.7341
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Num clusters 2. Error 2.1443, 2.1443, 2.1443
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Num clusters 1. Error 3.6182, 3.6182, 3.6182
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Reduce [0.08s]
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Fallback 0/4 [0.02s], num tris: 490
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Fallback 1/4 [0.06s], num tris: 244
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Fallback 2/4 [0.07s], num tris: 122
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Fallback 3/4 [0.07s], num tris: 64
+[2022.05.06-13.50.10:240][938]LogStaticMesh: ConstrainClusters:
+[2022.05.06-13.50.10:240][938]LogStaticMesh:   Input: 27 Clusters, 3339 Triangles and 3794 Vertices
+[2022.05.06-13.50.10:240][938]LogStaticMesh:   Output without splits: 27 Clusters, 3339 Triangles and 3798 Vertices
+[2022.05.06-13.50.10:240][938]LogStaticMesh:   Output with splits: 27 Clusters, 3339 Triangles and 3798 Vertices
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 27, Slow Path Clusters: 0, 1 Material: 27, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-13.50.10:240][938]LogStaticMesh: WritePages:
+[2022.05.06-13.50.10:240][938]LogStaticMesh:   Root: GPU size: 31548 bytes. 1 Pages. 31548.000 bytes per page (96.277% utilization).
+[2022.05.06-13.50.10:240][938]LogStaticMesh:   Streaming: GPU size: 27456 bytes. 1 Pages. 27456.000 bytes per page (20.947% utilization).
+[2022.05.06-13.50.10:240][938]LogStaticMesh:   Page data disk size: 48836 bytes. Fixup data size: 256 bytes.
+[2022.05.06-13.50.10:240][938]LogStaticMesh:   Total GPU size: 59004 bytes, Total disk size: 49092 bytes.
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Encode [0.00s]
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Nanite build [0.30s]
+
+[2022.05.06-13.50.10:240][938]LogStaticMesh: Built static mesh [0.32s] /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.05.06-13.50.10:241][938]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.50.11:536][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Clutter/Amphora02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Amphora02.uasset" SILENT=true
+[2022.05.06-13.50.11:542][981]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Amphora02
+[2022.05.06-13.50.11:542][981]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Amphora02BF29DA8C40D2D851D151B093F1A78D28.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Amphora02.uasset'
+[2022.05.06-13.50.11:567][981]AssetCheck: New page: Asset Save: Amphora02
+[2022.05.06-13.50.11:567][981]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.05.06-13.52.24:370][640]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Amphora02.fbx]
+[2022.05.06-13.52.24:376][640]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Amphora02.fbx
+[2022.05.06-13.52.24:387][640]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-13.52.24:432][640]LogFbx: Display: Triangulating static mesh Amfora02
+[2022.05.06-13.52.25:005][640]LogStaticMesh: Display: Building static mesh Amphora02...
+[2022.05.06-13.52.28:411][640]LogStaticMesh: Built static mesh [3.41s] /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.05.06-13.52.28:417][640]LogStaticMesh: Display: Building static mesh Amphora02...
+[2022.05.06-13.52.31:825][640]LogStaticMesh: Built static mesh [3.41s] /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.05.06-13.52.31:933][640]LogEditorFactories: -- imported successfully
+[2022.05.06-13.52.31:953][640]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ArchitecturalModules/Clutter/Amphora02) ...
+[2022.05.06-13.52.31:982][640]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.52.34:508][721]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-13.52.34:508][721]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-13.52.36:135][762]LogStaticMesh: Display: Building static mesh Amphora02...
+[2022.05.06-13.52.36:135][762]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ArchitecturalModules/Clutter/Amphora02) ...
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Adjacency [0.00s], tris: 24064, UVs 2
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Clustering [0.02s]. Ratio: 1.015957
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 191. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 99. Error 0.0072, 0.0247, 0.0674
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 51. Error 0.0279, 0.0661, 0.1198
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 26. Error 0.1198, 0.1712, 0.2682
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 13. Error 0.3603, 0.3603, 0.3603
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 7. Error 0.5687, 0.5687, 0.5687
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 4. Error 1.0512, 1.0512, 1.0512
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 2. Error 1.9360, 1.9360, 1.9360
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Num clusters 1. Error 3.5731, 3.5731, 3.5731
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Reduce [0.39s]
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Fallback 0/4 [0.05s], num tris: 649
+[2022.05.06-13.52.37:126][762]LogStaticMesh: Fallback 1/4 [0.30s], num tris: 323
+[2022.05.06-13.52.37:157][762]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.05.06-13.52.37:365][762]LogStaticMesh: Fallback 2/4 [0.18s], num tris: 162
+[2022.05.06-13.52.37:365][762]LogStaticMesh: Fallback 3/4 [0.19s], num tris: 80
+[2022.05.06-13.52.37:365][762]LogStaticMesh: ConstrainClusters:
+[2022.05.06-13.52.37:365][762]LogStaticMesh:   Input: 394 Clusters, 49628 Triangles and 38143 Vertices
+[2022.05.06-13.52.37:365][762]LogStaticMesh:   Output without splits: 394 Clusters, 49628 Triangles and 38696 Vertices
+[2022.05.06-13.52.37:366][762]LogStaticMesh:   Output with splits: 394 Clusters, 49628 Triangles and 38696 Vertices
+[2022.05.06-13.52.37:366][762]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 394, Slow Path Clusters: 0, 1 Material: 394, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-13.52.37:366][762]LogStaticMesh: WritePages:
+[2022.05.06-13.52.37:366][762]LogStaticMesh:   Root: GPU size: 31276 bytes. 1 Pages. 31276.000 bytes per page (95.447% utilization).
+[2022.05.06-13.52.37:366][762]LogStaticMesh:   Streaming: GPU size: 565780 bytes. 5 Pages. 113156.000 bytes per page (86.331% utilization).
+[2022.05.06-13.52.37:366][762]LogStaticMesh:   Page data disk size: 500396 bytes. Fixup data size: 2344 bytes.
+[2022.05.06-13.52.37:366][762]LogStaticMesh:   Total GPU size: 597056 bytes, Total disk size: 502740 bytes.
+[2022.05.06-13.52.37:366][762]LogStaticMesh: Encode [0.01s]
+[2022.05.06-13.52.37:366][762]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-13.52.37:366][762]LogStaticMesh: Nanite build [1.12s]
+
+[2022.05.06-13.52.37:375][762]LogStaticMesh: Built static mesh [1.26s] /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.05.06-13.52.37:376][762]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.05.06-13.52.37:385][763]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-13.52.39:050][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Clutter/Amphora02" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Amphora02.uasset" SILENT=true
+[2022.05.06-13.52.39:090][839]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Clutter/Amphora02
+[2022.05.06-13.52.39:090][839]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Amphora022DE2AE01493A19A1A7C320BFF07322F8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Clutter/Amphora02.uasset'
+[2022.05.06-13.52.39:102][839]AssetCheck: New page: Asset Save: Amphora02
+[2022.05.06-13.52.39:102][839]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Clutter/Amphora02.Amphora02
+[2022.05.06-13.56.33:020][422]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar05.fbx)
+[2022.05.06-13.56.33:038][422]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar05.fbx
+[2022.05.06-13.56.33:043][422]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-13.56.35:729][422]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.06-13.56.35:753][422]LogFbx: Display: Triangulating static mesh Pillar05
+[2022.05.06-13.56.35:757][422]LogStaticMesh: Display: Building static mesh pillar05...
+[2022.05.06-13.56.35:761][422]LogStaticMesh: Adjacency [0.00s], tris: 152, UVs 2
+[2022.05.06-13.56.35:761][422]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.06-13.56.35:761][422]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-13.56.35:761][422]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-13.56.35:763][422]LogStaticMesh: Num clusters 1. Error 5.9930, 5.9930, 5.9930
+[2022.05.06-13.56.35:763][422]LogStaticMesh: Reduce [0.00s]
+[2022.05.06-13.56.35:763][422]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 152
+[2022.05.06-13.56.35:767][422]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 76
+[2022.05.06-13.56.35:771][422]LogStaticMesh: Fallback 2/4 [0.00s], num tris: 64
+[2022.05.06-13.56.35:775][422]LogStaticMesh: Fallback 3/4 [0.00s], num tris: 64
+[2022.05.06-13.56.35:775][422]LogStaticMesh: ConstrainClusters:
+[2022.05.06-13.56.35:775][422]LogStaticMesh:   Input: 3 Clusters, 278 Triangles and 297 Vertices
+[2022.05.06-13.56.35:775][422]LogStaticMesh:   Output without splits: 3 Clusters, 278 Triangles and 297 Vertices
+[2022.05.06-13.56.35:775][422]LogStaticMesh:   Output with splits: 3 Clusters, 278 Triangles and 297 Vertices
+[2022.05.06-13.56.35:775][422]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-13.56.35:775][422]LogStaticMesh: WritePages:
+[2022.05.06-13.56.35:775][422]LogStaticMesh:   Root: GPU size: 5144 bytes. 1 Pages. 5144.000 bytes per page (15.698% utilization).
+[2022.05.06-13.56.35:775][422]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.06-13.56.35:775][422]LogStaticMesh:   Page data disk size: 3812 bytes. Fixup data size: 40 bytes.
+[2022.05.06-13.56.35:775][422]LogStaticMesh:   Total GPU size: 5144 bytes, Total disk size: 3852 bytes.
+[2022.05.06-13.56.35:775][422]LogStaticMesh: Encode [0.00s]
+[2022.05.06-13.56.35:776][422]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-13.56.35:776][422]LogStaticMesh: Nanite build [0.01s]
+
+[2022.05.06-13.56.35:778][422]LogStaticMesh: Built static mesh [0.02s] /Game/ArchitecturalModules/Pillars/pillar05.pillar05
+[2022.05.06-13.56.37:541][472]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Pillars/pillar05.pillar05
+[2022.05.06-13.56.37:590][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-13.56.50:148][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/pillar05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar05.uasset" SILENT=true
+[2022.05.06-13.56.50:152][773]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/pillar05
+[2022.05.06-13.56.50:152][773]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/pillar0545F2FBFC44DBA69EF2F83EAFD253E042.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar05.uasset'
+[2022.05.06-13.56.50:162][773]AssetCheck: New page: Asset Save: pillar05
+[2022.05.06-13.56.50:162][773]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/pillar05.pillar05
+[2022.05.06-13.56.51:591][807]LogSlate: Window 'pillar05' being destroyed
+[2022.05.06-13.56.51:659][807]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.56.51:659][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.57.19:019][754]Cmd: TRANSACTION UNDO
+[2022.05.06-13.57.19:020][754]LogEditorTransaction: Undo Edit Static Mesh
+[2022.05.06-13.58.16:504][ 54]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-13.58.16:504][ 54]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-13.58.17:758][ 94]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar05.fbx]
+[2022.05.06-13.58.17:763][ 94]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/pillar05.fbx
+[2022.05.06-13.58.17:767][ 94]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-13.58.17:802][ 94]LogFbx: Display: Triangulating static mesh Pillar05
+[2022.05.06-13.58.17:812][ 94]LogStaticMesh: Display: Building static mesh pillar05...
+[2022.05.06-13.58.17:842][ 94]LogStaticMesh: Adjacency [0.00s], tris: 152, UVs 2
+[2022.05.06-13.58.17:843][ 94]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2022.05.06-13.58.17:843][ 94]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-13.58.17:843][ 94]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-13.58.17:844][ 94]LogStaticMesh: Num clusters 1. Error 5.9930, 5.9930, 5.9930
+[2022.05.06-13.58.17:844][ 94]LogStaticMesh: Reduce [0.00s]
+[2022.05.06-13.58.17:845][ 94]LogStaticMesh: Fallback 0/4 [0.00s], num tris: 152
+[2022.05.06-13.58.17:848][ 94]LogStaticMesh: Fallback 1/4 [0.00s], num tris: 76
+[2022.05.06-13.58.17:852][ 94]LogStaticMesh: Fallback 2/4 [0.00s], num tris: 64
+[2022.05.06-13.58.17:856][ 94]LogStaticMesh: Fallback 3/4 [0.00s], num tris: 64
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh: ConstrainClusters:
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh:   Input: 3 Clusters, 278 Triangles and 297 Vertices
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh:   Output without splits: 3 Clusters, 278 Triangles and 297 Vertices
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh:   Output with splits: 3 Clusters, 278 Triangles and 297 Vertices
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh: WritePages:
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh:   Root: GPU size: 5144 bytes. 1 Pages. 5144.000 bytes per page (15.698% utilization).
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh:   Streaming: 0 bytes.
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh:   Page data disk size: 3808 bytes. Fixup data size: 40 bytes.
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh:   Total GPU size: 5144 bytes, Total disk size: 3848 bytes.
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh: Encode [0.00s]
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-13.58.17:857][ 94]LogStaticMesh: Nanite build [0.01s]
+
+[2022.05.06-13.58.17:860][ 94]LogStaticMesh: Built static mesh [0.05s] /Game/ArchitecturalModules/Pillars/pillar05.pillar05
+[2022.05.06-13.58.17:874][ 94]LogEditorFactories: -- imported successfully
+[2022.05.06-13.58.25:238][344]Cmd: TRANSACTION UNDO
+[2022.05.06-13.58.25:238][344]LogEditorTransaction: Undo Edit Static Mesh
+[2022.05.06-13.58.29:662][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-13.58.29:673][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.06-13.58.30:182][490]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-13.58.30:182][490]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David90B5F76149F9788B49542EADA1C30F18.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-13.58.30:192][490]LogFileHelpers: No new changes to save!
+[2022.05.06-13.58.30:204][490]AssetCheck: New page: Asset Save: David
+[2022.05.06-13.58.30:204][490]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-13.59.16:809][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/pillar05" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar05.uasset" SILENT=true
+[2022.05.06-13.59.16:812][211]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/pillar05
+[2022.05.06-13.59.16:813][211]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/pillar05F8015DE34E665700E1404490D000D1E7.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/pillar05.uasset'
+[2022.05.06-13.59.16:823][211]AssetCheck: New page: Asset Save: pillar05
+[2022.05.06-13.59.16:823][211]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/pillar05.pillar05
+[2022.05.06-14.08.54:415][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.06-14.08.54:435][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5
+[2022.05.06-14.08.54:435][866]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto52FC217944D0E74596263D7AAAFB146D8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto5.umap'
+[2022.05.06-14.08.54:779][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Marika_Auto5
+[2022.05.06-14.08.54:780][866]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Marika_Auto57D455D6E40EC5E375EACF5B8DE7EBB71.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Marika_Auto5.umap'
+[2022.05.06-14.08.54:789][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.06-14.08.55:321][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto5
+[2022.05.06-14.08.55:322][866]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto53264DEB14399D848EEE57D9880F0FCEC.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto5.umap'
+[2022.05.06-14.08.55:332][866]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.926
+[2022.05.06-14.08.55:332][866]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.926
