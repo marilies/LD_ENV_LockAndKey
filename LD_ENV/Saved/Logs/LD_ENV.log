@@ -2479,3 +2479,189 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.06-14.10.34:607][497]AssetCheck: New page: Asset Save: David
 [2022.05.06-14.10.34:607][497]LogContentValidation: Display: Validating World /Game/David.David
 [2022.05.06-14.26.07:769][866]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.709 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.06-14.40.55:261][ 89]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Pillar09.fbx)
+[2022.05.06-14.40.55:267][ 89]LogFbx: Loading FBX Scene from ../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Pillar09.fbx
+[2022.05.06-14.40.55:275][ 89]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-14.40.57:941][ 89]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.06-14.40.57:961][ 89]LogFbx: Display: Triangulating static mesh pCube11
+[2022.05.06-14.40.58:192][ 89]LogStaticMesh: Display: Building static mesh Pillar09...
+[2022.05.06-14.40.58:246][ 89]LogStaticMesh: Adjacency [0.00s], tris: 9728, UVs 2
+[2022.05.06-14.40.58:252][ 89]LogStaticMesh: Clustering [0.01s]. Ratio: 1.013158
+[2022.05.06-14.40.58:253][ 89]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-14.40.58:253][ 89]LogStaticMesh: Num clusters 77. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-14.40.58:326][ 89]LogStaticMesh: Num clusters 39. Error 0.0060, 0.2890, 0.6458
+[2022.05.06-14.40.58:396][ 89]LogStaticMesh: Num clusters 20. Error 0.6986, 0.7639, 0.8075
+[2022.05.06-14.40.58:462][ 89]LogStaticMesh: Num clusters 10. Error 1.9562, 1.9562, 1.9562
+[2022.05.06-14.40.58:494][ 89]LogStaticMesh: Num clusters 5. Error 3.4891, 3.4891, 3.4891
+[2022.05.06-14.40.58:509][ 89]LogStaticMesh: Num clusters 3. Error 6.8027, 6.8027, 6.8027
+[2022.05.06-14.40.58:518][ 89]LogStaticMesh: Num clusters 2. Error 10.5108, 10.5108, 10.5108
+[2022.05.06-14.40.58:525][ 89]LogStaticMesh: Num clusters 1. Error 16.0569, 16.0569, 16.0569
+[2022.05.06-14.40.58:525][ 89]LogStaticMesh: Reduce [0.27s]
+[2022.05.06-14.40.58:615][ 89]LogStaticMesh: Fallback 0/4 [0.09s], num tris: 688
+[2022.05.06-14.40.58:825][ 89]LogStaticMesh: Fallback 1/4 [0.21s], num tris: 344
+[2022.05.06-14.40.59:048][ 89]LogStaticMesh: Fallback 2/4 [0.22s], num tris: 172
+[2022.05.06-14.40.59:272][ 89]LogStaticMesh: Fallback 3/4 [0.22s], num tris: 86
+[2022.05.06-14.40.59:275][ 89]LogStaticMesh: ConstrainClusters:
+[2022.05.06-14.40.59:275][ 89]LogStaticMesh:   Input: 157 Clusters, 19806 Triangles and 15426 Vertices
+[2022.05.06-14.40.59:275][ 89]LogStaticMesh:   Output without splits: 157 Clusters, 19806 Triangles and 15608 Vertices
+[2022.05.06-14.40.59:275][ 89]LogStaticMesh:   Output with splits: 157 Clusters, 19806 Triangles and 15608 Vertices
+[2022.05.06-14.40.59:275][ 89]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 157, Slow Path Clusters: 0, 1 Material: 157, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-14.40.59:279][ 89]LogStaticMesh: WritePages:
+[2022.05.06-14.40.59:279][ 89]LogStaticMesh:   Root: GPU size: 30836 bytes. 1 Pages. 30836.000 bytes per page (94.104% utilization).
+[2022.05.06-14.40.59:279][ 89]LogStaticMesh:   Streaming: GPU size: 231560 bytes. 2 Pages. 115780.000 bytes per page (88.333% utilization).
+[2022.05.06-14.40.59:279][ 89]LogStaticMesh:   Page data disk size: 205632 bytes. Fixup data size: 816 bytes.
+[2022.05.06-14.40.59:279][ 89]LogStaticMesh:   Total GPU size: 262396 bytes, Total disk size: 206448 bytes.
+[2022.05.06-14.40.59:279][ 89]LogStaticMesh: Encode [0.01s]
+[2022.05.06-14.40.59:279][ 89]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-14.40.59:279][ 89]LogStaticMesh: Nanite build [1.03s]
+
+[2022.05.06-14.40.59:286][ 89]LogStaticMesh: Built static mesh [1.09s] /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09
+[2022.05.06-14.41.30:086][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.06-14.41.30:088][449]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.013
+[2022.05.06-14.41.30:088][449]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchitecturalModules/Pillars/Pillar09] ([1] browsable assets)...
+[2022.05.06-14.41.30:142][449]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09]
+[2022.05.06-14.41.30:142][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchitecturalModules/Pillars/Pillar09]
+[2022.05.06-14.41.30:161][449]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ArchitecturalModules/Pillars/Pillar09_Auto6
+[2022.05.06-14.41.30:161][449]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar09_Auto645C5198E4EC8506873B2A4A3F6AFB41B.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/ArchitecturalModules/Pillars/Pillar09_Auto6.uasset'
+[2022.05.06-14.41.30:162][449]LogFileHelpers: Auto-saving content packages took 0.073
+[2022.05.06-14.42.03:797][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09
+[2022.05.06-14.42.03:797][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09
+[2022.05.06-14.42.03:798][449]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2806
+[2022.05.06-14.42.04:816][489]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09
+[2022.05.06-14.42.04:816][489]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09
+[2022.05.06-14.42.04:819][489]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_2807
+[2022.05.06-14.49.20:994][833]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Pillar09.fbx]
+[2022.05.06-14.49.20:999][833]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Pillar09.fbx
+[2022.05.06-14.49.21:007][833]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-14.49.21:066][833]LogFbx: Display: Triangulating static mesh pCube11
+[2022.05.06-14.49.21:301][833]LogStaticMesh: Display: Building static mesh Pillar09...
+[2022.05.06-14.49.21:379][833]LogStaticMesh: Adjacency [0.00s], tris: 9728, UVs 2
+[2022.05.06-14.49.21:385][833]LogStaticMesh: Clustering [0.01s]. Ratio: 1.013158
+[2022.05.06-14.49.21:385][833]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-14.49.21:385][833]LogStaticMesh: Num clusters 77. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-14.49.21:451][833]LogStaticMesh: Num clusters 39. Error 0.0073, 0.2910, 0.6000
+[2022.05.06-14.49.21:510][833]LogStaticMesh: Num clusters 20. Error 0.7995, 0.8352, 0.8643
+[2022.05.06-14.49.21:571][833]LogStaticMesh: Num clusters 10. Error 2.1722, 2.1722, 2.1722
+[2022.05.06-14.49.21:606][833]LogStaticMesh: Num clusters 5. Error 4.0188, 4.0188, 4.0188
+[2022.05.06-14.49.21:620][833]LogStaticMesh: Num clusters 3. Error 8.1423, 8.1423, 8.1423
+[2022.05.06-14.49.21:628][833]LogStaticMesh: Num clusters 2. Error 10.9446, 10.9446, 10.9446
+[2022.05.06-14.49.21:635][833]LogStaticMesh: Num clusters 1. Error 18.4563, 18.4563, 18.4563
+[2022.05.06-14.49.21:635][833]LogStaticMesh: Reduce [0.25s]
+[2022.05.06-14.49.21:720][833]LogStaticMesh: Fallback 0/4 [0.08s], num tris: 696
+[2022.05.06-14.49.21:927][833]LogStaticMesh: Fallback 1/4 [0.21s], num tris: 348
+[2022.05.06-14.49.22:130][833]LogStaticMesh: Fallback 2/4 [0.20s], num tris: 174
+[2022.05.06-14.49.22:343][833]LogStaticMesh: Fallback 3/4 [0.21s], num tris: 86
+[2022.05.06-14.49.22:345][833]LogStaticMesh: ConstrainClusters:
+[2022.05.06-14.49.22:345][833]LogStaticMesh:   Input: 157 Clusters, 19804 Triangles and 15428 Vertices
+[2022.05.06-14.49.22:345][833]LogStaticMesh:   Output without splits: 157 Clusters, 19804 Triangles and 15599 Vertices
+[2022.05.06-14.49.22:345][833]LogStaticMesh:   Output with splits: 157 Clusters, 19804 Triangles and 15599 Vertices
+[2022.05.06-14.49.22:345][833]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 157, Slow Path Clusters: 0, 1 Material: 157, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-14.49.22:349][833]LogStaticMesh: WritePages:
+[2022.05.06-14.49.22:349][833]LogStaticMesh:   Root: GPU size: 31092 bytes. 1 Pages. 31092.000 bytes per page (94.885% utilization).
+[2022.05.06-14.49.22:349][833]LogStaticMesh:   Streaming: GPU size: 232560 bytes. 2 Pages. 116280.000 bytes per page (88.715% utilization).
+[2022.05.06-14.49.22:349][833]LogStaticMesh:   Page data disk size: 206884 bytes. Fixup data size: 816 bytes.
+[2022.05.06-14.49.22:349][833]LogStaticMesh:   Total GPU size: 263652 bytes, Total disk size: 207700 bytes.
+[2022.05.06-14.49.22:350][833]LogStaticMesh: Encode [0.01s]
+[2022.05.06-14.49.22:350][833]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-14.49.22:350][833]LogStaticMesh: Nanite build [0.96s]
+
+[2022.05.06-14.49.22:356][833]LogStaticMesh: Built static mesh [1.06s] /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09
+[2022.05.06-14.49.22:421][833]LogEditorFactories: -- imported successfully
+[2022.05.06-14.50.20:351][735]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09
+[2022.05.06-14.50.20:410][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-14.50.32:067][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Pillars/Pillar09" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar09.uasset" SILENT=true
+[2022.05.06-14.50.32:085][ 49]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Pillars/Pillar09
+[2022.05.06-14.50.32:085][ 49]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Pillar09F8FD291C4277DCF847058ABD1B4623E3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Pillars/Pillar09.uasset'
+[2022.05.06-14.50.32:096][ 49]AssetCheck: New page: Asset Save: Pillar09
+[2022.05.06-14.50.32:096][ 49]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Pillars/Pillar09.Pillar09
+[2022.05.06-14.50.33:982][104]LogSlate: Window 'Pillar09' being destroyed
+[2022.05.06-14.50.34:056][104]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-14.50.34:057][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-14.51.30:567][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.06-14.51.30:585][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7
+[2022.05.06-14.51.30:585][344]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto789BFA28C40C5039313D6178BA8210AB5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto7.umap'
+[2022.05.06-14.51.30:592][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.06-14.51.31:116][344]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/David_Auto7
+[2022.05.06-14.51.31:116][344]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto7300CECC44EF7102EDD2EB59617740820.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/David_Auto7.umap'
+[2022.05.06-14.51.31:126][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.569
+[2022.05.06-14.51.31:126][344]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.569
+[2022.05.06-14.51.39:138][623]Cmd: DELETE
+[2022.05.06-14.51.39:139][623]Cmd: ACTOR DELETE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0 is already used by Landscape /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeComponent_0 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeComponent_1 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeComponent_2 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeComponent_3 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeComponent_4 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeComponent_5 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_4 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_5 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_6 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_7 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_8 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:163][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto5.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0 is already used by Landscape /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeComponent_0 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeComponent_1 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeComponent_2 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeComponent_3 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeComponent_4 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeComponent_5 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_4 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_5 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_6 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_7 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_8 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:171][623]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto7.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-14.51.39:212][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.39:222][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.06-14.51.39:223][623]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2022.05.06-14.51.42:606][761]Cmd: DELETE
+[2022.05.06-14.51.42:606][761]Cmd: ACTOR DELETE
+[2022.05.06-14.51.42:657][761]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.42:667][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.06-14.51.42:670][761]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2022.05.06-14.51.43:714][804]Cmd: DELETE
+[2022.05.06-14.51.43:714][804]Cmd: ACTOR DELETE
+[2022.05.06-14.51.43:761][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.43:770][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.06-14.51.43:772][804]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.05.06-14.51.44:706][840]Cmd: DELETE
+[2022.05.06-14.51.44:706][840]Cmd: ACTOR DELETE
+[2022.05.06-14.51.44:755][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.44:765][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.06-14.51.44:766][840]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.05.06-14.51.45:807][881]Cmd: DELETE
+[2022.05.06-14.51.45:807][881]Cmd: ACTOR DELETE
+[2022.05.06-14.51.45:858][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.45:868][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.06-14.51.45:869][881]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2022.05.06-14.51.47:036][929]Cmd: DELETE
+[2022.05.06-14.51.47:036][929]Cmd: ACTOR DELETE
+[2022.05.06-14.51.47:087][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.47:096][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.05.06-14.51.47:098][929]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.05.06-14.51.50:638][ 70]Cmd: DELETE
+[2022.05.06-14.51.50:638][ 70]Cmd: ACTOR DELETE
+[2022.05.06-14.51.50:685][ 70]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.50:695][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.06-14.51.50:697][ 70]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.05.06-14.51.55:580][267]Cmd: DELETE
+[2022.05.06-14.51.55:580][267]Cmd: ACTOR DELETE
+[2022.05.06-14.51.55:629][267]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.55:640][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.05.06-14.51.55:642][267]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.05.06-14.51.56:377][300]Cmd: DELETE
+[2022.05.06-14.51.56:377][300]Cmd: ACTOR DELETE
+[2022.05.06-14.51.56:433][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-14.51.56:443][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.06-14.51.56:445][300]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2022.05.06-14.52.05:543][660]Cmd: TRANSACTION UNDO
+[2022.05.06-14.52.05:543][660]LogEditorTransaction: Undo Clicking on Elements
+[2022.05.06-14.53.40:806][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-14.53.40:815][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.06-14.53.41:323][320]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-14.53.41:324][320]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidEEBB51C8467561F35AED7E8147D3AC19.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-14.53.41:333][320]LogFileHelpers: No new changes to save!
+[2022.05.06-14.53.41:350][320]AssetCheck: New page: Asset Save: David
+[2022.05.06-14.53.41:350][320]LogContentValidation: Display: Validating World /Game/David.David
