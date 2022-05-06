@@ -985,3 +985,98 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.06-12.13.34:187][519]LogFileHelpers: No new changes to save!
 [2022.05.06-12.13.34:197][519]AssetCheck: New page: Asset Save: David
 [2022.05.06-12.13.34:197][519]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.14.32:974][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.06-12.14.32:974][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.06-12.14.32:975][902]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_172
+[2022.05.06-12.14.33:613][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.06-12.14.33:613][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03
+[2022.05.06-12.14.33:616][930]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Wall_Breakup03.Wall_Breakup03 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_179
+[2022.05.06-12.14.42:237][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.14.42:247][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.06-12.14.42:753][290]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.14.42:754][290]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David4984C8B443D942D408A640A801131924.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.14.42:763][290]LogFileHelpers: No new changes to save!
+[2022.05.06-12.14.42:778][290]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.14.42:778][290]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.14.45:217][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.06-12.14.45:217][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.06-12.14.45:219][387]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_755
+[2022.05.06-12.14.45:861][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.06-12.14.45:861][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02
+[2022.05.06-12.14.45:863][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/wall_breakup02.wall_breakup02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_1171
+[2022.05.06-12.14.48:809][528]Cmd: TRANSACTION UNDO
+[2022.05.06-12.14.48:810][528]LogEditorTransaction: Undo Rotate Elements
+[2022.05.06-12.14.50:344][578]Cmd: MODE ROTGRID=1
+[2022.05.06-12.14.55:797][776]Cmd: MODE ROTGRID=0
+[2022.05.06-12.14.57:983][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.14.57:991][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.06-12.14.58:497][859]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.14.58:497][859]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David6F2F4F414CE0B43765DEB994FB7A5C3F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.14.58:506][859]LogFileHelpers: No new changes to save!
+[2022.05.06-12.14.58:525][859]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.14.58:525][859]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.15.31:856][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.15.31:865][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.06-12.15.32:382][109]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.15.32:382][109]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David12E0266C41CE7465B99C8CBE47BD2725.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.15.32:391][109]LogFileHelpers: No new changes to save!
+[2022.05.06-12.15.32:423][109]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.15.32:423][109]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.15.37:251][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.15.37:260][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.05.06-12.15.37:770][287]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.15.37:771][287]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David2B7110C043774A553449178C12027BD6.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.15.37:780][287]LogFileHelpers: No new changes to save!
+[2022.05.06-12.15.37:797][287]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.15.37:797][287]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.15.45:396][582]Cmd: TRANSACTION UNDO
+[2022.05.06-12.15.45:396][582]LogEditorTransaction: Undo Clicking on Elements
+[2022.05.06-12.15.45:830][590]Cmd: TRANSACTION UNDO
+[2022.05.06-12.15.45:830][590]LogEditorTransaction: Undo Move Elements
+[2022.05.06-12.15.50:813][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.15.50:822][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.06-12.15.51:331][747]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.15.51:331][747]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidD58025CE4E1E5FABCDCAC8A259A6214E.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.15.51:340][747]LogFileHelpers: No new changes to save!
+[2022.05.06-12.15.51:373][747]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.15.51:373][747]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.15.59:353][ 59]Cmd: DELETE
+[2022.05.06-12.15.59:353][ 59]Cmd: ACTOR DELETE
+[2022.05.06-12.15.59:379][ 59]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0 is already used by Landscape /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:379][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeComponent_0 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:379][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeComponent_1 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:379][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeComponent_2 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:379][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeComponent_3 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:379][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeComponent_4 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:379][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeComponent_5 is already used by LandscapeComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:379][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_4 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:380][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_5 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:380][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_6 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:380][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_7 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:380][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_8 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:380][ 59]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPerson/Maps/Main.Main:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.05.06-12.15.59:420][ 59]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-12.15.59:430][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.06-12.15.59:432][ 59]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2022.05.06-12.16.02:161][168]Cmd: TRANSACTION UNDO
+[2022.05.06-12.16.02:161][168]LogEditorTransaction: Undo Delete Elements
+[2022.05.06-12.16.03:125][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.16.03:133][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.06-12.16.03:641][187]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.16.03:642][187]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidD375AB0E4E88BC04C1A1D1A96CECAA3C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.16.03:650][187]LogFileHelpers: No new changes to save!
+[2022.05.06-12.16.03:675][187]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.16.03:675][187]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-12.26.03:439][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.05.06-12.26.03:761][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Marika_Auto3
+[2022.05.06-12.26.03:761][745]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Marika_Auto3AE202FD94D1FB9D787F2F1A93AA5446C.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Marika_Auto3.umap'
+[2022.05.06-12.26.03:770][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.340
+[2022.05.06-12.26.03:770][745]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.340
+[2022.05.06-12.26.07:810][759]LogDerivedDataCache: C:/Users/wined/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.763 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.06-12.37.17:968][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-12.37.17:982][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.05.06-12.37.18:492][431]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-12.37.18:493][431]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidA421DEAE44305F3CC1C10D8479EA2490.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-12.37.18:502][431]LogFileHelpers: No new changes to save!
+[2022.05.06-12.37.18:521][431]AssetCheck: New page: Asset Save: David
+[2022.05.06-12.37.18:521][431]LogContentValidation: Display: Validating World /Game/David.David
