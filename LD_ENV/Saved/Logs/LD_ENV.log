@@ -1105,3 +1105,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.06-15.49.43:815][448]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main4D6B5D6D441F00FE9DDDE79F204F4A09.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
 [2022.05.06-15.49.43:836][448]AssetCheck: New page: Asset Save: Main
 [2022.05.06-15.49.43:836][448]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.05.06-15.51.24:040][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/Main" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-15.51.24:050][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.06-15.51.24:065][165]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Main
+[2022.05.06-15.51.24:065][165]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main4EEF840A4252E91A95F156AB0F63B351.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/Main.umap'
+[2022.05.06-15.51.24:098][165]AssetCheck: New page: Asset Save: Main
+[2022.05.06-15.51.24:098][165]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Main.Main
+[2022.05.06-15.51.24:346][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.06-15.51.24:846][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/David_Auto3
+[2022.05.06-15.51.24:846][170]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David_Auto332A0A98E40763C316202259158476516.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/David_Auto3.umap'
+[2022.05.06-15.51.24:856][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.518
+[2022.05.06-15.51.24:856][170]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.518
+[2022.05.06-15.51.58:990][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-15.51.58:998][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.06-15.51.59:498][765]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/David
+[2022.05.06-15.51.59:498][765]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David560B290043E16C28AF1B75A8C1DF9FD6.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/FirstPerson/Maps/David.umap'
+[2022.05.06-15.51.59:515][765]AssetCheck: New page: Asset Save: David
+[2022.05.06-15.51.59:515][765]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/David.David
