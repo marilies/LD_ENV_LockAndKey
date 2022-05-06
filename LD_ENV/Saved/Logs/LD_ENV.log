@@ -1005,3 +1005,327 @@ An asset already exists at the import location: /Game/ArchitecturalModules/Clutt
 [2022.05.06-08.24.22:449][  9]LogFileHelpers: No new changes to save!
 [2022.05.06-08.24.22:458][  9]AssetCheck: New page: Asset Save: David
 [2022.05.06-08.24.22:458][  9]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-08.24.47:089][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-08.24.47:095][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-08.24.47:095][264]PIE: New page: PIE session: Main (6 May 2022, 12:24:47)
+[2022.05.06-08.24.47:095][264]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-08.24.47:099][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003326s)
+[2022.05.06-08.24.47:099][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003393s)
+[2022.05.06-08.24.47:099][264]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-08.24.47:099][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-08.24.47:099][264]LogAIModule: Creating AISystem for world Main
+[2022.05.06-08.24.47:099][264]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2022.05.06-08.24.47:133][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.06-08.24.47:135][264]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.06-08.24.47:135][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-08.24.47:135][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-08.24.47:135][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-08.24.47:135][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-08.24.47:135][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-08.24.47:135][264]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-08.24.47:135][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-08.24.47:135][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-08.24.47:136][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-08.24.47:136][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-08.24.47:136][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-08.24.47:137][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-08.24.47:173][264]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-08.24.47:173][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-08.24.47:174][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-08.24.47:174][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-08.24.47:174][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.05.06-08.24.47:174][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.05.06-08.24.47:175][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.05.06-08.24.47:175][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.05.06-08.24.47:175][264]LogInit: FAudioDevice initialized.
+[2022.05.06-08.24.47:175][264]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2022.05.06-08.24.47:190][264]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-08.24.47:502][264]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-10.24.47
+[2022.05.06-08.24.47:504][264]LogWorld: Bringing up level for play took: 0.003001
+[2022.05.06-08.24.47:505][264]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.05.06-08.24.47:512][264]PIE: Server logged in
+[2022.05.06-08.24.47:512][264]PIE: Play in editor total start time 0,418 seconds.
+[2022.05.06-08.24.47:551][264]LogAudio: Warning: Detected orphaned looping sound 'New_Composition_10_Cue'.
+[2022.05.06-08.24.47:587][265]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066483 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2022.05.06-08.25.54:136][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-08.25.54:136][507]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-08.25.54:151][507]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-08.25.54:152][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-08.25.54:171][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-08.25.54:176][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-08.25.54:187][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.06-08.25.54:193][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.05.06-08.25.54:194][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.05.06-08.25.54:198][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-08.25.54:220][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.06-08.25.54:276][508]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.05.06-08.25.54:284][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.06-08.26.08:442][325]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.06-08.26.08:448][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-08.26.08:449][325]PIE: New page: PIE session: Main (6 May 2022, 12:26:08)
+[2022.05.06-08.26.08:449][325]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-08.26.08:452][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003604s)
+[2022.05.06-08.26.08:452][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Main.Main to /Game/FirstPerson/Maps/UEDPIE_0_Main.Main (0.003697s)
+[2022.05.06-08.26.08:452][325]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.06-08.26.08:453][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-08.26.08:453][325]LogAIModule: Creating AISystem for world Main
+[2022.05.06-08.26.08:453][325]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2022.05.06-08.26.08:461][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.06-08.26.08:463][325]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.06-08.26.08:463][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-08.26.08:463][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-08.26.08:463][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-08.26.08:463][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-08.26.08:463][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-08.26.08:463][325]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.06-08.26.08:463][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-08.26.08:463][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-08.26.08:464][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-08.26.08:464][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-08.26.08:464][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-08.26.08:466][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.06-08.26.08:500][325]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.05.06-08.26.08:500][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-08.26.08:500][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-08.26.08:500][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-08.26.08:501][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.05.06-08.26.08:501][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.05.06-08.26.08:502][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.05.06-08.26.08:502][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.05.06-08.26.08:502][325]LogInit: FAudioDevice initialized.
+[2022.05.06-08.26.08:502][325]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2022.05.06-08.26.08:515][325]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.05.06-08.26.08:827][325]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.05.06-10.26.08
+[2022.05.06-08.26.08:829][325]LogWorld: Bringing up level for play took: 0.003187
+[2022.05.06-08.26.08:830][325]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.05.06-08.26.08:836][325]PIE: Server logged in
+[2022.05.06-08.26.08:836][325]PIE: Play in editor total start time 0,388 seconds.
+[2022.05.06-08.26.08:876][325]LogAudio: Warning: Detected orphaned looping sound 'New_Composition_10_Cue'.
+[2022.05.06-08.26.46:286][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-08.26.46:286][105]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Main
+[2022.05.06-08.26.46:301][105]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-08.26.46:301][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-08.26.46:324][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-08.26.46:328][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-08.26.46:348][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-08.26.46:348][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.05.06-08.26.46:349][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.05.06-08.26.46:373][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.06-08.26.46:427][106]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.06-08.26.46:436][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.06-08.27.00:051][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.05.06-08.27.00:051][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.05.06-08.27.00:053][733]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_21
+[2022.05.06-08.27.01:484][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.05.06-08.27.01:484][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04
+[2022.05.06-08.27.01:487][793]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Clutter/Rubble04.Rubble04 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_22
+[2022.05.06-08.27.24:194][844]Cmd: DELETE
+[2022.05.06-08.27.24:194][844]Cmd: ACTOR DELETE
+[2022.05.06-08.27.24:259][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.06-08.27.24:271][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.06-08.27.24:274][844]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2022.05.06-08.27.28:776][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken02.Wall02_Broken02
+[2022.05.06-08.27.28:776][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken02.Wall02_Broken02
+[2022.05.06-08.27.28:777][ 26]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken02.Wall02_Broken02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_25
+[2022.05.06-08.27.30:078][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken02.Wall02_Broken02
+[2022.05.06-08.27.30:078][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken02.Wall02_Broken02
+[2022.05.06-08.27.30:080][ 81]LogActorFactory: Actor Factory spawned StaticMesh /Game/ArchitecturalModules/Walls/Wall02_Broken02.Wall02_Broken02 as actor: StaticMeshActor /Game/David.David:PersistentLevel.StaticMeshActor_27
+[2022.05.06-08.28.03:638][630]Cmd: DELETE
+[2022.05.06-08.28.03:638][630]Cmd: ACTOR DELETE
+[2022.05.06-08.28.03:683][630]LogEditorActor: Deleted Actor: BP_Light_Torch_C
+[2022.05.06-08.28.03:692][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.06-08.28.03:695][630]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.05.06-08.28.05:270][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-08.28.05:279][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.06-08.28.05:789][706]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-08.28.05:789][706]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David84BF3D354E85BBAA27A9EF84C6DD10B2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-08.28.05:798][706]LogFileHelpers: No new changes to save!
+[2022.05.06-08.28.05:808][706]AssetCheck: New page: Asset Save: David
+[2022.05.06-08.28.05:808][706]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-08.38.05:687][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.06-08.38.05:702][308]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Main_Auto1
+[2022.05.06-08.38.05:702][308]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Main_Auto1A83D7C544BC3EB3FB2C20798552B4A90.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Main_Auto1.umap'
+[2022.05.06-08.38.06:023][308]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/Marika_Auto1
+[2022.05.06-08.38.06:023][308]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Marika_Auto1E056AA474EDF0B7BD33A2EB62F9C00C6.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Autosaves/Game/FirstPerson/Maps/Marika_Auto1.umap'
+[2022.05.06-08.38.06:031][308]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Main' took 0.353
+[2022.05.06-08.38.06:031][308]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.353
+[2022.05.06-08.45.27:398][825]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Candle01.fbx]
+[2022.05.06-08.45.27:403][825]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Candle01.fbx
+[2022.05.06-08.45.27:409][825]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-08.45.27:440][825]LogFbx: Display: Triangulating static mesh polySurface2
+[2022.05.06-08.45.27:537][825]LogStaticMesh: Display: Building static mesh Candle01...
+[2022.05.06-08.45.28:043][825]LogStaticMesh: Built static mesh [0.51s] /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.06-08.45.28:052][825]LogStaticMesh: Display: Building static mesh Candle01...
+[2022.05.06-08.45.28:540][825]LogStaticMesh: Built static mesh [0.49s] /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.06-08.45.28:608][825]LogEditorFactories: -- imported successfully
+[2022.05.06-08.45.30:387][871]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-08.45.30:387][871]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-08.45.31:857][903]LogStaticMesh: Display: Building static mesh Candle01...
+[2022.05.06-08.45.31:869][904]LogStaticMesh: Adjacency [0.00s], tris: 3420, UVs 2
+[2022.05.06-08.45.31:875][904]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2022.05.06-08.45.31:875][904]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-08.45.31:875][904]LogStaticMesh: Num clusters 27. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-08.45.31:965][907]LogStaticMesh: Num clusters 14. Error 0.0058, 0.0058, 0.0058
+[2022.05.06-08.45.32:008][908]LogStaticMesh: Num clusters 7. Error 0.0199, 0.0199, 0.0199
+[2022.05.06-08.45.32:026][908]LogStaticMesh: Num clusters 4. Error 0.0652, 0.0652, 0.0652
+[2022.05.06-08.45.32:038][909]LogStaticMesh: Num clusters 2. Error 0.1500, 0.1500, 0.1500
+[2022.05.06-08.45.32:043][909]LogStaticMesh: Num clusters 1. Error 0.3946, 0.3946, 0.3946
+[2022.05.06-08.45.32:043][909]LogStaticMesh: Reduce [0.17s]
+[2022.05.06-08.45.32:053][909]LogStaticMesh: Fallback 0/4 [0.01s], num tris: 255
+[2022.05.06-08.45.32:197][913]LogStaticMesh: Fallback 1/4 [0.14s], num tris: 126
+[2022.05.06-08.45.32:332][917]LogStaticMesh: Fallback 2/4 [0.14s], num tris: 64
+[2022.05.06-08.45.32:474][922]LogStaticMesh: Fallback 3/4 [0.14s], num tris: 64
+[2022.05.06-08.45.32:474][922]LogStaticMesh: ConstrainClusters:
+[2022.05.06-08.45.32:474][922]LogStaticMesh:   Input: 55 Clusters, 6944 Triangles and 5285 Vertices
+[2022.05.06-08.45.32:474][922]LogStaticMesh:   Output without splits: 55 Clusters, 6944 Triangles and 5380 Vertices
+[2022.05.06-08.45.32:475][922]LogStaticMesh:   Output with splits: 55 Clusters, 6944 Triangles and 5380 Vertices
+[2022.05.06-08.45.32:475][922]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 55, Slow Path Clusters: 0, 1 Material: 55, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-08.45.32:477][922]LogStaticMesh: WritePages:
+[2022.05.06-08.45.32:477][922]LogStaticMesh:   Root: GPU size: 31396 bytes. 1 Pages. 31396.000 bytes per page (95.813% utilization).
+[2022.05.06-08.45.32:477][922]LogStaticMesh:   Streaming: GPU size: 53360 bytes. 1 Pages. 53360.000 bytes per page (40.710% utilization).
+[2022.05.06-08.45.32:477][922]LogStaticMesh:   Page data disk size: 65952 bytes. Fixup data size: 312 bytes.
+[2022.05.06-08.45.32:477][922]LogStaticMesh:   Total GPU size: 84756 bytes, Total disk size: 66264 bytes.
+[2022.05.06-08.45.32:477][922]LogStaticMesh: Encode [0.00s]
+[2022.05.06-08.45.32:477][922]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-08.45.32:477][922]LogStaticMesh: Nanite build [0.60s]
+
+[2022.05.06-08.45.32:480][922]LogStaticMesh: Built static mesh [0.63s] /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.06-08.45.43:265][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-08.45.43:277][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.06-08.45.43:797][377]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-08.45.43:798][377]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidAC61CA4248D73CDDF2DCEF855A83C097.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-08.45.43:806][377]LogFileHelpers: No new changes to save!
+[2022.05.06-08.45.43:823][377]AssetCheck: New page: Asset Save: David
+[2022.05.06-08.45.43:823][377]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-08.45.48:835][605]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.06-08.45.48:885][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.06-08.45.55:476][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Braziers/Candle01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Candle01.uasset" SILENT=true
+[2022.05.06-08.45.55:486][810]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Braziers/Candle01
+[2022.05.06-08.45.55:486][810]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Candle0197638B0545C1E7DA29BE16AF1290BD4F.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Candle01.uasset'
+[2022.05.06-08.45.55:500][810]AssetCheck: New page: Asset Save: Candle01
+[2022.05.06-08.45.55:500][810]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Braziers/Candle01.Candle01
+[2022.05.06-08.45.57:542][879]LogSlate: Window 'Candle01' being destroyed
+[2022.05.06-08.45.57:607][879]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-08.45.57:607][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-08.46.13:539][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-08.46.13:548][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.06-08.46.14:052][594]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-08.46.14:053][594]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David86CD576641271CD72D3DC19D06046DF3.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-08.46.14:061][594]LogFileHelpers: No new changes to save!
+[2022.05.06-08.46.14:078][594]AssetCheck: New page: Asset Save: David
+[2022.05.06-08.46.14:078][594]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-08.51.26:732][309]LogEditorFactories: Performing atomic reimport of [D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Candles01.fbx]
+[2022.05.06-08.51.26:738][309]LogFbx: Loading FBX Scene from D:/Unreal Engine/Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Import/Architectural Pass/Candles01.fbx
+[2022.05.06-08.51.26:747][309]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.06-08.51.26:784][309]LogFbx: Display: Triangulating static mesh Bowl01
+[2022.05.06-08.51.26:873][309]LogFbx: Display: Triangulating static mesh Candle01
+[2022.05.06-08.51.26:990][309]LogFbx: Display: Triangulating static mesh Candle02
+[2022.05.06-08.51.27:086][309]LogStaticMesh: Display: Building static mesh Candles01...
+[2022.05.06-08.51.28:427][309]LogStaticMesh: Built static mesh [1.34s] /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.06-08.51.28:435][309]LogStaticMesh: Display: Building static mesh Candles01...
+[2022.05.06-08.51.29:736][309]LogStaticMesh: Built static mesh [1.30s] /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.06-08.51.29:812][309]LogEditorFactories: -- imported successfully
+[2022.05.06-08.51.29:831][309]LogStaticMesh: Display: Building static mesh Candles01...
+[2022.05.06-08.51.29:831][309]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ArchitecturalModules/Braziers/Candles01) ...
+[2022.05.06-08.51.31:125][309]LogStaticMesh: Built static mesh [1.30s] /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.06-08.51.31:139][309]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.54.06:424][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Braziers/Candles01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Candles01.uasset" SILENT=true
+[2022.05.06-08.54.06:443][986]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Braziers/Candles01
+[2022.05.06-08.54.06:443][986]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Candles01AFEDCFD54BD3F4584AFD8CA7B1F7D0B4.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Candles01.uasset'
+[2022.05.06-08.54.06:455][986]AssetCheck: New page: Asset Save: Candles01
+[2022.05.06-08.54.06:455][986]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.06-08.54.36:165][237]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.06-08.54.42:148][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-08.54.42:157][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.06-08.54.42:676][576]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-08.54.42:676][576]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David10A494DA448C6BF2A7755F951958F699.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-08.54.42:685][576]LogFileHelpers: No new changes to save!
+[2022.05.06-08.54.42:695][576]AssetCheck: New page: Asset Save: David
+[2022.05.06-08.54.42:695][576]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-08.54.54:539][103]LogStaticMesh: Display: Building static mesh Candles01...
+[2022.05.06-08.54.54:582][106]LogStaticMesh: Adjacency [0.00s], tris: 9400, UVs 2
+[2022.05.06-08.54.54:594][107]LogStaticMesh: Clustering [0.01s]. Ratio: 1.013514
+[2022.05.06-08.54.54:595][107]LogStaticMesh: Leaves [0.00s]
+[2022.05.06-08.54.54:595][107]LogStaticMesh: Num clusters 75. Error 0.0000, 0.0000, 0.0000
+[2022.05.06-08.54.54:657][110]LogStaticMesh: Num clusters 38. Error 0.0054, 0.0326, 0.0658
+[2022.05.06-08.54.54:714][113]LogStaticMesh: Num clusters 19. Error 0.0658, 0.1655, 0.2764
+[2022.05.06-08.54.54:774][117]LogStaticMesh: Num clusters 10. Error 0.3245, 0.3245, 0.3245
+[2022.05.06-08.54.54:801][118]LogStaticMesh: Num clusters 5. Error 0.7573, 0.7573, 0.7573
+[2022.05.06-08.54.54:813][119]LogStaticMesh: Num clusters 3. Error 1.4713, 1.4713, 1.4713
+[2022.05.06-08.54.54:826][120]LogStaticMesh: Num clusters 2. Error 2.0467, 2.0467, 2.0467
+[2022.05.06-08.54.54:828][120]LogStaticMesh: Num clusters 1. Error 4.9603, 4.9603, 4.9603
+[2022.05.06-08.54.54:828][120]LogStaticMesh: Reduce [0.24s]
+[2022.05.06-08.54.54:906][124]LogStaticMesh: Fallback 0/4 [0.08s], num tris: 859
+[2022.05.06-08.54.55:143][138]LogStaticMesh: Fallback 1/4 [0.24s], num tris: 429
+[2022.05.06-08.54.55:306][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchitecturalModules/Braziers/Candles01" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Candles01.uasset" SILENT=true
+[2022.05.06-08.54.55:324][144]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ArchitecturalModules/Braziers/Candles01) ...
+[2022.05.06-08.54.55:515][144]LogStaticMesh: Fallback 2/4 [0.24s], num tris: 213
+[2022.05.06-08.54.55:648][144]LogStaticMesh: Fallback 3/4 [0.23s], num tris: 106
+[2022.05.06-08.54.55:648][144]LogStaticMesh: ConstrainClusters:
+[2022.05.06-08.54.55:648][144]LogStaticMesh:   Input: 153 Clusters, 19221 Triangles and 14951 Vertices
+[2022.05.06-08.54.55:648][144]LogStaticMesh:   Output without splits: 153 Clusters, 19221 Triangles and 15164 Vertices
+[2022.05.06-08.54.55:648][144]LogStaticMesh:   Output with splits: 153 Clusters, 19221 Triangles and 15164 Vertices
+[2022.05.06-08.54.55:648][144]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 153, Slow Path Clusters: 0, 1 Material: 153, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2022.05.06-08.54.55:648][144]LogStaticMesh: WritePages:
+[2022.05.06-08.54.55:648][144]LogStaticMesh:   Root: GPU size: 32468 bytes. 1 Pages. 32468.000 bytes per page (99.084% utilization).
+[2022.05.06-08.54.55:648][144]LogStaticMesh:   Streaming: GPU size: 201208 bytes. 2 Pages. 100604.000 bytes per page (76.755% utilization).
+[2022.05.06-08.54.55:649][144]LogStaticMesh:   Page data disk size: 182260 bytes. Fixup data size: 752 bytes.
+[2022.05.06-08.54.55:649][144]LogStaticMesh:   Total GPU size: 233676 bytes, Total disk size: 183012 bytes.
+[2022.05.06-08.54.55:649][144]LogStaticMesh: Encode [0.01s]
+[2022.05.06-08.54.55:649][144]LogStaticMesh: Imposter [0.00s]
+[2022.05.06-08.54.55:649][144]LogStaticMesh: Nanite build [1.03s]
+
+[2022.05.06-08.54.55:649][144]LogStaticMesh: Built static mesh [1.10s] /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.06-08.54.55:649][144]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Braziers/Candles01
+[2022.05.06-08.54.55:649][144]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Candles012E4167254FBC051C13E10083BB2844AA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Braziers/Candles01.uasset'
+[2022.05.06-08.54.55:659][144]AssetCheck: New page: Asset Save: Candles01
+[2022.05.06-08.54.55:659][144]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Braziers/Candles01.Candles01
+[2022.05.06-08.54.55:660][144]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.55.38:617][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.06-08.55.42:332][722]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-08.55.42:401][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-08.55.42:409][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.06-08.55.42:931][722]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-08.55.42:932][722]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/David23D9366A40E14A43526C459A650D45E2.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-08.55.42:940][722]LogFileHelpers: No new changes to save!
+[2022.05.06-08.55.42:940][722]LogFileHelpers: Saving map 'David' took 0.541
+[2022.05.06-08.55.42:950][722]AssetCheck: New page: Asset Save: David
+[2022.05.06-08.55.42:950][722]LogContentValidation: Display: Validating World /Game/David.David
+[2022.05.06-08.55.46:708][841]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ArchitecturalModules/Walls/Wall_Catacomb02) ...
+[2022.05.06-08.55.46:714][842]LogStaticMesh: Warning: Wall_Catacomb02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.06-08.55.46:714][842]LogStaticMesh: Warning: Wall_Catacomb02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.06-08.55.46:715][842]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.55.47:758][886]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb02
+[2022.05.06-08.55.47:758][886]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02FE042C994B9A18BD612A93A58A5F55C8.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb02.uasset'
+[2022.05.06-08.55.47:768][886]AssetCheck: New page: Asset Save: Wall_Catacomb02
+[2022.05.06-08.55.47:768][886]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02.Wall_Catacomb02
+[2022.05.06-08.55.59:636][311]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.56.00:380][338]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken
+[2022.05.06-08.56.00:380][338]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01_Art_Deep_Broken223D9E6047F92435B85D989F8A0CE1EA.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.uasset'
+[2022.05.06-08.56.00:391][338]AssetCheck: New page: Asset Save: Wall_Catacomb01_Art_Deep_Broken
+[2022.05.06-08.56.00:391][338]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Art_Deep_Broken.Wall_Catacomb01_Art_Deep_Broken
+[2022.05.06-08.56.11:570][619]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.05.06-08.56.11:570][619]LogStaticMesh: Warning: Wall_Catacomb02_Shallow has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.05.06-08.56.12:294][646]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow
+[2022.05.06-08.56.12:295][646]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb02_ShallowA28102EB4BD963C00D0FC7B71E1410D5.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.uasset'
+[2022.05.06-08.56.12:307][646]AssetCheck: New page: Asset Save: Wall_Catacomb02_Shallow
+[2022.05.06-08.56.12:307][646]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb02_Shallow.Wall_Catacomb02_Shallow
+[2022.05.06-08.56.28:483][231]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.56.28:483][231]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.56.28:483][231]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.56.28:483][231]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.56.28:483][231]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.56.28:483][231]LogNavigation: Warning: FNavigationOctree::AddNode: Ignoring StaticMeshComponent0 because bounds are invalid.
+[2022.05.06-08.56.29:229][258]LogSavePackage: Moving output files for package: /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken
+[2022.05.06-08.56.29:230][258]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/Wall_Catacomb01_BrokenCFCFD8C64AD5406C8943069ACCF59D4A.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.uasset'
+[2022.05.06-08.56.29:240][258]AssetCheck: New page: Asset Save: Wall_Catacomb01_Broken
+[2022.05.06-08.56.29:240][258]LogContentValidation: Display: Validating StaticMesh /Game/ArchitecturalModules/Walls/Wall_Catacomb01_Broken.Wall_Catacomb01_Broken
+[2022.05.06-08.56.37:084][512]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-08.56.37:084][512]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.06-08.56.52:568][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/David" FILE="../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.06-08.56.52:576][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.05.06-08.56.53:083][992]LogSavePackage: Moving output files for package: /Game/David
+[2022.05.06-08.56.53:084][992]LogSavePackage: Moving '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Saved/DavidE55AB06046261A439AE9DCBAA22642FF.tmp' to '../../../../Env_LockAndKey/LD_ENV_LockAndKey/LD_ENV/Content/David.umap'
+[2022.05.06-08.56.53:092][992]LogFileHelpers: No new changes to save!
+[2022.05.06-08.56.53:102][992]AssetCheck: New page: Asset Save: David
+[2022.05.06-08.56.53:102][992]LogContentValidation: Display: Validating World /Game/David.David
